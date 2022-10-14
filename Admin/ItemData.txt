@@ -14,8 +14,8 @@ Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
 Cattail_water 90 water Cattail
-Log 30 ground
 Log_water 30 water Log
+Log 30 ground
 ;
 Island_Knottshurr: 30 45
 BlueLog 100 trees
