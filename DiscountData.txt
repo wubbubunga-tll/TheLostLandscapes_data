@@ -80,4 +80,13 @@ HasCostOvrwrite=true
 CostOverwrite=1,diamonds
 HasDeadline=true
 Deadline=10/16/2022 3:08:09 PM
+;
+ID=Monsters/Knott_special
+MarketSortersID=monsters
+IsIslandSpecific=false
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=228,vortex
+HasDeadline=true
+Deadline=10/19/2022 3:00:00 PM
 
