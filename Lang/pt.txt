@@ -1,7 +1,7 @@
 ﻿------- 
 #--MONSTERS--#
 
-Monsters/Monster_banno_rare=Rare banno
+Monsters/Monster_banno_rare=Bannorio Raro 
 Monsters/Monster_banno_rare_bio=yeeeeeee
 
 Monsters/Monster_spurrit=Spurrit
