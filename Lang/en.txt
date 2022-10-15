@@ -289,23 +289,23 @@ Structures/Structure_breeding_undof2=Enhanced Breeding Structure
 Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
 
 
-Structures/Structure_castle_undof=Castle
-Structures/Structure_castle_undof_bio=Castle
+Structures/Structure_castle_undof=Basic Castle
+Structures/Structure_castle_undof_bio=Basic Castle bio...
 
-Structures/Structure_castle_undof2=Castle2
-Structures/Structure_castle_undof2_bio=Castle
+Structures/Structure_castle_undof2=Modest Castle
+Structures/Structure_castle_undof2_bio=Modest Castle bio...
 
-Structures/Structure_castle_undof3=Castle3
-Structures/Structure_castle_undof3_bio=Castle
+Structures/Structure_castle_undof3=Comfortable Castle
+Structures/Structure_castle_undof3_bio=Comfortable Castle bio...
 
-Structures/Structure_castle_undof4=Castle4
-Structures/Structure_castle_undof4_bio=Castle
+Structures/Structure_castle_undof4=Spacious Castle
+Structures/Structure_castle_undof4_bio=Spacious Castle bio...
 
-Structures/Structure_castle_undof5=Castle5
-Structures/Structure_castle_undof5_bio=Castle
+Structures/Structure_castle_undof5=Luxurious Castle
+Structures/Structure_castle_undof5_bio=Luxurious Castle bio...
 
-Structures/Structure_castle_undof6=Castle6
-Structures/Structure_castle_undof6_bio=Castle
+Structures/Structure_castle_undof6=Extravagant Castle
+Structures/Structure_castle_undof6_bio=Extravagant Castle bio...
 
 Structures/Structure_bakery=Bakery
 Structures/Structure_bakery_bio=Bakery bio
@@ -402,7 +402,7 @@ Monsters/Monster_claramel_bio=Claramel bio
 Monsters/Monster_sprinklate=Sprinklate
 Monsters/Monster_sprinklate_bio=Cakehorn bio
 
-Monsters/Monster_jamboree_undof=Jam boree
+Monsters/Monster_jamboree_undof=Jam Boree
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
 
 Monsters/Monster_ghazt_undof=Ghazt
