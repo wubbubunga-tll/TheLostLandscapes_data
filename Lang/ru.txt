@@ -269,6 +269,36 @@ Structures/Structure_jukebox_bio=Jukebox bio
 Structures/Structure_bass=Бас-машина
 Structures/Structure_bass_bio=Bass machine bio
 
+Structures/Structure_knottmaker1=Странное Сооружение
+Structures/Structure_knottmaker1_bio=A strange contraption bio
+
+Structures/Structure_knottmaker2=Восстановленный Амальгаметор
+Structures/Structure_knottmaker2_bio=Amalgamator bio
+
+Structures/Structure_knottmaker3=Амальгаметор
+Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
+
+Structures/Structure_knottmaker4=Улучшенный Амальгаметор
+Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
+
+Structures/Structure_castle_undof=Основной Дворец
+Structures/Structure_castle_undof_bio=Basic Castle bio...
+
+Structures/Structure_castle_undof2=Скромный Дворец
+Structures/Structure_castle_undof2_bio=Modest Castle bio...
+
+Structures/Structure_castle_undof3=Удобный Дворец
+Structures/Structure_castle_undof3_bio=Comfortable Castle bio...
+
+Structures/Structure_castle_undof4=Просторный Дворец
+Structures/Structure_castle_undof4_bio=Spacious Castle bio...
+
+Structures/Structure_castle_undof5=Роскошный Дворец
+Structures/Structure_castle_undof5_bio=Luxurious Castle bio...
+
+Structures/Structure_castle_undof6=Экстравагантный Дворец
+Structures/Structure_castle_undof6_bio=Extravagant Castle bio...
+
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
 Monsters/Composer/Monster_toejammer_composer=Toe Jammer
@@ -340,6 +370,32 @@ Monsters/Monster_sprinklate_bio=Cakehorn bio
 Monsters/Monster_jamboree_undof=Празднень
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
 
+Monsters/Monster_schmoochle=Поцелщик
+Monsters/Monster_schmoochle=Поцелщик био
+
+Monsters/Monster_fleechwurm_undof=Червеугодник
+Monsters/Monster_fleechwurm_undof_bio=Червеугодник био
+
+Monsters/Monster_ghazt_undof=Вужас
+Monsters/Monster_ghazt_undof_bio=Вужас биология
+
+Monsters/Monster_boskus=Шнобель
+Monsters/Monster_boskus_bio=Шнобель биология
+
+Monsters/Monster_pango=Пингван
+Monsters/Monster_pango_bio=Азу найдёт это?
+
+Monsters/Monster_tiawa=Диадама
+Monsters/Monster_tiawa_bio=Диадама абобио
+
+Monsters/Monster_arackulele=Паукулеле
+Monsters/Monster_arackulele_bio=Пукулеле Био
+
+Monsters/Monster_punkleton=Скелетыква
+Monsters/Monster_punkleton_bio=Скелепуква Био
+
+Monsters/Monster_ffydill=Склеверипка
+Monsters/Monster_ffydill_bio=Склевепипка био
 
 EM_path1=Сырые Камешки
 EM_path1_bio=These stones are soaked! Maybe some thirsty monster created a mess while taking a drink here?
@@ -440,8 +496,8 @@ Decoration/Obstacle_placable_EM_5_bio=Bio
 Decoration/Obstacle_placable_EM_6=Слоеный гриб
 Decoration/Obstacle_placable_EM_6_bio=Bio
 
-ObstacleCommonRocks_bio=Removed rocks will be taken far away to wonderful new homes.
-ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted.
+ObstacleCommonRocks_bio=Выкопанные камни будут увезены далеко-далеко в замечательные новые дома.
+ObstacleCommonTrees_bio=Не волнуйтесь; выкорченные деревья будут увезены далеко-далеко и аккуратно пересажены. 
 
 Decoration/Obstacle_Candy_1=Маленький Камень. <ref>ObstacleCommonRocks_bio
 Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
@@ -456,7 +512,7 @@ Decoration/Obstacle_Candy_5_bio=It's a Medium Tree. <ref>ObstacleCommonTrees_bio
 Decoration/Obstacle_Candy_6=Большое Дерево
 Decoration/Obstacle_Candy_6_bio=It's a Big Tree. <ref>ObstacleCommonTrees_bio
 
-ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
+ObstaclePlacableCommon_bio=Помните, мы говорили, что деревья и камни, которые уберут с ваших островов, обретут новые дома в другом месте? Хорошие новости - это деревья и камни с других островов, а ваши острова - их новые дома! Потоясающе, не правда-ли?
 
 Decoration/Obstacle_placable_Candy_1=Маленький Камень
 Decoration/Obstacle_placable_Candy_1_bio=<ref>ObstaclePlacableCommon_bio
@@ -470,6 +526,57 @@ Decoration/Obstacle_placable_Candy_5=Среднее Дерево
 Decoration/Obstacle_placable_Candy_5_bio=<ref>ObstaclePlacableCommon_bio
 Decoration/Obstacle_placable_Candy_6=Большое Дерево
 Decoration/Obstacle_placable_Candy_6_bio=<ref>ObstaclePlacableCommon_bio
+
+ObstacleCommonBones_bio=Выкорченные кости уберут подальше и измельчат их в костную муку.
+ObstaclePlacableBones_bio=Помните, мы говорили, что кости, которые вы выкорчили со своих островов, измельчаются в костную муку? Хорошая новость - мы соврали и это те кости, которые вы убрали. Теперь живите с этим :>
+
+ObstacleKnottTree=Это дерево.В нём содержится особая сила, способная воссоздать жизнь. Не волнуйся, если ты срубишь его, то это не повредит природе острова. Тут всё уже давно мертво...
+ObstacleKnottRock=Этот камень такой же как и остальные камни на этом острове, но у него есть потенциал. Он полон волшебной силы! Многие этих из камней потеряли свои способности со временем. Ну что ж... Ничего не поделаешь.
+
+Decoration/Obstacle_Knott_1=Пушистое дерево
+Decoration/Obstacle_Knott_1_bio=This is a Fluff tree. <ref>ObstacleKnottTree
+Decoration/Obstacle_Knott_2=Более пушистое дерево
+Decoration/Obstacle_Knott_2_bio=This is a Fluff tree but it's much mre fluffy that the usualy fluff tree. <ref>ObstacleKnottTree
+Decoration/Obstacle_Knott_3=Самое пушистое дерево
+Decoration/Obstacle_Knott_3_bio=This is a Fluff tree. It's the fluffiest one yet. <ref>ObstacleKnottTree
+
+Decoration/Obstacle_Knott_4=Маленькая кость
+Decoration/Obstacle_Knott_4_bio=<ref>ObstacleCommonBones_bio
+Decoration/Obstacle_Knott_5=Средняя кость
+Decoration/Obstacle_Knott_5_bio=<ref>ObstacleCommonBones_bio
+Decoration/Obstacle_Knott_6=Большая кость
+Decoration/Obstacle_Knott_6_bio=<ref>ObstacleCommonBones_bio
+
+Decoration/Obstacle_Knott_7=<ref>Decoration/Obstacle_Candy_1
+Decoration/Obstacle_Knott_7_bio=<ref>ObstacleKnottRock
+Decoration/Obstacle_Knott_8=<ref>Decoration/Obstacle_Candy_2
+Decoration/Obstacle_Knott_8_bio=<ref>ObstacleKnottRock
+Decoration/Obstacle_Knott_9=<ref>Decoration/Obstacle_Candy_3
+Decoration/Obstacle_Knott_9_bio=<ref>ObstacleKnottRock
+
+Decoration/Obstacle_Knott_10=Выкопанная чёрная дыра
+Decoration/Obstacle_Knott_10_bio=Эта чёрная дыра искусственного происхождения. Так странно!
+
+Decoration/Obstacle_placable_Knott_1=<ref>Decoration/Obstacle_Knott_1
+Decoration/Obstacle_placable_Knott_1_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_2=<ref>Decoration/Obstacle_Knott_2
+Decoration/Obstacle_placable_Knott_2_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_3=<ref>Decoration/Obstacle_Knott_3
+Decoration/Obstacle_placable_Knott_3_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_4=<ref>Decoration/Obstacle_Knott_4
+Decoration/Obstacle_placable_Knott_4_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_placable_Knott_5=<ref>Decoration/Obstacle_Knott_5
+Decoration/Obstacle_placable_Knott_5_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_placable_Knott_6=<ref>Decoration/Obstacle_Knott_6
+Decoration/Obstacle_placable_Knott_6_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_placable_Knott_7=<ref>Decoration/Obstacle_Knott_7
+Decoration/Obstacle_placable_Knott_7_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_8=<ref>Decoration/Obstacle_Knott_8
+Decoration/Obstacle_placable_Knott_8_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_9=<ref>Decoration/Obstacle_Knott_9
+Decoration/Obstacle_placable_Knott_9_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
+Decoration/Obstacle_placable_Knott_10_bio=Если вам так нравятся странные дыры искусственного происхождения, то всегда найдётся безопасный экземпляр.
 
 Decoration/Dog=Гончая
 Decoration/Dog_bio=Это самый хороший мальчик в мире. Лучше этого пса нигде не найти. Он умеет выполнять множество разных команд, пойдёт за вами куда-угодно, очень воспитан, много еды не просит, всегда будет предан любому монстру и человеку, помогает по хозяйству, хорошо готовит, читает сказки на ночь (тем не менее он остаётся молчалив) и профессионально водит машину. Гончая создавал невероятные творения, такие как "Джаконда Мона Лиза", "Чёрный квадрат", "3 Медведя" и другие, он спроектировал и сам построил статую Свободы и Эйфелеву башню. Гончая неоднократно прослеживался во многих исторических событиях. Он ветеран 2 мировой и очень гордится этим званием. Он написал первую книгу, открывал Олимпийские игры и был в них судьей. Да что уж там Олимпийские игры, Гончая основал сам Рим! Он изобрёл колесо и объяснил людям как делать инструменты. И самое главное, благодаря Гончей люди добыли огонь. Все говорят, то что человек приручил волка, но это не так! На самом деле Гончая приручил человека и внушил что его родственники ему не враги. Поговаривают что из-за него и случился тот самый большой взрыв когда он случайно чихнул. У этого пса очень богатая история. И знаете, на вашем месте я бы его боялся...
@@ -494,6 +601,25 @@ str_currency_coins=Монеты
 str_currency_diamonds=Бриллианты
 str_currency_food=Еда
 str_currency_stars=Звёздность
+str_currency_BloodCells=Кровяное Тельце
+str_currency_BlueLog=Бревно Неуверен
+str_currency_Log=Бревно
+str_currency_Bone=Кость
+str_currency_Candycane=Конфетная Тросточка
+str_currency_Candycorn=Конфетная Кукурузка
+str_currency_Cattail=Рогоз
+str_currency_Flower_blue=Голубой Мак
+str_currency_Flower_red=Роза
+str_currency_Flower_yellow=Цветуванчик
+str_currency_Fruit_apple=Яблоника
+str_currency_Peppermint=Мятная Конфета
+str_currency_Rock=Камень
+str_currency_Vortex=Тёмная Материя
+str_currency_Wool=Шерсть
+str_currency_xp=Опыт
+str_currency_LVL=Уровень
+
+str_currency=Переменная
 
 
 str_limitedTime=Доступно в течение ограниченного времени
@@ -594,7 +720,8 @@ str_popup_teleporter_moveToTarget=Хотели бы вы отправится н
 str_popup_teleporter_confirm_sending=Хотели бы вы отправить Дирижабль на <color="green"><islandName></color>?
 
 btn_shop=Магазин
-
+btn_settings=Настройки
+btn_mailbox=Почта
 btn_shop_monsters=Монстры
 btn_shop_decorations=Украшения
 btn_shop_deco_paths=Дорожки
@@ -637,6 +764,7 @@ btn_breed=Вывести
 btn_speedup=Ускорить
 btn_map=Карта
 btn_bake=Испечь
+btn_craft=Создать
 btn_feed=Кормить
 btn_remove=Убрать
 btn_removeMany=Убрать несколько
