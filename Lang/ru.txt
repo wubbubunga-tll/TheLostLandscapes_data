@@ -352,17 +352,17 @@ Monsters/Monster_keytrus_bio=Keytrus bio
 Monsters/Monster_koodahcane=Кондинец
 Monsters/Monster_koodahcane_bio=Koodahcane bio
 
-Monsters/Monster_marshflamo=Маршфламо
+Monsters/Monster_marshflamo=Маршпламя
 Monsters/Monster_marshflamo_bio=Marshflamo bio
 
-Monsters/Monster_brasscuit=Стеченюшка
-Monsters/Monster_brasscuit_bio=Choccosour bio
+Monsters/Monster_brasscuit=Трубоченье
+Monsters/Monster_brasscuit_bio=Латунное кондитерское изделие
 
 Monsters/Monster_gobstomper=Зубодроб
 Monsters/Monster_gobstomper_bio=Jawbreaker bio
 
 Monsters/Monster_claramel=Кларамель
-Monsters/Monster_claramel_bio=Claramel bio
+Monsters/Monster_claramel_bio=Био рукожопа
 
 Monsters/Monster_sprinklate=Торторог
 Monsters/Monster_sprinklate_bio=Cakehorn bio
