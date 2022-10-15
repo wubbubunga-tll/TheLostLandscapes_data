@@ -499,7 +499,7 @@ Decoration/Obstacle_placable_EM_6_bio=Bio
 ObstacleCommonRocks_bio=Выкопанные камни будут увезены далеко-далеко в замечательные новые дома.
 ObstacleCommonTrees_bio=Не волнуйтесь; выкорченные деревья будут увезены далеко-далеко и аккуратно пересажены. 
 
-Decoration/Obstacle_Candy_1=Маленький Камень. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_1=Маленький Камень.
 Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
 Decoration/Obstacle_Candy_2=Средний Камень
 Decoration/Obstacle_Candy_2_bio=It's a Medium Rock. <ref>ObstacleCommonRocks_bio
