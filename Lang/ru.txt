@@ -346,7 +346,7 @@ Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging 
 Monsters/Monster_gumtromp=Шармелад
 Monsters/Monster_gumtromp_bio=Bio
 
-Monsters/Monster_keytrus=Клависин
+Monsters/Monster_keytrus=Клавельсин
 Monsters/Monster_keytrus_bio=Keytrus bio
 
 Monsters/Monster_koodahcane=Кондинец
@@ -355,7 +355,7 @@ Monsters/Monster_koodahcane_bio=Koodahcane bio
 Monsters/Monster_marshflamo=Маршфламо
 Monsters/Monster_marshflamo_bio=Marshflamo bio
 
-Monsters/Monster_brasscuit=Печеньезавр
+Monsters/Monster_brasscuit=Стеченюшка
 Monsters/Monster_brasscuit_bio=Choccosour bio
 
 Monsters/Monster_gobstomper=Зубодроб
