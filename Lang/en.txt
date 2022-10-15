@@ -289,23 +289,23 @@ Structures/Structure_breeding_undof2=Enhanced Breeding Structure
 Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
 
 
-Structures/Structure_castle_undof=Castle
-Structures/Structure_castle_undof_bio=Castle
+Structures/Structure_castle_undof=Basic Castle
+Structures/Structure_castle_undof_bio=Basic Castle bio...
 
-Structures/Structure_castle_undof2=Castle2
-Structures/Structure_castle_undof2_bio=Castle
+Structures/Structure_castle_undof2=Modest Castle
+Structures/Structure_castle_undof2_bio=Modest Castle bio...
 
-Structures/Structure_castle_undof3=Castle3
-Structures/Structure_castle_undof3_bio=Castle
+Structures/Structure_castle_undof3=Comfortable Castle
+Structures/Structure_castle_undof3_bio=Comfortable Castle bio...
 
-Structures/Structure_castle_undof4=Castle4
-Structures/Structure_castle_undof4_bio=Castle
+Structures/Structure_castle_undof4=Spacious Castle
+Structures/Structure_castle_undof4_bio=Spacious Castle bio...
 
-Structures/Structure_castle_undof5=Castle5
-Structures/Structure_castle_undof5_bio=Castle
+Structures/Structure_castle_undof5=Luxurious Castle
+Structures/Structure_castle_undof5_bio=Luxurious Castle bio...
 
-Structures/Structure_castle_undof6=Castle6
-Structures/Structure_castle_undof6_bio=Castle
+Structures/Structure_castle_undof6=Extravagant Castle
+Structures/Structure_castle_undof6_bio=Extravagant Castle bio...
 
 Structures/Structure_bakery=Bakery
 Structures/Structure_bakery_bio=Bakery bio
