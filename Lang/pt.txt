@@ -1,8 +1,14 @@
 ﻿------- 
 #--MONSTERS--#
-
+WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Instead of sending them to the nursery, zap the monster eggs you've bred on your other islands, and they'll transform into the electrical energy required to take up this Wublin.
 Monsters/Monster_banno_rare=Bannorio Raro 
 Monsters/Monster_banno_rare_bio=yeeeeeee
+
+Monsters/Monster_schmoochle=Schmoochle
+Monsters/Monster_schmoochle_bio=Schmoochle bio
+
+Monsters/Monster_punkleton=Punkleton
+Monsters/Monster_punkleton_bio=Punkleton bio
 
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! Este explorador intrépido, agora mais longe de casa do que nunca, está feliz em explorar este mundo estranho e vibrante.
@@ -288,19 +294,22 @@ Monsters/Monster_olga=Olgapolva
 Monsters/Monster_olga_bio=Olgaropipe bio
 
 #--STRUCTURES--##
-Structures/Structure_castle_undof2=Castelo2
+Structures/Structure_castle_undof=Castelo Básico
+Structures/Structure_castle_undof_bio=Basic Castle bio...
+
+Structures/Structure_castle_undof2=Castelo Modesto
 Structures/Structure_castle_undof2_bio=Castle
 
-Structures/Structure_castle_undof3=Castelo3
+Structures/Structure_castle_undof3=Castelo Confortável
 Structures/Structure_castle_undof3_bio=Castle
 
-Structures/Structure_castle_undof4=Castelo4
+Structures/Structure_castle_undof4=Castelo Espaçoso
 Structures/Structure_castle_undof4_bio=Castle
 
-Structures/Structure_castle_undof5=Castelo5
+Structures/Structure_castle_undof5=Castelo Luxuoso
 Structures/Structure_castle_undof5_bio=Castle
 
-Structures/Structure_castle_undof6=Castelo6
+Structures/Structure_castle_undof6=Castelo Extravagante
 Structures/Structure_castle_undof6_bio=Castle
 
 Structures/Structure_breeding=Estrutura de Prociração
@@ -321,17 +330,23 @@ Structures/Structure_bakery_bio=Bakery bio
 Structures/Structure_amalgamator=Amalgamador
 Structures/Structure_amalgamator_bio=Amalgamator bio
 
-Structures/Structure_amalgamator_city=Amalgamador
-Structures/Structure_amalgamator_city_bio=Amalgamator bio
+Structures/Structure_amalgamator_city=Fazedor de comida de nenê
+Structures/Structure_amalgamator_city_bio=Bebe food maker bio
 
 Structures/Structure_jukebox=Jukebox
 Structures/Structure_jukebox_bio=Anunciando dias passados, a Jukebox ainda ostenta recordações de conhecedores musicais que esperam tocar depois que o dia terminar. Enquanto uma versão mais brilhante parece ter sido modelada para um paraíso distante, este protótipo mais antigo chegou até aqui, onde é adorado por todos os jovens. Como eles não podem cantar, eles se aglomeram e ouvem alegremente, inspirando-se e absorvendo a criatividade bruta das frequências fantásticas emitidas de dentro.
 
-Structures/Structure_knottmaker1=Uma bugiganga estranha.
-Structures/Structure_knottmaker2=Uma bugiganga estranha só que um pouco melhor!
-Structures/Structure_knottmaker3=Uma bugiganga estranha só que bem melhor!
-Structures/Structure_knottmaker4=Um iphone 569
+Structures/Structure_knottmaker1=Bugiganga estranha.
+Structures/Structure_knottmaker1_bio=A strange contraption bio
 
+Structures/Structure_knottmaker2=Amalgamador reconstruído
+Structures/Structure_knottmaker2_bio=Amalgamator bio
+
+Structures/Structure_knottmaker3=Amalgamador
+Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
+
+Structures/Structure_knottmaker4=Amalgamador Melhorado
+Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
 #--COMPOSER--##
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
@@ -506,31 +521,34 @@ Decoration/Decoration_mors=Mountain dos Bocados
 Decoration/Decoration_mors_bio=Mountain Morsel bio
  
 #--OBSTACLES--##
+ObstacleMushroomsbio=Cofumelos emovidos serão gentilmente levados para um novo e belíssimo lar.
 Decoration/Obstacle_EM_1=Cogumelo Pequeno
-Decoration/Obstacle_EM_1_bio=É um cogumelo pequeno. Não se preocupe; cogumelos removidos serão gentilmente levados para bem longe e replantados.
+Decoration/Obstacle_EM_1_bio=É um cogumelo pequeno. <ref>ObstacleMushroomsbio
 Decoration/Obstacle_EM_2=Cogumelo Médio
-Decoration/Obstacle_EM_2_bio=É um cogumelo médio. Não se preocupe; cogumelos removidos serão gentilmente levados para bem longe e replantados.
+Decoration/Obstacle_EM_2_bio=É um cogumelo médio. <ref>ObstacleMushroomsbio
 Decoration/Obstacle_EM_3=Cogumelo Grande
-Decoration/Obstacle_EM_3_bio=É um cogumelo grande. Não se preocupe; cogumelos removidos serão gentilmente levados para bem longe e replantados.
+Decoration/Obstacle_EM_3_bio=É um cogumelo grande. <ref>ObstacleMushroomsbio
 Decoration/Obstacle_EM_4=Dedos do Diabo
 Decoration/Obstacle_EM_4_bio=Devil's Fingers bio
 Decoration/Obstacle_EM_5=Trufa
-Decoration/Obstacle_EM_5_bio=É uma trufa. Truafas removidas serão levadas para um ótimo novo lar.
+Decoration/Obstacle_EM_5_bio=É uma trufa. <ref>ObstacleMushroomsbio
 Decoration/Obstacle_EM_6=Puffgumelo
-Decoration/Obstacle_EM_6_bio=É um puffgumelo. Puffgumelos removida serão levados para um ótimo novo lar.
+Decoration/Obstacle_EM_6_bio=É um puffgumelo. <ref>ObstacleMushroomsbio
+ObstaclePlacableShroom_bio=Lembra de quando falamos que os cogumelos removidos iriam parar em um novo e belíssimo lar? Ótimas notícias - esses são cogumelos são de outra pessoa, e esse pantâno é o novo lar desses camaradinhas! Reciclagem fungi é incível!
+
 
 Decoration/Obstacle_placable_EM_1=Cogumelo Pequeno
-Decoration/Obstacle_placable_EM_1_bio=Bio
+Decoration/Obstacle_placable_EM_1_bio=<ref>ObstaclePlacableShroom_bio
 Decoration/Obstacle_placable_EM_2=Cogumelo Médio
-Decoration/Obstacle_placable_EM_2_bio=Bio
+Decoration/Obstacle_placable_EM_2_bio=<ref>ObstaclePlacableShroom_bio
 Decoration/Obstacle_placable_EM_3=Cogumelo Grande
-Decoration/Obstacle_placable_EM_3_bio=Bio
+Decoration/Obstacle_placable_EM_3_bio=<ref>ObstaclePlacableShroom_bio
 Decoration/Obstacle_placable_EM_4=Dedos do Diabo
-Decoration/Obstacle_placable_EM_4_bio=Bio
+Decoration/Obstacle_placable_EM_4_bio=<ref>ObstaclePlacableShroom_bio
 Decoration/Obstacle_placable_EM_5=Trufa
-Decoration/Obstacle_placable_EM_5_bio=Bio
+Decoration/Obstacle_placable_EM_5_bio=<ref>ObstaclePlacableShroom_bio
 Decoration/Obstacle_placable_EM_6=Puffgumelo
-Decoration/Obstacle_placable_EM_6_bio=Bio
+Decoration/Obstacle_placable_EM_6_bio=<ref>ObstaclePlacableShroom_bio
 
 ObstacleCommonRocks_bio=Pedras removidas serão levados para um ótimo novo lar.
 ObstacleCommonTrees_bio=Não se preocupe; Árvores removidas serão levadas para um ótimo novo lar.
@@ -548,7 +566,7 @@ Decoration/Obstacle_Candy_5_bio=É uma Árvore Média. <ref>ObstacleCommonTrees_
 Decoration/Obstacle_Candy_6=Árvore Grande
 Decoration/Obstacle_Candy_6_bio=É uma Árvore Grande. <ref>ObstacleCommonTrees_bio
 
-ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
+ObstaclePlacableCommon_bio=Lembra de quando falamos que os pedras e árvores removidos iriam parar em um novo e belíssimo lar? Ótimas notícias - essas pedras e plantas são de outra pessoa, e esse pantâno é o novo lar desses camaradinhas! Reciclagem é incível!
 
 Decoration/Obstacle_placable_Candy_1=Pedra Pequena.
 Decoration/Obstacle_placable_Candy_1_bio=<ref>ObstaclePlacableCommon_bio
@@ -641,6 +659,25 @@ str_currency_coins=Moedas
 str_currency_diamonds=Diamantes
 str_currency_food=Agrados
 str_currency_stars=PoderEstelar
+str_currency_BloodCells=Células Sanguóneas
+str_currency_BlueLog=Toco Nãocerteza
+str_currency_Log=Toco
+str_currency_Bone=Osso
+str_currency_Candycane=Vara Doce
+str_currency_Candycorn=Milho Doce 
+str_currency_Cattail=Junco
+str_currency_Flower_blue=Papoula Azul
+str_currency_Flower_red=Rosa
+str_currency_Flower_yellow=Dente-de-leão
+str_currency_Fruit_apple=Maçãngo
+str_currency_Peppermint=Hortelã
+str_currency_Rock=Rock
+str_currency_Vortex=Matéria Negra
+str_currency_Wool=Algodão
+str_currency_xp=XP
+str_currency_LVL=Nível
+
+str_currency=Technical Var
 
 
 str_limitedTime=Disponível por um tempo limitado
@@ -692,6 +729,9 @@ str_popup_connection_failed=<color=red>Conexão falhou!</color>
 str_island_comingsoon=Em Breve!
 
 ##--ISLANDS--##
+
+str_island_Calamity=Ilha da Catástrofe
+str_island_Calamity_bio=Calamity Island
 
 str_island_City=Cidade Flutuante
 str_island_City_bio=Floating City bio
@@ -758,7 +798,7 @@ str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><isla
 str_popup_teleporter_confirm_sending=Você quer enviar o Zepelim para <color="green"><islandName></color>?
 
 btn_shop=Loja
-
+btn_mailbox=Correio
 btn_shop_monsters=Monstros
 btn_shop_decorations=Decorações
 btn_shop_deco_paths=Caminhos
@@ -768,6 +808,7 @@ btn_shop_deco_obstacles=Obstáculos
 btn_shop_deco_other=Outros
 btn_shop_structures=Estruturas
 btn_shop_currency=Recursos
+btn_sell=Vender
 
 btn_shop_celestials=Celestiais
 btn_shop_babyMomsters=Monstros Bebês
