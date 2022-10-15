@@ -358,7 +358,7 @@ Monsters/Monster_marshflamo_bio=Marshflamo bio
 Monsters/Monster_brasscuit=Трубоченье
 Monsters/Monster_brasscuit_bio=Латунное кондитерское изделие
 
-Monsters/Monster_gobstomper=Зубодроб
+Monsters/Monster_gobstomper=Зубодробильщик
 Monsters/Monster_gobstomper_bio=Jawbreaker bio
 
 Monsters/Monster_claramel=Кларамель
