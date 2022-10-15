@@ -343,28 +343,28 @@ Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the lim
 Monsters/Monster_stogg_undof=Стегобака
 Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
 
-Monsters/Monster_gumtromp=Gumtromp
+Monsters/Monster_gumtromp=Шармелад
 Monsters/Monster_gumtromp_bio=Bio
 
-Monsters/Monster_keytrus=Keytrus
+Monsters/Monster_keytrus=Клависин
 Monsters/Monster_keytrus_bio=Keytrus bio
 
-Monsters/Monster_koodahcane=Koodahcane
+Monsters/Monster_koodahcane=Кондинец
 Monsters/Monster_koodahcane_bio=Koodahcane bio
 
-Monsters/Monster_marshflamo=Marshflamo
+Monsters/Monster_marshflamo=Маршфламо
 Monsters/Monster_marshflamo_bio=Marshflamo bio
 
-Monsters/Monster_brasscuit=Brasscuit
+Monsters/Monster_brasscuit=Печеньезавр
 Monsters/Monster_brasscuit_bio=Choccosour bio
 
-Monsters/Monster_gobstomper=Gobstomper
+Monsters/Monster_gobstomper=Зубодроб
 Monsters/Monster_gobstomper_bio=Jawbreaker bio
 
-Monsters/Monster_claramel=Claramel
+Monsters/Monster_claramel=Кларамель
 Monsters/Monster_claramel_bio=Claramel bio
 
-Monsters/Monster_sprinklate=Иди жри. Приятного аппетита
+Monsters/Monster_sprinklate=Торторог
 Monsters/Monster_sprinklate_bio=Cakehorn bio
 
 Monsters/Monster_jamboree_undof=Празднень
