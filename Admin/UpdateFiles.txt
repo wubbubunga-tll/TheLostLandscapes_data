@@ -5,4 +5,4 @@ knott_special entity Monsters/Knott_special
 monster_banno_rare entity Monsters/Monster_banno_rare
 monster_varrow_rare entity Monsters/Monster_varrow_rare
 
-midi_update_test midi
+midi_update_test midi-disable
