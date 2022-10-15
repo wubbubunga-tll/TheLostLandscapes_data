@@ -612,6 +612,26 @@ str_currency_coins=Coins
 str_currency_diamonds=Diamonds
 str_currency_food=Food
 str_currency_stars=Starpower
+str_currency_BloodCells=Blood Cells
+str_currency_BlueLog=Knottshurr Log
+str_currency_Log=Log
+str_currency_Bone=Bone
+str_currency_Candycane=Candycane
+str_currency_Candycorn=Candycorn
+str_currency_Cattail=Cattail
+str_currency_Flower_blue=Blue Poppy
+str_currency_Flower_red=Rose
+str_currency_Flower_yellow=Dandelion
+str_currency_Fruit_apple=Stralleberry
+str_currency_Peppermint=Peppermint
+str_currency_Rock=Rock
+str_currency_Vortex=Dark Matter
+str_currency_Wool=Fluff
+str_currency_xp=XP
+str_currency_LVL=Level
+comes from strawberry and apple. Stra + le
+
+str_currency=Technical Var
 
 
 str_limitedTime=Available for a limited time
