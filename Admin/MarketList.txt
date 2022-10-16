@@ -291,6 +291,7 @@ Monsters/Monster_whimstlop diamonds=150
 Monsters/Monster_theremind diamonds=80
 Monsters/Monster_oaktopus diamonds=100
 Monsters/Monster_denchuhs diamonds=120
+Monsters/Monster_clamble diamonds=300
 Monsters/Monster_schmoochle diamonds=1000
 Monsters/Monster_plixie diamonds=5000
 -
@@ -557,6 +558,7 @@ Monsters/Monster_denchuhs
 Monsters/Monster_banno
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel
+Monsters/Monster_clamble
 Monsters/Monster_tiawa
 Monsters/Monster_arackulele
 Monsters/Monster_punkleton
