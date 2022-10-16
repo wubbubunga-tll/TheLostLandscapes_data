@@ -2,6 +2,8 @@ CalamityDenchuhs2
 
 monster_clamble entity Monsters/Monster_clamble
 
+monster_denchuhs entity Monsters/Monster_denchuhs
+
 calamity_audio audio Calamity
 
 midi_update midi
