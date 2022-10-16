@@ -167,6 +167,9 @@ Monsters/Knott_special=Chimblickle
 Cimbasso + ickle
 Monsters/Knott_special_bio=Chimblickle bio
 
+Monsters/Monster_denchuhs=Denchuhs
+Monsters/Monster_denchuhs_bio=Mah dentures
+
 Monsters/Monster_tiawa=Tiawa
 Monsters/Monster_tiawa_bio=Tiawa bio
 
