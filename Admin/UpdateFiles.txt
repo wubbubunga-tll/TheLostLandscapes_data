@@ -1,6 +1,6 @@
-CalamityDenchuhs
+CalamityDenchuhs2
 
-monster_pango entity Monsters/Monster_pango
+monster_denchuhs entity Monsters/Monster_denchuhs
 
 calamity_denchuhs_audio audio Calamity
 
