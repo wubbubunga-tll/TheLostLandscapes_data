@@ -80,6 +80,9 @@ Monsters/Monster_banno_bio=Banno is a vocalist of the legendary Cancer Choir, fo
 Monsters/Monster_banno_rare=Rare Banno
 Monsters/Monster_banno_rare_bio=Rare Banno bio
 
+Monsters/Monster_clamble=Clamble
+Monsters/Monster_clamble_bio=Clamble bio
+
 Monsters/Monster_frondley=Frondley
 Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
 
