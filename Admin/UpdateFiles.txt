@@ -1,7 +1,7 @@
 CalamityDenchuhs2
 
-monster_denchuhs entity-d Monsters/Monster_denchuhs
+monster_clamble entity Monsters/Monster_clamble
 
-calamity_denchuhs_audio-d audio Calamity
+calamity_audio audio Calamity
 
-midi_update midi-d
+midi_update midi
