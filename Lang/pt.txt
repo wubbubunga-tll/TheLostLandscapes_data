@@ -4,10 +4,10 @@ WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious 
 Monsters/Monster_banno_rare=Bannorio Raro 
 Monsters/Monster_banno_rare_bio=yeeeeeee
 
-Monsters/Monster_schmoochle=Schmoochle
+Monsters/Monster_schmoochle=Beijo-Bicota
 Monsters/Monster_schmoochle_bio=Schmoochle bio
 
-Monsters/Monster_punkleton=Punkleton
+Monsters/Monster_punkleton=Punkeleto
 Monsters/Monster_punkleton_bio=Punkleton bio
 
 Monsters/Monster_spurrit=Spurrit
@@ -30,7 +30,7 @@ Monsters/Monster_tweedle_bio=Pintinho Pius adultas são conhecidas por migrar mu
 Monsters/Monster_flootfly=Mosca-da-Flauta
 Monsters/Monster_flootfly_bio=A mística Mosca-da-Flauta é um dos monstros mais comuns de se encontras nas Paisagens Perdidas, pois, ele é um dos mais amigáveis nos arredores! Moscas-da-Flauta amam fazer festas do chá nos lugares mais bizarros! Convites para uma festa do chá são sempre reverenciados e aceitos com alegria, porque é um ótimo lugar para socializar e fofocar!
 
-Monsters/Monster_choral=Choralle
+Monsters/Monster_choral=Troncoral
 Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Corallê! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Corallês tapeiam o monstros com seu disfarce se alguém chega muito perto, e logo após perceberem os monstros pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
 
 Monsters/Monster_likho=Boco
@@ -76,7 +76,7 @@ Monsters/Monster_dulsylvan_bio=O entalhado Dulsilvestre é uma criatura de madei
 Monsters/Monster_dulsylvan_rare=Dulsilvestre Raro
 Monsters/Monster_dulsylvan_rare_bio=Durante os últimos estágios da vida de um Dulsilvestre, seu corpo começa a mudar rapidamente. A madeira antiga e sólida se transforma em uma forma leve e arejada, conhecida como Silpinha. O corpo do Dulsilvestre começa a exalar uma seiva doce, que alimentará seus jovens Silvinhos depois que ele falecer, e seu nariz muda para um tom verde delicioso. Embora esses últimos dias sejam considerados curtos, eles são conhecidos por serem cheios de alegria, pois o velho Dulsilvestre se torna capaz de se mover livremente mais uma vez! Eventualmente, porém, diminui a velocidade, e a seiva cristaliza a Silpinha e a preserva para a eternidade...
 
-Monsters/Monster_dandidoo=Dandidoo
+Monsters/Monster_dandidoo=Dandidão
 Monsters/Monster_dandidoo_bio=Enquanto os fluxos quentinhos do oceano carregam ostras pelas profundezas, uma brisa suave carrega o Esbelto Dandidão pelo mundo dos monstros. Suas migrações dependem do fluxo de ar, já que a natureza não foi tão gentil o suficiente para conceder-lhes asas, pobrezinho. Eles podem conduzir o ar através de seus corpos verdinhos para armazená-lo e explorá-lo em um poderoso fluxo de tons e semitons afinados. É por isso que seu canto se assemelha a "doo"s e "dee"s. Seu elemental de Planta deu-lhes uma tonalidade esverdeada e cabelos estilo afro que lembram um dente-de-leão comum, será que é fácil confundir os dois? Provavelmente sim.
 
 Monsters/Monster_varrow=Berimvoa
@@ -85,10 +85,10 @@ Monsters/Monster_varrow_bio=Conhecida por sua propensão à caça, o melódico �
 Monsters/Monster_varrow_rare=Berimvoa Rara
 Monsters/Monster_varrow_rare_bio=O que você encontra quando coloca uma agulha dentro de uma casca de noz, dentro de uma bolsinha, e dentro de um pano, e coloca-a em um pote e a enterrar no fundo das águas do pântano? Uma Berimvoa Rara, é o que acontece! Esses monstros estranhos têm uma propensão a qualquer coisa intrigante e paradoxal - incluindo eles mesmos! Embora não se saiba como esses estranho monstros viream a existir, eles estão aqui para ficar, esnobando suas roupas e bugigangas de moda em terras distantes e dando a todos algo para refletir a cada chance que eles têm... 
 
-Monsters/Monster_banno=Banno
+Monsters/Monster_banno=Bannorio
 Monsters/Monster_banno_bio=Um vocalista do lendário Coro do Cancer, por muito tempo Bannorio passou seu tempo nas profundezas frias do oceano. Infelizmente, as temperatura congelantes não eram ideais para seu corpo acostumado com a água quente! Ao em vez de entrar em algo como um gêiser, ele decidiu ficar perto de seus amigos utilizando um balde de madeira cheio de água fervendo para se manter confortável. Embora seu abdômen vermelho fervente possa parecer nada saudável, não há com o que se preocupar, Bannorio afirma que é apenas sua cor natural aparecendo após a limpeza de milhares de anos de sujeira do mar.
 
-Monsters/Monster_frondley=Frondley
+Monsters/Monster_frondley=Folhamável
 Monsters/Monster_frondley_bio=O Folhamável é ummmmmmmmmm espécime incrível! Seu físico gelatinoso e dedos nos quais podem se assimilar à certo monstro, no qual certamente monstro evoluiu separadamente do nosso companheiro de cor amarela. Seus zumbidos sobrenaturais e serenos ecoam pelas ilhas, sempre afirmado que um Folhamável está presente lá. Alguns monstros vão até longas distancias só para gravar seu zumbido, para que depois eles possam se colocar para dormir escutando esse som calmo. Em outras atividades, Folhamáveis adoram manter seu penteado "tipo-alga", enquanto sempre se esforçam para encontrar a quantidade perfeita de cabelo para seus crânios bulbosos.
 
 Monsters/Special/Monster_melochness=Melódi-Ness
@@ -336,6 +336,9 @@ Structures/Structure_amalgamator_city_bio=Bebe food maker bio
 Structures/Structure_jukebox=Jukebox
 Structures/Structure_jukebox_bio=Anunciando dias passados, a Jukebox ainda ostenta recordações de conhecedores musicais que esperam tocar depois que o dia terminar. Enquanto uma versão mais brilhante parece ter sido modelada para um paraíso distante, este protótipo mais antigo chegou até aqui, onde é adorado por todos os jovens. Como eles não podem cantar, eles se aglomeram e ouvem alegremente, inspirando-se e absorvendo a criatividade bruta das frequências fantásticas emitidas de dentro.
 
+Structures/Structure_bass=Bass machine
+Structures/Structure_bass_bio=The Bass Machine is a cutting edge mix of art and technology, originating from the age of the Great Burgundy Incident. While the knowledge to create more was lost long ago, many can be found lying around in buildings across the floating city. These strange machines are known to be far more intelligent than any other being within the known realm, but yet cannot communicate with the outside world, leaving them to hum and strum bass notes hoping to be understood…
+
 Structures/Structure_knottmaker1=Bugiganga estranha.
 Structures/Structure_knottmaker1_bio=A strange contraption bio
 
@@ -431,6 +434,9 @@ Monsters/Monster_fleechwurm_undof=Hipnonhoca
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
 Monsters/Monster_fleechwurm_undof_awake_bio=Além de serem usados para tocar música, alguns Monstros utilizam as vantagens de suas características e formatos únicos para outros propósitos. No caso da Hipnonhoca, a acústica de sua cavidade corporal pode gerar uma série de assovios que têm um efeito hipnótico sobre outros Wub-Caixoblins. Eles podem ser usados para persuadir os outros a fazerem tarefas indesejadas ou a tratar de suas necessidades estéticas. Alguns Wub-Caixoblins são mais resistentes que outros e reprimem a Hipnonhoca amigavelmente para que ela não fique muito abusada.
+
+Monsters/Monster_denchuhs=Gemolares
+Monsters/Monster_denchuhs_bio=Mah dentures
 
 Monsters/Monster_tiawa=Diadama
 Monsters/Monster_tiawa_bio=Tiawa bio
@@ -583,6 +589,9 @@ Decoration/Obstacle_placable_Candy_6_bio=<ref>ObstaclePlacableCommon_bio
 Decoration/Dog=WALTER
 Decoration/Dog_bio=Dog goD.
 
+ObstacleKnottTree=Ela tem o poder de ressucitar vida. Não se preocupe, se você a cortar, nada de ruim acontecerá com o ecossístema desse lugar. Tudo aqui já está morto de qualquer forma...
+ObstacleKnottRock=Essa pedra, igual qualquer outra pedra nessa ilha, ela tem um potêncial mágico! Mais as maneiras de extrair tal mágia foram perdidas no tempo... Que pena.
+
 ObstacleCommonBones_bio=Osso removidos serão reduzidos à farelos!
 
 ObstaclePlacableBones_bio=Lembra de como falamos que esses ossos removidos virariam farelos? Boas notícias! - nós mentimos, esses são os ossos que você removeu. Te zuei.
@@ -671,14 +680,14 @@ str_currency_Flower_red=Rosa
 str_currency_Flower_yellow=Dente-de-leão
 str_currency_Fruit_apple=Maçãngo
 str_currency_Peppermint=Hortelã
-str_currency_Rock=Rock
+str_currency_Rock=Pedra
 str_currency_Vortex=Matéria Negra
 str_currency_Wool=Algodão
 str_currency_xp=XP
 str_currency_LVL=Nível
 
 str_currency=Technical Var
-
+str_noitems - Sem itens
 
 str_limitedTime=Disponível por um tempo limitado
 str_limitedTimeTimer=Disponível por:\n<time>
