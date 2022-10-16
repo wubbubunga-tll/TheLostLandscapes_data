@@ -7,7 +7,7 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=1,diamonds
 HasDeadline=true
-Deadline=10/16/2022 3:08:09 PM
+Deadline=10/16/2022 03:08:09 PM
 ;
 ID=Monsters/Monster_varrow_rare
 MarketSortersID=monsters
@@ -17,7 +17,7 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=1,diamonds
 HasDeadline=true
-Deadline=10/16/2022 3:08:09 PM
+Deadline=10/16/2022 03:08:09 PM
 ;
 ID=Monsters/Knott_special
 MarketSortersID=monsters
@@ -26,7 +26,7 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=228,Vortex
 HasDeadline=true
-Deadline=10/19/2022 3:00:00 PM
+Deadline=10/19/2022 03:00:00 PM
 ;
 ID=Monsters/Knott_10
 MarketSortersID=monsters
@@ -35,4 +35,4 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=3,LVL
 HasDeadline=true
-Deadline=10/19/2022 3:00:00 PM
+Deadline=10/19/2022 03:00:00 PM
