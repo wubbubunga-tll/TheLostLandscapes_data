@@ -36,3 +36,13 @@ HasCostOvrwrite=true
 CostOverwrite=3,LVL
 HasDeadline=true
 Deadline=10/19/2022 03:00:00 PM
+;
+ID=Monsters/Knott_10
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=City
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=3,BlueLog
+HasDeadline=true
+Deadline=10/19/2022 03:00:00 PM
