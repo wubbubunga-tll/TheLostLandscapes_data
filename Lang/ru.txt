@@ -480,8 +480,8 @@ Decoration/Decoration_knott_bio=А
 Decoration/Decoration_mors=Вкусочек Горы
 Decoration/Decoration_mors_bio=А
 
-ObstacleMushroombio=А
-ObstaclePlacableMushroom_bio=А
+ObstacleMushroomsbio=А
+ObstaclePlacableShroom_bio=А
  
 Decoration/Obstacle_EM_1=Маленький гриб
 Decoration/Obstacle_EM_1_bio=Это маленький гриб. Не волнуйся; убранные грибы будут увезены далеко-далеко и аккуратно пересажены.
@@ -665,38 +665,53 @@ str_teleport_flying=В настоящее время Дирижабль лети
 str_teleport_unavailable_monster=Дирижабля в настоящее время нет на этом острове.
 str_popup_shopUnavailbable=<type> недоступны на этом острове.
 
+str_popup_knottmaker_locked=Этот предмет не доступен. Для начала улучшите Амальагматор
+str_popup_knottmakerNotSelected=Ничего не выбрано.
+str_popup_knottmaker_fail=Процесс создания не удался! Но предметы были преобразованы в бриллианты.\nВы получили <color=#4EFFF5>бриллиантов ×<amount></color>.
+str_popup_knottmaker_fail_items=Процесс создания не удался! Не волнуйтесь вы получити некоторые предметы обратно!
+str_popup_knottmaker_fail_noitems=Процесс создания не удался! К сожалению все ваши предметы были потеряны.
+
+str_noitems=Пусто
+
 str_popup_islandComingSoon=Новые и интересные дополнения вскоре!
 str_popup_islandAlreadyOn=Вы уже на этом острове.
+
+str_taptocollectrewards=Нажми для сбора
+str_mailbox_reward_collected=Собрано
+
 
 str_island_comingsoon=Скоро!
 str_extra=Богданчик любит какиш
 
-str_setting=Settings
-str_setting_zoomBTN=Use zoom slider
-str_setting_notifN=Send notifications
-str_setting_EF=Elephant Fart
-str_setting_ambient=Ambient sounds
+str_setting=Настройки
+str_setting_zoomBTN=Ползунок приближения
+str_setting_notifN=Уведомления
+str_setting_EF=Пердёж слона
+str_setting_ambient=Фоновые звуки
 
 str_island_City=Летучий город
-str_island_City_bio=Floating City bio
+str_island_City_bio=Летучий город био
 
 str_island_EM=Вечнозелёное болото
-str_island_EM_bio=Evergreen Marsh bio
+str_island_EM_bio=Вечнозелёное болото био
 
 str_island_Organs=Терра Органов
-str_island_Organs_bio=Terra of Organs bio
+str_island_Organs_bio=Терра Органов био
 
 str_island_Knottshurr=Остров Неуверен
-str_island_Knottshurr_bio=Knottshurr Island bio
+str_island_Knottshurr_bio=Остров Неуверен био
 
 str_island_Meduza=Cклеп Медуззы
-str_island_Meduza_bio=M'Duzza's Crypt bio
+str_island_Meduza_bio=Cклеп Медуззы био
 
 str_island_Desert=Пустыня Норамба
-str_island_Desert_bio=Noramba Desert bio
+str_island_Desert_bio=Пустыня Норамба био
 
 str_island_Candy=Остров Конфет
-str_island_Candy_bio=Candy Island bio
+str_island_Candy_bio=Остров Конфет био
+
+str_island_Calamity=Остров Бедствий
+str_island_Calamity_bio=Остров Бедствий био
 
 str_stars_light=Ясный свет
 str_stars_psychic=Спираль подсознания
