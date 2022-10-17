@@ -307,7 +307,7 @@ Structures/Structure_breeding_undof=Здание Выведения
 Structures/Structure_breeding_undof_bio=А
 
 Structures/Structure_breeding_undof2=Улучшенное Здание Выведения
-Structures/Structure_breeding_undof2_bio=А
+Structures/Structure_breeding_undof2_bio=А2
 
 Monsters/Composer/Monster_potbelly_composer=Брюшок
 Monsters/Composer/Monster_potbelly_composer_bio=А
