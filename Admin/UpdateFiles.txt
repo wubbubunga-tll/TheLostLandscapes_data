@@ -1,6 +1,6 @@
 CalamityDenchuhs3
 
-monster_clamble entity-d Monsters/Monster_clamble
+monster_clamble entity Monsters/Monster_clamble
 
 monster_denchuhs entity-d Monsters/Monster_denchuhs
 
@@ -8,6 +8,6 @@ monster_pango entity-d Monsters/Monster_pango
 
 monster_boskus entity-d Monsters/Monster_boskus
 
-calamity_audio audio-d Calamity
+calamity_audio audio Calamity
 
-midi_update midi-d
+midi_update midi
