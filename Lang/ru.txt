@@ -1,8 +1,15 @@
 ﻿﻿-------
+WublinStatueBio=Био Вублина Статуя
+
 Monsters/Monster_maulch=Мульча
-Monsters/Monster_maulch_bio=А
-Monsters/Monster_maulch_awake=Мульча
+Monsters/Monster_maulch_bio=<ref>WublinStatueBio
+Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=А
+
+Monsters/Monster_fleechwurm_undof=Червеугодник
+Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
+Monsters/Monster_fleechwurm_undof_awake=Червеугодник
+Monsters/Monster_fleechwurm_undof_awake_bio=Пробудить червеугодник био
 
 Monsters/Monster_spurrit=Духов
 Monsters/Monster_spurrit_bio=А
@@ -159,6 +166,8 @@ Monsters/Monster_handmond_bio=А
 
 Monsters/Monster_whimstlop=Свистель
 Monsters/Monster_whimstlop_bio=А
+Monsters/Monster_whimstlop_meduza=Свистель
+Monsters/Monster_whimstlop_meduza_bio=А
 
 Monsters/Monster_mammott=Мамунт
 Monsters/Monster_mammott_bio=А
@@ -176,7 +185,6 @@ Monsters/Monster_pongping=ПонгПинг
 Monsters/Monster_pongping_bio=А
 Monsters/Monster_pongping_meduza=ПонгПинг
 Monsters/Monster_pongping_meduza_bio=А
-
 
 Monsters/Monster_meduza=Медузза Визгона
 Monsters/Monster_meduza_bio=А
@@ -241,7 +249,6 @@ Monsters/Monster_light_bio=А
 Monsters/Monster_bone=Амонитерий
 Monsters/Monster_bone_bio=А
 
-
 Monsters/Monster_olga=Осьмидудка
 Monsters/Monster_olga_bio=А
 
@@ -295,6 +302,12 @@ Structures/Structure_castle_undof5_bio=А...
 
 Structures/Structure_castle_undof6=Экстравагантный Дворец
 Structures/Structure_castle_undof6_bio=А...
+
+Structures/Structure_breeding_undof=Здание Выведения
+Structures/Structure_breeding_undof_bio=А
+
+Structures/Structure_breeding_undof2=Улучшенное Здание Выведения
+Structures/Structure_breeding_undof2_bio=А
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
@@ -368,9 +381,6 @@ Monsters/Monster_jamboree_undof_bio=А
 Monsters/Monster_schmoochle=Поцелщик
 Monsters/Monster_schmoochle_bio=Поцелщик био
 
-Monsters/Monster_fleechwurm_undof=Червеугодник
-Monsters/Monster_fleechwurm_undof_bio=Червеугодник био
-
 Monsters/Monster_ghazt_undof=Вужас
 Monsters/Monster_ghazt_undof_bio=Вужас биология
 
@@ -391,6 +401,12 @@ Monsters/Monster_punkleton_bio=Скелепуква Био
 
 Monsters/Monster_ffydill=Склеверипка
 Monsters/Monster_ffydill_bio=Склевепипка био
+
+Monsters/Monster_denchuhs=Челюстяги
+Monsters/Monster_denchuhs_bio=ЧЕЛюстяги био
+
+Monsters/Monster_clamble=Раковица
+Monsters/Monster_clamble_bio=Сраковица
 
 EM_path1=Сырые Камешки
 EM_path1_bio=А
@@ -463,6 +479,9 @@ Decoration/Decoration_knott=Гора Неуверен
 Decoration/Decoration_knott_bio=А
 Decoration/Decoration_mors=Вкусочек Горы
 Decoration/Decoration_mors_bio=А
+
+ObstacleMushroombio=А
+ObstaclePlacableMushroom_bio=А
  
 Decoration/Obstacle_EM_1=Маленький гриб
 Decoration/Obstacle_EM_1_bio=Это маленький гриб. Не волнуйся; убранные грибы будут увезены далеко-далеко и аккуратно пересажены.
@@ -650,6 +669,13 @@ str_popup_islandComingSoon=Новые и интересные дополнени
 str_popup_islandAlreadyOn=Вы уже на этом острове.
 
 str_island_comingsoon=Скоро!
+str_extra=Богданчик любит какиш
+
+str_setting=Settings
+str_setting_zoomBTN=Use zoom slider
+str_setting_notifN=Send notifications
+str_setting_EF=Elephant Fart
+str_setting_ambient=Ambient sounds
 
 str_island_City=Летучий город
 str_island_City_bio=Floating City bio
@@ -784,6 +810,8 @@ btn_inf_islands=Острова
 btn_zap=Засунуть
 btn_inventory=Инвентарь
 btn_wakeUp=Разбудить
+btn_view=Посмотреть
+btn_upgrade=Улучшить
 
 goal_breed_buy=Купите и разместите <color="green"><entityName>
 goal_breed_an=Разведите и поместите <color="green"><entityName>
