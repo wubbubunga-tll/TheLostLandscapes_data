@@ -170,6 +170,29 @@ Monsters/Knott_special=Chimblickle
 Cimbasso + ickle
 Monsters/Knott_special_bio=Chimblickle bio
 
+Monsters/Knott_1_rare=Knottshurr Tree
+Monsters/Knott_1_rare_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
+Monsters/Knott_2_rare=Bay
+Monsters/Knott_2_rare_bio=Bay bio
+Monsters/Knott_3_rare=Souxls Vessel
+Monsters/Knott_3_rare_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
+Monsters/Knott_4_rare=BoOoo
+Monsters/Knott_4_rare_bio=All those who hail from the Thumpiverse are well versed in the practice of interdimensional leaps, and BoOoo is no exception. Fleeing the abysmal depths of its former home, BoOoo embarked on a long and widespread journey for a new home. Eventually, it found a strange mountain, deep below the Silver Crags, that emitted a strange feeling that resonated with BoOoo. At first staying to investigate, the cryptic aura of the region has convinced BoOoo to finally choose a true home for the first time in millennia. However, no gift comes without its price, and without careful consumption of local materials, the region’s alien magic might take hold on BoOoo and the other residents in strange ways… 
+Monsters/Knott_5_rare=Mount Tuzzpikk
+Monsters/Knott_5_rare_bio=Mount Tuzzpikk was a regular Knott-rock that got affected by the Knottsurr magic, emmited from the mystical orbs found across the Knottsurr Island. It gained musical abilities and immediately after being animated, started to sing. It knows many compositions but "Pearrdesh Slougna" and "Ellepharrth" by "DJ. Goldenduck" is the closest to its rock heart. You can find it humming the melody non-stop whenever it's not singing.\nLeaving the island would result in reverting to its initial state of non-sentience. Unless it carries one of the sources of Knottsurr magic with it wherever it goes.
+Monsters/Knott_6_rare=Mount Mound
+Monsters/Knott_6_rare_bio=Mount Mound bio
+Monsters/Knott_7_rare=Flocca
+Monsters/Knott_7_rare_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
+Monsters/Knott_8_rare=Cleomace
+Monsters/Knott_8_rare_bio=Cleomace bio
+Monsters/Knott_9_rare=Babushka Knittshurr
+Monsters/Knott_9_rare_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
+Monsters/Knott_10_rare=Bel'yawn Zirro
+Monsters/Knott_10_rare_bio=Bel'yawn Zirro bio
+Monsters/Knott_special_rare=Chimblickle
+Monsters/Knott_special_rare_bio=Chimblickle bio
+
 Monsters/Monster_denchuhs=Denchuhs
 Monsters/Monster_denchuhs_bio=Mah dentures
 
