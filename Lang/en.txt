@@ -667,19 +667,19 @@ str_limitedTime=Available for a limited time
 str_limitedTimeTimer=Available for:\n<time>
 
 str_warning=Hold up!
-str_popup_sellEgg=Are you sure you want to sell this egg for <color="yellow"><amount> Coins?
-str_popup_speedUp=Are you sure you want to speed up the proccess for <color=#4EFFF5><amount> Diamonds?
+str_popup_sellEgg=Are you sure you want to sell this egg for <sprite name=coins><color="yellow"><amount>?
+str_popup_speedUp=Are you sure you want to speed up the proccess for <sprite name=diamonds><color=#4EFFF5><amount>?
 str_popup_notEnough_diamonds=You don't have enough <color=#4EFFF5>Diamonds.
 str_popup_notEnough_coins=You don't have enough <color="yellow">Coins.
 str_popup_notEnough_food=You don't have enough <color=#F318D1>Food.
 str_popup_notEnough_stars=You don't have enough <color=#FFA400>Starpower.
 str_popup_notEnough=You don't have enough <color=green>Items</color>.
-str_popup_sell=Are you sure you want to sell this for <color="yellow"><amount> Coins?
+str_popup_sell=Are you sure you want to sell this for <sprite name=coins><color="yellow"><amount>?
 str_popup_designer_cancel=Are you sure you want to cancel all the changes made in Designer mode?
-str_popup_designer_save1=Are you sure you want to save? It will cost <color="yellow"><amount> Coins.
-str_popup_designer_save2=Are you sure you want to save? You will get <color="yellow"><amount> Coins.
+str_popup_designer_save1=Are you sure you want to save? It will cost <sprite name=coins><color="yellow"><amount>
+str_popup_designer_save2=Are you sure you want to save? You will get <sprite name=coins><color="yellow"><amount>
 str_popup_designer_save3=Are you sure you want to save? It will cost you nothing.
-str_popup_bakery_bake=Are you sure you want to bake <color=#F318D1><amount> Food</color> for <color="yellow"><amount2> Coins</color>?
+str_popup_bakery_bake=Are you sure you want to bake <sprite name=food><color=#F318D1><amount></color> for <sprite name=coins><color="yellow"><amount2></color>?
 str_popup_bakery_collectFirst=Collect your previous order first.
 str_popup_breeding=You must select <color="green">two</color> monsters with <color="green">level 4</color> or above.
 str_popup_breeding_repeat=You haven't bred monsters before. Breed something first.
@@ -689,7 +689,7 @@ str_popup_TimedNotReady=This structure is still functioning. Please wait until i
 str_teleport_entityNotOnThisIsland=This Monster can't be placed on <color="green"><islandName></color>.
 str_teleport_entityLevelNotEnough=To place this monster on <color="green"><islandName></color> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return your monster back to <color="green">Floating City</color> and feed it until the required level.
 str_teleport_unavailable=The Zeppelin is currently at <color="green"><islandName></color>. You must send it here first.
-str_teleport_flying=The Zeppelin is currently flying to <color="green"><islandName></color>. Wait until it arrives or speed it up with diamonds.
+str_teleport_flying=The Zeppelin is currently flying to <color="green"><islandName></color>. Wait until it arrives or speed it up.
 str_teleport_unavailable_monster=The Zeppelin is currently not on this island.
 str_popup_shopUnavailbable=<type> are unavailable on this island.
 str_popup_upgrade=Would you like to upgrade this for <amount> <type>?
@@ -759,14 +759,14 @@ str_class_Ethereal-r=Ethereal(rare)
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter2=Zeppelin
-str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
+str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><sprite name=diamonds><amount></color>?
 str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>
 str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
 str_popup_knottmaker_locked=This item is unavailable. Upgrade your Amalgamator to unlock it.
 str_popup_knottmakerNotSelected=Nothing is selected.
-str_popup_knottmaker_fail=Your crafting failed! But items you used were converted to diamonds.\nYou get <color=#4EFFF5>Diamonds ×<amount></color>.
+str_popup_knottmaker_fail=Your crafting failed! But items you used were converted to diamonds.\nYou get <sprite name=diamonds><color=#4EFFF5><amount></color>
 str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some of the items back!
 str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
 
