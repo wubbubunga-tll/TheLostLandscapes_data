@@ -815,10 +815,10 @@ btn_designerMode_erase=Erase
 btn_designerMode_paint=Paint
 btn_designerMode_change=Change
 btn_designerMode_save=Save
-designerMode_totalCost=Total cost:<color="yellow"> <amount> Coins
-designerMode_sellFor=Sell for:<color="yellow"> <amount> Coins
+designerMode_totalCost=Total cost: <sprite name=diamonds><color="yellow"><amount>
+designerMode_sellFor=Sell for: <sprite name=diamonds><color="yellow"><amount>
 
-obstacleMode_totalCost=Total cost: <col><amount> <type>
+obstacleMode_totalCost=Total cost: <sprite name=<type>><col><amount>
 
 btn_compose=Compose
 btn_breed=Breed
