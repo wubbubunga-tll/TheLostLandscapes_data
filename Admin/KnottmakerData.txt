@@ -28,5 +28,7 @@
 
 1000 Monsters/Knott_special_rare special Log=40,Jewel=40,Fabric=40,Metal=40,Relic=15 30 259200 15
 
+1000 Monsters/Monster_toejammer_rare 6 Relic=1 2 8 1
+
 
 100 none 0 none 1,2,5 36000,25200,18000
