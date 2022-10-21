@@ -8,6 +8,9 @@ monster_pango entity-d Monsters/Monster_pango
 
 monster_boskus entity-d Monsters/Monster_boskus
 
-calamity_audio audio Calamity
+monster_poewk entity-d Monsters/Monster_poewk
 
-midi_update midi-d
+calamity_audio audio Calamity
+calamity_poewk_sounds audio Calamity
+
+midi_update midi
