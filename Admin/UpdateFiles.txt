@@ -10,4 +10,4 @@ monster_boskus entity-d Monsters/Monster_boskus
 
 calamity_audio audio Calamity
 
-midi_update midi
+midi_update midi-d
