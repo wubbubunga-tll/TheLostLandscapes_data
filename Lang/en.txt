@@ -6,6 +6,11 @@ Monsters/Monster_maulch_bio=What's this? One of those old statues from within th
 Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Maulch, the Monotone Mumbler, is perhaps not who you'd expect out here, but whaddaya know! Maulch's Large Lulaguleaf requires much watering, and nowhere has better rain than here it says. Of course, nobody else has even seen it rain but thats irrelevant...
 
+Monsters/Monster_poewk=Poewk
+Monsters/Monster_poewk_bio=Poewk bio
+Monsters/Monster_poewk_awake=Poewk
+Monsters/Monster_poewk_awake_bio=Poewk awake bio
+
 Monsters/Monster_fleechwurm_undof=Fleechwurm
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof

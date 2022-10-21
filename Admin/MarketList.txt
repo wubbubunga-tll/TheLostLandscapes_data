@@ -565,6 +565,7 @@ Monsters/Monster_arackulele
 Monsters/Monster_punkleton
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
+Monsters/Monster_poewk
 -
 decorations:
 Decoration/Decoration_test
@@ -582,12 +583,6 @@ Decoration/Decoration_test11
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
-Decoration/Obstacle_placable_Candy_1
-Decoration/Obstacle_placable_Candy_2
-Decoration/Obstacle_placable_Candy_3
-Decoration/Obstacle_placable_Candy_4
-Decoration/Obstacle_placable_Candy_5
-Decoration/Obstacle_placable_Candy_6
 -
 structures:
 Structures/Structure_breeding_undof
@@ -615,12 +610,4 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
--
-deco_obstacles:
-Decoration/Obstacle_placable_Candy_1
-Decoration/Obstacle_placable_Candy_2
-Decoration/Obstacle_placable_Candy_3
-Decoration/Obstacle_placable_Candy_4
-Decoration/Obstacle_placable_Candy_5
-Decoration/Obstacle_placable_Candy_6
 ;
