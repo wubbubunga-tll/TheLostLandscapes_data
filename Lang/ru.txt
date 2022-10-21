@@ -334,27 +334,27 @@ Monsters/Composer/Monster_spunge_composer=Гупка
 Monsters/Composer/Monster_spunge_composer_bio=А
 
 Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
-Monsters/Monster_toejammer_undof_bio=А
+Monsters/Monster_toejammer_undof_bio=Хотя Палезаторы и кажутся мягкими и податливыми, эти желеподобные Водные элементали очень крепки. Палезаторы поют о «жидких» чудесах: левиафанах из глубин, шуме прибоя, подтопленных подвалах и пенистых смузи.
 
 Monsters/Monster_kanya_undof=<ref>Monsters/Monster_kayna
-Monsters/Monster_kanya_undof_bio=А
+Monsters/Monster_kanya_undof_bio=Этот неизвестный вид был найден заключённым в янтарь, и кто знает сколько он там пробыл! Давай попробуем ослабить стены темницы вибрациями Племенной песни! Кстати, и правда, что-то в этом монстре есть знакомое, будто его видели много-много лет назад...
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
-Monsters/Monster_noggin_undof_bio=А
+Monsters/Monster_noggin_undof_bio=Барабамни, по сути, - музыкальные камни. Их незамысловатые ритмы - эхо пульса самой земли Острова. Вибрации создаваемого Барабамнями рокота заставляют других Монстров качать головами в такт.
 
 Monsters/Monster_fwog_undof=Лягашка
-Monsters/Monster_fwog_undof_bio=А
+Monsters/Monster_fwog_undof_bio=Покинув топи своей родины, Лягашка всю душу вкладывает в свою песнь в надежде найти пару. Её гипнотический зов распространяется по Острову и будит в груди остальных Монстров животное возбуждение.
 
 Monsters/Monster_thrumble_undof=Напевец
-Monsters/Monster_thrumble_undof_bio=А
+Monsters/Monster_thrumble_undof_bio=Напевцы, любящие перекусить, обычно глотают лакомства целиком. Их вытянутые пищеводы сокращаются и растягиваются, пока знаменитые напевы этого счастливчика расщепляют сладости. Если же напевать на голодный желудок, в пищеводе Напевцев образуются пузырьки воздуха, вызывающие внезапный приступ хихиканья!
 
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
-Monsters/Monster_phangler_undof_bio=А
+Monsters/Monster_phangler_undof_bio=Фанглеры всегда находятся в центре всеобщего внимания! Эти прирождённые солисты живут, чтобы выступать, и их нежные голоса можно услышать на любой вечеринке. Не забудь организовать живое выступление на праздник в честь Юбилейного месяца: закажи Фанглера сейчас!
 
 Monsters/Monster_stogg_undof=Стегобака
-Monsters/Monster_stogg_undof_bio=А
+Monsters/Monster_stogg_undof_bio=Будучи алчными коллекционерами камней, Стегобаки обожают копаться в земле мощными передними лапами в поисках новых блестящих минералов. Эти рассеянные монстры также любят закапывать свои сокровища, но, к сожалению, они потом не могут вспомнить, где.
 
 Monsters/Monster_gumtromp=Шармелад
-Monsters/Monster_gumtromp_bio=А
+Monsters/Monster_gumtromp_bio=Весёлый Дудень
 
 Monsters/Monster_keytrus=Клавельсин
 Monsters/Monster_keytrus_bio=А
