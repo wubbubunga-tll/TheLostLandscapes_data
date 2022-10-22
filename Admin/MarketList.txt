@@ -560,6 +560,7 @@ Monsters/Monster_banno
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel
 Monsters/Monster_clamble
+Monsters/Monster_deedge
 Monsters/Monster_tiawa
 Monsters/Monster_arackulele
 Monsters/Monster_punkleton
