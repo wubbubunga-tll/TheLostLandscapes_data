@@ -10,7 +10,10 @@ monster_boskus entity-d Monsters/Monster_boskus
 
 monster_poewk entity Monsters/Monster_poewk
 
+monster_deedge entity Monsters/Monster_deedge
+
 calamity_audio audio Calamity
+calamity_deedge audio Calamity
 calamity_poewk_sounds audio Calamity
 
 midi_update midi
