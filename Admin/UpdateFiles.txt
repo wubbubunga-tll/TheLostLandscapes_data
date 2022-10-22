@@ -1,17 +1,10 @@
-CalamityDenchuhs4
+Calamity
 
 monster_clamble entity Monsters/Monster_clamble
 
-monster_denchuhs entity-d Monsters/Monster_denchuhs
-
-monster_pango entity-d Monsters/Monster_pango
-
-monster_boskus entity-d Monsters/Monster_boskus
-
 monster_poewk entity Monsters/Monster_poewk
 
-calamity_audio audio Calamity
+monster_deedge entity Monsters/Monster_deedge
 
-deedge entity Monsters/Monster_deedge
-deedge audio Calamity
-deedge midi
+calamityaudio audio Calamity
+midi midi
