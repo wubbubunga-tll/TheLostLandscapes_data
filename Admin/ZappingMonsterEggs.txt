@@ -54,6 +54,5 @@ Monsters/Monster_tiawa 1
 Monsters/Monster_arackulele 1
 Monsters/Monster_punkleton 1
 Monsters/Monster_ffydill 1
-Monsters/Monster_blasoom 1
 Monsters/Monster_deedge 1
 
