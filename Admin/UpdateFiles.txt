@@ -8,7 +8,7 @@ monster_pango entity-d Monsters/Monster_pango
 
 monster_boskus entity-d Monsters/Monster_boskus
 
-monster_poewk entity-d Monsters/Monster_poewk
+monster_poewk entity Monsters/Monster_poewk
 
 calamity_audio audio Calamity
 calamity_poewk_sounds audio Calamity
