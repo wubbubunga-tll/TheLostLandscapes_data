@@ -567,6 +567,7 @@ Monsters/Monster_punkleton
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
 Monsters/Monster_poewk
+Monsters/Monster_pixolotl
 -
 decorations:
 Decoration/Decoration_test
