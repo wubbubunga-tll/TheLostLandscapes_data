@@ -1,4 +1,4 @@
-Calamity
+Calamity2
 
 monster_clamble entity Monsters/Monster_clamble
 
@@ -6,6 +6,10 @@ monster_poewk entity Monsters/Monster_poewk
 
 monster_deedge entity Monsters/Monster_deedge
 
+monster_pixolotl entity Monsters/Monster_pixolotl
+
 calamityaudio audio Calamity
+
+calamity_pixolotl audio Calamity
 
 calamity midi
