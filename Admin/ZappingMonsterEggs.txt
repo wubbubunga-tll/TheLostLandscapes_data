@@ -48,6 +48,8 @@ Monsters/Monster_pango 1
 Monsters/Monster_denchuhs 1
 Monsters/Monster_banno 1
 Monsters/Monster_rootitoot 1
+;
+Pixolotl Calamity
 Monsters/Monster_pummel 1
 Monsters/Monster_clamble 1
 Monsters/Monster_tiawa 1
@@ -55,4 +57,5 @@ Monsters/Monster_arackulele 1
 Monsters/Monster_punkleton 1
 Monsters/Monster_ffydill 1
 Monsters/Monster_deedge 1
+
 
