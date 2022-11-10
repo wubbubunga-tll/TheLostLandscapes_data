@@ -669,7 +669,7 @@ str_popup_shopUnavailbable=<type> недоступны на этом остро�
 str_popup_upgrade=Вы хотите улучшить это за <amount> <type>?
 str_popup_upgrade_items=Вы хотите улучшить это?\nЭто будет вам стоить: 
 
-str_popup_knottmaker_locked=Этот монстер пока не доступен. Для начала улучшите Амальагматор
+str_popup_knottmaker_locked=Этот монстер пока не доступен. Для начала улучшите Амальгаматор
 str_popup_knottmakerNotSelected=Вы ничего не выбрали.
 str_popup_knottmaker_fail=Процесс создания не удался! Но предметы были преобразованы в бриллианты.\nВы получили <color=#4EFFF5>бриллиантов ×<amount></color>.
 str_popup_knottmaker_fail_items=Процесс создания не удался! Не волнуйтесь вы получите некоторые предметы обратно!
@@ -680,7 +680,7 @@ str_noitems=Пусто
 str_popup_islandComingSoon=Новые и интересные дополнения вскоре!
 str_popup_islandAlreadyOn=Вы уже на этом острове.
 
-str_taptocollectrewards=Нажми для сбора
+str_taptocollectrewards=Нажми чтобы собрать
 str_mailbox_reward_collected=Собрано
 
 
@@ -826,15 +826,15 @@ btn_teleportSend=Отправить
 btn_inf_bio=Описание
 btn_inf_stats=Статистика
 btn_inf_islands=Острова
-btn_zap=Засунуть
+btn_zap=Искра Жизни
 btn_inventory=Инвентарь
 btn_wakeUp=Разбудить
 btn_view=Посмотреть
 btn_upgrade=Улучшить
 
 goal_breed_buy=Купите и разместите <color="green"><entityName>
-goal_breed_an=Разведите и поместите <color="green"><entityName>
-goal_breed=Разведите и поместите <color="green"><entityName>
+goal_breed_an=Выведите и поместите <color="green"><entityName>
+goal_breed=Выведите и поместите <color="green"><entityName>
 
 goal_celestial=Приобретите <color="green"><entityName>
 goal_celestial_an=Приобретите <color="green"><entityName>
