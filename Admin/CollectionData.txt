@@ -78,6 +78,7 @@ Monsters/Monster_scaratar
 Monsters/Monster_flootfly
 Monsters/Monster_rootitoot
 Monsters/Monster_spurrit_desert
+Monsters/Monster_bisonorus
 ;
 Organs:
 Monsters/Monster_handmond

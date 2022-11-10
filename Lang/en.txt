@@ -6,6 +6,8 @@ Monsters/Monster_maulch_bio=What's this? One of those old statues from within th
 Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Maulch, the Monotone Mumbler, is perhaps not who you'd expect out here, but whaddaya know! Maulch's Large Lulaguleaf requires much watering, and nowhere has better rain than here it says. Of course, nobody else has even seen it rain but thats irrelevant...
 
+Monsters/Monster_bisonorus=Bisonorus
+Monsters/Monster_bisonorus=Bisonorus bio (Azu if you will write this, please mention how the emperor looks like a wig when they are sleping)
 Monsters/Monster_pixolotl=Pixolotl
 Monsters/Monster_pixolotl_bio=Pixolotl bio
 Monsters/Monster_pixolotl_awake=Pixolotl

@@ -1,4 +1,4 @@
-Calamity3
+biosn
 
 monster_clamble entity Monsters/Monster_clamble
 
@@ -7,6 +7,8 @@ monster_poewk entity Monsters/Monster_poewk
 monster_deedge entity Monsters/Monster_deedge
 
 monster_pixolotl entity Monsters/Monster_pixolotl
+
+monster_bisonorus entity Monsters/Monster_bisonorus
 
 calamityaudio audio Calamity
 
