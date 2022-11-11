@@ -71,6 +71,7 @@ Middleboi
 Wadward
 Mari
 Oxen't
+Wabluu
 ;
 Monsters/Monster_varrow
 Bow and Varrow
