@@ -12,6 +12,16 @@ Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
 Monsters/Monster_fleechwurm_undof_awake=Червеугодник
 Monsters/Monster_fleechwurm_undof_awake_bio=Некоторые монстры используют уникальную форму тела или свои особенности не только для музыки. Внутренняя полость Червеугодника хорошо резонирует, а ещё способна издавать свист, которым он гипнотизирует других Вублинов. Так он может заставить других делать за него скучную работу или ухаживать за его тонкими листоподобными лапками. Некоторые Вублины более устойчивы к этому эффекту и в шутливой форме предупреждают Червеугодника, что так поступать нехорошо.
 
+Monsters/Monster_pixolotl=Пиксолотль
+Monsters/Monster_pixolotl_bio=А чё сразу шакал то?
+Monsters/Monster_pixolotl_awake=Пиксолотль
+Monsters/Monster_pixolotl_awake_bio=ьлтолоскиП
+
+Monsters/Monster_poewk=Повек
+Monsters/Monster_poewk_bio=Чума
+Monsters/Monster_poewk_awake=Повек
+Monsters/Monster_poewk_awake_bio=Пов:Ержан встал
+
 Monsters/Monster_spurrit=Духов
 Monsters/Monster_spurrit_bio=Узза? УЗЗААА! Этот увлеченный исследователь, который теперь находится ещё дальше от дома, чем когда-либо, счастлив исследовать этот загадочный и яркий мир.
 
@@ -408,6 +418,12 @@ Monsters/Monster_denchuhs_bio=ЧЕЛюстяги био
 
 Monsters/Monster_clamble=Раковица
 Monsters/Monster_clamble_bio=Сраковица
+
+Monsters/Monster_bisonorus=Бизонозавр
+Monsters/Monster_bisonorus_bio=Бизонозавр и Император
+
+Monsters/Monster_deedge=Дидж
+Monsters/Monster_deedge_bio=Холодядя
 
 EM_path1=Сырые Камешки
 EM_path1_bio=А
