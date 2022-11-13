@@ -740,6 +740,9 @@ str_island_Candy_bio=Candy Island bio
 str_island_Calamity=Calamity Island
 str_island_Calamity_bio=Calamity Island bio
 
+str_island_TI=Tutor's Island
+str_island_TI_bio=bio
+
 str_stars_light=Luminous Beacon
 str_stars_psychic=Subconscious Spiral
 str_stars_bone=Osseous Cross
