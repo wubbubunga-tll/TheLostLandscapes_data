@@ -618,6 +618,7 @@ TI
 monsters:
 Monsters/Monster_quibble
 Monsters/Monster_oaktopus
+Monsters/Monster_reedling_young_singer
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit
 -

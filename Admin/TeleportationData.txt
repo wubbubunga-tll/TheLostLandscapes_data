@@ -96,4 +96,5 @@ Monsters/Monster_quibble_young=Monsters/Monster_quibble 17
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 17
 Monsters/Monster_loodvigg=Monsters/Monster_loodvigg 1
 Monsters/Monster_spurrit_young=Monsters/Monster_spurrit 17
+Monsters/Monster_reedling_young=Monsters/Monster_reedling_young_singer 17
 
