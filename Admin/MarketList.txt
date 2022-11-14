@@ -139,6 +139,7 @@ Monsters/Monster_quibble_young
 Monsters/Monster_osstax_young
 Monsters/Monster_rootitoot_young
 Monsters/Monster_spunge_young
+Monsters/Monster_reedling_young
 -
 monsters_celestials:
 Monsters/Monster_hornacle
