@@ -135,6 +135,9 @@ Monsters/Monster_maw_young_bio=It should come to no surprise that the young Maw 
 Monsters/Monster_noggin_young=Young Noggin
 Monsters/Monster_noggin_young_bio=Young Noggin bio
 
+Monsters/Monster_reedling=Reedling
+Monsters/Monster_reedling_bio=Reedling bio
+
 Monsters/Monster_reedling_young=Young Reedling
 Monsters/Monster_reedling_young_bio=Young Reedling bio
 
