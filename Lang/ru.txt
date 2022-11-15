@@ -733,6 +733,9 @@ str_island_Candy_bio=Остров Конфет био
 str_island_Calamity=Остров Бедствий
 str_island_Calamity_bio=Остров Бедствий био
 
+str_island_TI=Древо знаний
+str_island_TI_bio=Абобус
+
 str_stars_light=Ясный свет
 str_stars_psychic=Спираль подсознания
 str_stars_bone=Костный крест
