@@ -1,0 +1,4 @@
+SapStick Relic=1,Log=2,<Type>Sweets=4 10
+FlowerJam <Type>Flowers=10,Cattail=10 30
+Buttergum Butterfly=4,<Type>Sweets=3
+Churrbone Bone=1,Fruit_apple=4
