@@ -493,6 +493,7 @@ Monsters/Monster_jamboree_undof
 Monsters/Monster_ghazt_undof
 Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
+Monsters/Monster_wubbox_rare_undof
 -
 decorations:
 Decoration/Decoration_test
