@@ -179,13 +179,13 @@ Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 
 Monsters/Monster_jamboree_undof diamonds=500 jamboree 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
 Monsters/Monster_ghazt_undof diamonds=1000 plasma 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
 
-Monsters/Monster_dipster_1 diamonds=5 dipster 0 0 coins=5@120@coins=60 Dipster ,do 0 0
-Monsters/Monster_dipster_2 diamonds=5 dipster 0 0 coins=5@120@coins=60 Dipster ,re 0 0
-Monsters/Monster_dipster_3 diamonds=5 dipster 0 0 coins=5@120@coins=60 Dipster ,mi 0 0
-Monsters/Monster_dipster_4 diamonds=5 dipster 0 0 coins=5@120@coins=60 Dipster ,fa 0 0
-Monsters/Monster_dipster_5 diamonds=5 dipster 0 0 coins=5@120@coins=60 Dipster ,sol 0 0
-Monsters/Monster_dipster_6 diamonds=5 dipster 0 0 coins=5@120@coins=60 Dipster ,la 0 0
-Monsters/Monster_dipster_7 diamonds=5 dipster 0 0 coins=5@120@coins=60 Dipster ,ti 0 0
+Monsters/Monster_dipster_1 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
+Monsters/Monster_dipster_2 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,re 0 0
+Monsters/Monster_dipster_3 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,mi 0 0
+Monsters/Monster_dipster_4 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,fa 0 0
+Monsters/Monster_dipster_5 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,sol 0 0
+Monsters/Monster_dipster_6 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
+Monsters/Monster_dipster_7 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
 
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
