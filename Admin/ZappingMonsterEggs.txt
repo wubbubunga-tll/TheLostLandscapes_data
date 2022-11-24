@@ -24,6 +24,11 @@ Structures/Structure_bakery 2
 Decoration/Decoration_test1 2
 ;
 Fleechwurm Candy
+Monsters/Monster_ghazt_undof 1
+Monsters/Monster_jamboree_undof 1
+Monsters/Monster_sprinklate 4
+;
+Wubbox Candy
 Monsters/Monster_toejammer_undof 1
 Monsters/Monster_kanya_undof 1
 Monsters/Monster_noggin_undof 1
