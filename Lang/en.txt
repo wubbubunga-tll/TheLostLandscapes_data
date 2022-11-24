@@ -4,12 +4,12 @@ WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious 
 Monsters/Monster_wubbox_undof=Wubbox
 Monsters/Monster_wubbox_undof_bio=Wubbox bio
 Monsters/Monster_wubbox_undof_awake=<ref>Monsters/Monster_wubbox_undof
-Monsters/Monster_wubbox_undof_bio_awake=Wubbox bio
+Monsters/Monster_wubbox_undof_bio_awake=Wubbox awake bio
 
 Monsters/Monster_wubbox_rare_undof=Rare Wubbox
 Monsters/Monster_wubbox_rare_undof_bio=Rare Wubbox bio
 Monsters/Monster_wubbox_rare_undof_awake=<ref>Monsters/Monster_wubbox_rare_undof
-Monsters/Monster_wubbox_rare_undof_awake_bio=Rare Wubbox bio
+Monsters/Monster_wubbox_rare_undof_awake_bio=Rare Wubbox awake bio
 
 Monsters/Monster_maulch=Maulch
 Monsters/Monster_maulch_bio=What's this? One of those old statues from within the Storm found its way to you! Awaken it and free the lost soul within...
@@ -785,6 +785,7 @@ str_class_Natural-r=Natural(rare)
 str_class_Magical=Magical
 str_class_Magical-r=Magical(rare)
 str_class_Supernatural=Supernatural
+str_class_Supernatural-r=Supernatural(rare)
 str_class_Celestial=Celestial
 str_class_Celestial-s=Supercelestial
 str_class_Lost=Strayed
