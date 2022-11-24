@@ -45,6 +45,23 @@ Monsters/Monster_gobstomper 1
 Monsters/Monster_claramel 1
 Monsters/Monster_sprinklate 1
 ;
+Wubbox_rare Candy
+Monsters/Monster_toejammer_rare_undof 1
+Monsters/Monster_kanya_rare_undof 1
+Monsters/Monster_noggin_rare_undof 1
+Monsters/Monster_fwog_rare_undof 1
+Monsters/Monster_thrumble_rare_undof 1
+Monsters/Monster_phangler_rare_undof 1
+Monsters/Monster_stogg_rare_undof 1
+Monsters/Monster_gumtromp_rare 1
+Monsters/Monster_keytrus_rare 1
+Monsters/Monster_koodahcane_rare 1
+Monsters/Monster_marshflamo_rare 1
+Monsters/Monster_brasscuit_rare 1
+Monsters/Monster_gobstomper_rare 1
+Monsters/Monster_claramel_rare 1
+Monsters/Monster_sprinklate_rare 1
+;
 Poewk Calamity
 Monsters/Monster_stogg_undof 1
 Monsters/Monster_varrow 1
