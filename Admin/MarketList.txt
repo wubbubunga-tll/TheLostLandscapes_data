@@ -489,6 +489,13 @@ Monsters/Monster_keytrus
 Monsters/Monster_claramel
 Monsters/Monster_brasscuit
 Monsters/Monster_sprinklate
+Monsters/Monster_dipster_1
+Monsters/Monster_dipster_2
+Monsters/Monster_dipster_3
+Monsters/Monster_dipster_4
+Monsters/Monster_dipster_5
+Monsters/Monster_dipster_6
+Monsters/Monster_dipster_7
 Monsters/Monster_jamboree_undof
 Monsters/Monster_ghazt_undof
 Monsters/Monster_fleechwurm_undof
