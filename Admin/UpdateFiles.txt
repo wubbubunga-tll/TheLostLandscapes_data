@@ -1,17 +1,17 @@
 Calamity3
 
-monster_clamble entity Monsters/Monster_clamble
+monster_clamble entity-d Monsters/Monster_clamble
 
-monster_poewk entity Monsters/Monster_poewk
+monster_poewk entity-d Monsters/Monster_poewk
 
-monster_deedge entity Monsters/Monster_deedge
+monster_deedge entity-d Monsters/Monster_deedge
 
-monster_pixolotl entity Monsters/Monster_pixolotl
+monster_pixolotl entity-d Monsters/Monster_pixolotl
 
-monster_bisonorus entity Monsters/Monster_bisonorus
+monster_bisonorus entity-d Monsters/Monster_bisonorus
 
-calamityaudio audio Calamity
+calamityaudio audio-d Calamity
 
-calamity_pixolotl audio Calamity
+calamity_pixolotl audio-d Calamity
 
-calamity midi
+calamity midi-d
