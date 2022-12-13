@@ -296,6 +296,7 @@ Monsters/Monster_denchuhs diamonds=120
 Monsters/Monster_clamble diamonds=300
 Monsters/Monster_schmoochle diamonds=1000
 Monsters/Monster_plixie diamonds=5000
+Monsters/Monster_reebro diamonds=4000
 -
 monster_rares:
 Monsters/Monster_oaktopus_rare
