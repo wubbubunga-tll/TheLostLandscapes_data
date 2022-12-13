@@ -1,6 +1,8 @@
 ﻿-------
 WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Instead of sending them to the nursery, zap the monster eggs you've bred on your other islands, and they'll transform into the electrical energy required to take up this Wublin.
 
+MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it later.
+
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=Do bio
 Monsters/Monster_dipster_2=Re
