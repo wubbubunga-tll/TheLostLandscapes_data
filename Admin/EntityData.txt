@@ -80,6 +80,8 @@ Monsters/Monster_rootitoot_young diamonds=40 water@fire@plant 43200 100 coins=1@
 Monsters/Monster_reedling_young diamonds=40 air@plant@earth 43200 100 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 Monsters/Monster_spunge_young diamonds=40 water@air@plant 43200 100 coins=1@72@coins=260 Natural spunge,spunge_young 4 0
 
+Monsters/Monster_reedling_young_singer diamonds=40 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
+
 Monsters/Monster_fluoress coins=400 light 14400 10 coins=1@120@coins=90 Magical fluoress,fluoress 6 0
 Monsters/Monster_rootitoot diamonds=70 water@fire@plant 43200 25 coins=1@72@coins=260 Natural rootitoot,rootitoot 4 0
 
@@ -89,8 +91,6 @@ Monsters/Monster_ffydill diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seas
 Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
 Monsters/Monster_spurrit_desert diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
-
-Monsters/Monster_reedling_young_singer diamonds=40 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 
 Monsters/Special/Monster_melochness diamonds=100 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 0
 Monsters/Monster_percFrog diamonds=60 water@earth@faerie 10 0 coins=1@72@coins=1000 Magical percFrog,percFrog 100 0
@@ -206,10 +206,10 @@ Structures/Structure_amalgamator_city coins=10000 0 1
 Structures/Structure_jukebox coins=1000 0 1
 Structures/Structure_bass coins=100000 0 2
 
-Structures/Structure_knottmaker1 coins=100000 0 2
-Structures/Structure_knottmaker2 coins=100000 0 2
-Structures/Structure_knottmaker3 coins=100000 0 2
-Structures/Structure_knottmaker4 coins=100000 0 2
+Structures/Structure_knottmaker1 coins=100000 0 0
+Structures/Structure_knottmaker2 coins=100000 0 0
+Structures/Structure_knottmaker3 coins=100000 0 0
+Structures/Structure_knottmaker4 coins=100000 0 0
 
 Desert_path1 coins=100 0 0
 Desert_path2 coins=200 0 0
