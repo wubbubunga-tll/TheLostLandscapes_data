@@ -374,22 +374,22 @@ Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best
 
 
 Structures/Structure_castle_undof=Basic Castle
-Structures/Structure_castle_undof_bio=Basic Castle bio...
+Structures/Structure_castle_undof_bio=Singing takes a lot of energy, and monsters need sleep! The Basic Castle really isn't very comfy at all; the rain gets through, it's drafty, and cramped.
 
 Structures/Structure_castle_undof2=Modest Castle
-Structures/Structure_castle_undof2_bio=Modest Castle bio...
+Structures/Structure_castle_undof2_bio=It's great to have a good night's sleep! The Modest Castle is dry and warm, but small.
 
 Structures/Structure_castle_undof3=Comfortable Castle
-Structures/Structure_castle_undof3_bio=Comfortable Castle bio...
+Structures/Structure_castle_undof3_bio=Ah, some elbow room! The Comfortable Castle even has indoor plumbing.	
 
 Structures/Structure_castle_undof4=Spacious Castle
-Structures/Structure_castle_undof4_bio=Spacious Castle bio...
+Structures/Structure_castle_undof4_bio=The Spacious Castle has lots of room for monsters to relax and refresh.
 
 Structures/Structure_castle_undof5=Luxurious Castle
-Structures/Structure_castle_undof5_bio=Luxurious Castle bio...
+Structures/Structure_castle_undof5_bio=	It just doesn't get any better than this! The Luxurious Castle has everything a monster might enjoy, from cold slime pools to dark, nasty dungeons. Who would ever want to leave?
 
 Structures/Structure_castle_undof6=Extravagant Castle
-Structures/Structure_castle_undof6_bio=Extravagant Castle bio...
+Structures/Structure_castle_undof6_bio=This state of the art domicile goes way overboard when it comes to spoiling the monsters...  Personal assistants to wait on them hand and foot (at least those that have hands and feet), the spiffiest sound systems on the monster market...  They've got it made in the shade.
 
 Structures/Structure_bakery=Bakery
 Structures/Structure_bakery_bio=Bakery bio
