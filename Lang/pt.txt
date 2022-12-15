@@ -13,6 +13,21 @@ Monsters/Monster_punkleton_bio=Punkleton bio
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! Este explorador intrépido, agora mais longe de casa do que nunca, está feliz em explorar este mundo estranho e vibrante.
 
+Monsters/Monster_dipster_1=Do
+Monsters/Monster_dipster_1_bio=Do bio
+Monsters/Monster_dipster_2=Ré
+Monsters/Monster_dipster_2_bio=Re bio
+Monsters/Monster_dipster_3=Mi
+Monsters/Monster_dipster_3_bio=Mi bio
+Monsters/Monster_dipster_4=Fá
+Monsters/Monster_dipster_4_bio=Fa bio
+Monsters/Monster_dipster_5=Sol
+Monsters/Monster_dipster_5_bio=Sol bio
+Monsters/Monster_dipster_6=Lá
+Monsters/Monster_dipster_6_bio=La bio
+Monsters/Monster_dipster_7=Si
+Monsters/Monster_dipster_7_bio=Si bio
+
 Monsters/Monster_spurrit_desert=Spurrit
 Monsters/Monster_spurrit_desert_bio=Este explorador intrépido, fascinado por essas ruínas antigas, parece ter encontrado alguns problemas com a vida aviária local. Enquanto os Abultriz são inofensivos, Spurrit ainda congela ao som de seu grito, nem mesmo soltando um grito característico.
 Monsters/Monster_toejammer=Dedo Enrroscado
@@ -187,6 +202,40 @@ Monsters/Knott_10_bio=Bel'yawn Zirro bio
 Monsters/Knott_special=Chimblickle
 Monsters/Knott_special_bio=Chimblickle bio
 
+Monsters/Knott_1_rare=Rare Knottshurr Tree
+Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BooOos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 
+
+Monsters/Knott_2_rare=Bay
+Monsters/Knott_2_rare_bio=Bay bio
+
+Monsters/Knott_3_rare=Souxls Vessel
+Monsters/Knott_3_rare_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
+
+Monsters/Knott_4_rare=Rare BoOoo
+Monsters/Knott_4_rare_bio=Rare BooOo is a misleading name. These thumpies are actually Ghawgs. Fishy looking, yet still very much covered in fur, creatures. Always accompanied by a pack of tortappers seeking new life and exciting adventures, they travel between realms and explore the world. Occasionally stoping for a few months if they like the place. These monsters sure know how to enjoy life.
+
+Monsters/Knott_5_rare=Rare Mount Tuzzpikk
+Monsters/Knott_5_rare_bio=Unlike mount Tuzzpikks that we are used to, these particular variants have a plethora of unique facial features on each of their heads. Every single one is full of emotions and character. A saying goes that the biggest of them was based around a monster, not native to any of the monster worlds. How 
+
+peculiar...
+Monsters/Knott_6_rare=Mount Mound
+Monsters/Knott_6_rare_bio=Mount Mound bio
+
+Monsters/Knott_7_rare=Flocca
+Monsters/Knott_7_rare_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
+
+Monsters/Knott_8_rare=Cleomace
+Monsters/Knott_8_rare_bio=Cleomace bio
+
+Monsters/Knott_9_rare=Babushka Knittshurr
+Monsters/Knott_9_rare_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
+
+Monsters/Knott_10_rare=Bel'yawn Zirro
+Monsters/Knott_10_rare_bio=Bel'yawn Zirro bio
+
+Monsters/Knott_special_rare=Chambinho
+Monsters/Knott_special_rare_bio=Chimblickle bio
+
 Monsters/Monster_handmond=Morgão
 Monsters/Monster_handmond_bio=Handmond bio
 
@@ -336,8 +385,9 @@ Structures/Structure_amalgamator_city_bio=Bebe food maker bio
 Structures/Structure_jukebox=Jukebox
 Structures/Structure_jukebox_bio=Anunciando dias passados, a Jukebox ainda ostenta recordações de conhecedores musicais que esperam tocar depois que o dia terminar. Enquanto uma versão mais brilhante parece ter sido modelada para um paraíso distante, este protótipo mais antigo chegou até aqui, onde é adorado por todos os jovens. Como eles não podem cantar, eles se aglomeram e ouvem alegremente, inspirando-se e absorvendo a criatividade bruta das frequências fantásticas emitidas de dentro.
 
-Structures/Structure_bass=Bass machine
-Structures/Structure_bass_bio=The Bass Machine is a cutting edge mix of art and technology, originating from the age of the Great Burgundy Incident. While the knowledge to create more was lost long ago, many can be found lying around in buildings across the floating city. These strange machines are known to be far more intelligent than any other being within the known realm, but yet cannot communicate with the outside world, leaving them to hum and strum bass notes hoping to be understood…
+Structures/Structure_bass=Máquina de Baixo
+Structures/Structure_bass_bio=A Máquina de Baixo é uma mistura de arte e técnologia de ponta, originária da era do Grande Incidente da Borgonha. Embora o conhecimento para criar mais delas tenha sido perdido há muito tempo, muitas ainda podem ser encontradas espalhadas em prédios pela cidade flutuante. Essas estranhas máquinas são conhecidas por serem muito mais inteligentes do que qualquer outro ser dentro do mundo monstro, mas ainda não podem se comunicar com o mundo exterior, restando apenas a ação de zumbir e dedilhar notas graves na esperança de serem compreendidas…
+
 
 Structures/Structure_knottmaker1=Bugiganga estranha.
 Structures/Structure_knottmaker1_bio=A strange contraption bio
@@ -424,6 +474,8 @@ Monsters/Monster_jamboree_undof=Confolião
 Monsters/Monster_jamboree_undof_bio=Dizer que a Cabana Sazonal está repleta de boa vontade e júbilo seria correto, e isso em grande parte graças à presença de Confolião! Por muitos anos, o autoproclamado líder da Cabana assumiu a responsabilidade de tentar organizar os itens Sazonais que enfeitam cada canto do esconderijo flutuante. É um Monstro muito paciente, que anseia todos os anos pelo Mês de Aniversário, quando ele oferece uma grande festa para os Sazonais migratórios que voltam para o poleiro! Confolião aprecia quando outros Agrados além de Bolo são servidas nessas festas.
 Monsters/Monster_ghazt_undof=Fantominho
 Monsters/Monster_ghazt_undof_bio= O Fantominho, muito extraordinário, só aparece quando tudo está justo e perfeito. Imbuído do poder do Plasma, ele tem uma silhueta esbelta e a capacidade de se tornar etéreo - ideal para atravessar diversos lugares e passar despercebido. Porém, tudo isso o torna mais vulnerável a viagens interdimensionais acidentais. Ele gosta de brincar com outros Monstros, mas assim como um gato, às vezes prefere ficar sozinho... ou na companhia de outros de sua espécie.
+
+WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
 Monsters/Monster_maulch=Composto
 Monsters/Monster_maulch_bio=O que é isso? Uma daquelas estátues antigas que vieram direto da Tempestade que chegou até você! Acorde ela e libere a sua alma...
 
@@ -434,6 +486,16 @@ Monsters/Monster_fleechwurm_undof=Hipnonhoca
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
 Monsters/Monster_fleechwurm_undof_awake_bio=Além de serem usados para tocar música, alguns Monstros utilizam as vantagens de suas características e formatos únicos para outros propósitos. No caso da Hipnonhoca, a acústica de sua cavidade corporal pode gerar uma série de assovios que têm um efeito hipnótico sobre outros Wub-Caixoblins. Eles podem ser usados para persuadir os outros a fazerem tarefas indesejadas ou a tratar de suas necessidades estéticas. Alguns Wub-Caixoblins são mais resistentes que outros e reprimem a Hipnonhoca amigavelmente para que ela não fique muito abusada.
+
+Monsters/Monster_pixolotl=Pixelote
+Monsters/Monster_pixolotl_bio=Pixolotl bio
+Monsters/Monster_pixolotl_awake=Pixelote
+Monsters/Monster_pixolotl_awake_bio=Pixolotl awake bio
+
+Monsters/Monster_poewk=Poewk
+Monsters/Monster_poewk_bio=Poewk bio
+Monsters/Monster_poewk_awake=Poewk
+Monsters/Monster_poewk_awake_bio=Poewk awake bio
 
 Monsters/Monster_denchuhs=Gemolares
 Monsters/Monster_denchuhs_bio=Mah dentures
@@ -447,6 +509,12 @@ Monsters/Monster_ffydill_bio=Ffidyll bio
 Monsters/Monster_boskus=Bícanco
 Monsters/Monster_boskus_bio=Boskus bio
 
+Monsters/Monster_deedge=Dí-Jay
+Monsters/Monster_deedge_bio=Deedge bio
+
+Monsters/Monster_clamble=Rei-Do-Vinhedo
+Monsters/Monster_clamble_bio=Clamble bio
+
 Monsters/Monster_arackulele=Aranhaculele
 Monsters/Monster_arackulele_bio=Arackulele bio
 
@@ -455,43 +523,30 @@ Monsters/Monster_pango_bio=Pango bio
 
 #--PATHS--#
 EM_path1=Caminho de Pedras Encharcadas
-EM_path1_bio=These stones are soaked! Maybe some thirsty monster created a mess while taking a drink here?
 
 EM_path2=Caminho de Pedrinhas Pingando
-EM_path2_bio=These pebbles are still quite wet! Maybe some seaborne creature exited the water here?
 
 EM_path3=Grama Brilhante #1
-EM_path3_bio=This bright patch of grass is a reminder to all monsters to look on the bright side! And the swampy side? We aren’t quite sure but it’s great to stand on and get your toes in!
 
 EM_path4=Grama Brilhante #2
-EM_path4_bio=This bright patch of grass is a reminder to all monsters to look on the bright side! And the swampy side? We aren’t quite sure but it’s great to stand on and get your toes in!
 
 EM_path5=Caminho do Toco 
-EM_path5_bio=This round cookie of Birhrrc wood was left here eons ago by an unknown woodfeller. Nothing is known about them, besides that they used an unusual cranium based chopping method…
 
 EM_path6=Lascas de Madeira
-EM_path6_bio=These shavings off a Bihrrc tree have been left here for a while. Sources suggest they were carved by a fledgeling Stoopa working on her first mortar!
 
 EM_path7=Caminho de Bolharito Super-Crescido 
-EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
 
 Desert_path1=Desert path 1
-Desert_path1_bio=Desert path
 
 Desert_path2=Desert path 2
-Desert_path2_bio=Desert path
 
 Desert_path3=Desert path 3
-Desert_path3_bio=Desert path
 
 Desert_path4=Desert path 4
-Desert_path4_bio=Desert path
 
 Desert_path5=Desert path 5
-Desert_path5_bio=Desert path
 
 Desert_path6=Desert path 6
-Desert_path6_bio=Desert path
 
 #--DECORATIONS--##
 Decoration/Decoration_test=Notárvore
@@ -523,7 +578,7 @@ Decoration/Decoration_test12_bio=Ninguém sabe o que "O Rei" é, mais todo mundo
 
 Decoration/Decoration_knott=Monte Nãocerteza
 Decoration/Decoration_knott_bio=Mount Knottshurr bio
-Decoration/Decoration_mors=Mountain dos Bocados
+Decoration/Decoration_mors=Mountanha dos Bocados
 Decoration/Decoration_mors_bio=Mountain Morsel bio
  
 #--OBSTACLES--##
@@ -686,7 +741,7 @@ str_currency_Wool=Algodão
 str_currency_xp=XP
 str_currency_LVL=Nível
 
-str_currency=Technical Var
+str_currency=Variável Técnica
 str_noitems - Sem itens
 
 str_limitedTime=Disponível por um tempo limitado
@@ -721,6 +776,8 @@ str_popup_shopUnavailbable=<type> indisponpível nesta ilha!
 str_popup_upgrade=Quer melhorar isso por <amount> <type>?
 str_popup_upgrade_items=Quer melhorar isso?\nIsso irá te custar:
 str_popup_notEnough=Você não tem <color=green>Itens</color> o suficiente.
+str_popup_unlock=Você descobriu:\n<name>
+
 
 btn_upgrade=Melhorar
 btn_view=Ver
@@ -763,6 +820,9 @@ str_island_Desert_bio=Noramba Desert bio
 str_island_Candy=Ilha Doce
 str_island_Candy_bio=Candy Island bio
 
+str_island_TI=Ilha dos Tutores
+str_island_TI_bio=bio
+
 #--STARS--##
 str_stars_light=Sinal Luminoso
 str_stars_psychic=Espiral Subconsciente
@@ -796,6 +856,7 @@ str_class_Seasonal=Sazonal
 str_class_Seasonal-r=Sazonal(Raro)
 str_class_Ethereal=Etéreo
 str_class_Ethereal-r=Etéreo(Raro)
+str_class_Dipster=Acanhado
 
 ##--BUTTONS--##
 str_teleporter=Zepelim Sinfônico
