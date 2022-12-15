@@ -22,9 +22,9 @@ Monsters/Monster_reebro=Reebro
 Monsters/Monster_reebro_bio=Reebro bio
 
 Monsters/Monster_wubbox_undof=Wubbox
-Monsters/Monster_wubbox_undof_bio=Wubbox bio
+Monsters/Monster_wubbox_undof_bio=One day as the monsters were tunneling underground, they stumbled upon an immense underground vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations:Sample analysis of the box's exterior indicates that it shares traits with every known monster species - in fact, it even has specialized compartments with an otherworldy shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.Gather some intrepid monster volunteers and see what happens when you 'box' them!
 Monsters/Monster_wubbox_undof_awake=<ref>Monsters/Monster_wubbox_undof
-Monsters/Monster_wubbox_undof_bio_awake=Wubbox awake bio
+Monsters/Monster_wubbox_undof_bio_awake=Eureka! The Wubbox awakes!  As it turns out, this extraordinary electric elemental is vital to the life processes of the colossal island monsters that the other singing denizens call home.  The shrunken monsters used to power up the creature report that inside is as fun as any playground they've ever seen, so they are happy to stay indefinitely.The robotic chirps and whistles it uses to express itself can take some getting used to, but eventually become a beloved and inextricable part of the island's tune.  Besides, it's all the rage in "current" music.The specific breeding characteristics of the Wubbox have not yet been studied.
 
 Monsters/Monster_wubbox_rare_undof=Rare Wubbox
 Monsters/Monster_wubbox_rare_undof_bio=Rare Wubbox bio
