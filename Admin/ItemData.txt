@@ -37,7 +37,7 @@ Fruit_apple 100 fruits
 Fruit_orange 50 fruits
 Fruit_pear 40 fruits
 ;
-Island_Organs: 20 47
+Island_Organs: 10 22
 Bone 33 ground
 BloodCell_red 33 flying BloodCells
 BloodCell_white 33 flying BloodCells
