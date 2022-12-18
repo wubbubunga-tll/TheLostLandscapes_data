@@ -529,7 +529,7 @@ Organ_path1=Red Blood Cell Path
 
 Organ_path2=White Blood Cell Path
 
-Organ_path3=Blood Bubblerite Path
+Organ_path3=Hematogen Bubblerite Path
 
 
 Decoration/Decoration_test=Kee-Tree
