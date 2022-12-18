@@ -323,13 +323,10 @@ Structures/Structure_breeding
 Structures/Structure_bakery
 -
 deco_paths:
-EM_path1
-EM_path2
-EM_path3
-EM_path4
+Organ_path1
+Organ_path2
+Organ_path3
 EM_path5
-EM_path6
-EM_path7
 -
 deco_trees:
 Decoration/Decoration_test
