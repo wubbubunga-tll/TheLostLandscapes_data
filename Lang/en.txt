@@ -525,6 +525,12 @@ Desert_path5=Desert path 5
 
 Desert_path6=Desert path 6
 
+Organ_path1=Red Blood Cell Path
+
+Organ_path2=White Blood Cell Path
+
+Organ_path3=Blood Bubblerite Path
+
 
 Decoration/Decoration_test=Kee-Tree
 Decoration/Decoration_test_bio=The Kee-Tree is a wooden amalgamation of wood and whimsy! While unable to play itself like the ancient Bass Machine, prophecies say that if played just right by the wind, the Kee-Tree can reveal a song not heard since the dawn of reality…
