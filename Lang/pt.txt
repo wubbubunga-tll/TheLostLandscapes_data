@@ -1,6 +1,6 @@
 ﻿------- 
 #--MONSTERS--#
-WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Instead of sending them to the nursery, zap the monster eggs you've bred on your other islands, and they'll transform into the electrical energy required to take up this Wublin.
+WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
 Monsters/Monster_banno_rare=Bannorio Raro 
 Monsters/Monster_banno_rare_bio=yeeeeeee
 
@@ -199,41 +199,42 @@ Monsters/Knott_9_bio=Conheça a criatura mais amigável do mundo perdido. A velh
 Monsters/Knott_10=Friid Máiz
 Monsters/Knott_10_bio=Bel'yawn Zirro bio
 
-Monsters/Knott_special=Chimblickle
+Monsters/Knott_special=Cimbito
 Monsters/Knott_special_bio=Chimblickle bio
 
-Monsters/Knott_1_rare=Rare Knottshurr Tree
-Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BooOos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 
+Monsters/Knott_1_rare=Árvore Nãocerteza Rara
+Monsters/Knott_1_rare_bio=Graças ao corpo verdejante da Árvore Nãocerteza rara, fornecida por um dos BooOos, Incorporou um odor contraninfa, mantendo-se a salvo daqueles entalhadores desagradáveis. No entanto, o perfume recém-desenvolvido era semelhante aos feromônios das moscas. Assim, atraindo pragas ainda mais peçonhentas. Para encurtar a história, agora Nãocerteza é um recanto de moscas. 
 
-Monsters/Knott_2_rare=Bay
+Monsters/Knott_2_rare=Boqueirão Raro
 Monsters/Knott_2_rare_bio=Bay bio
 
-Monsters/Knott_3_rare=Souxls Vessel
-Monsters/Knott_3_rare_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
+Monsters/Knott_3_rare=Vaso Haulma Raro
+Monsters/Knott_3_rare_bio=Uma coleção de haulmas vingativas com uma alma muito licenciosa e uma forte determinação. A tarefa de os proteger deve ser concedida em boas mãos. Ou só uma mão neste caso. Os dedos inflexíveis e a força imensurável do guardião os tornam perfeitos para o trabalho, mas mesmo eles estão tendo dificuldade em manter as inquietas Haulmas em repouso. Por qual motivo, razão ou circunstância essas Haulmas são tão inquietas? Ninguém sabe...
+`
 
-Monsters/Knott_4_rare=Rare BoOoo
+Monsters/Knott_4_rare=BoOoo Raro
 Monsters/Knott_4_rare_bio=Rare BooOo is a misleading name. These thumpies are actually Ghawgs. Fishy looking, yet still very much covered in fur, creatures. Always accompanied by a pack of tortappers seeking new life and exciting adventures, they travel between realms and explore the world. Occasionally stoping for a few months if they like the place. These monsters sure know how to enjoy life.
 
-Monsters/Knott_5_rare=Rare Mount Tuzzpikk
-Monsters/Knott_5_rare_bio=Unlike mount Tuzzpikks that we are used to, these particular variants have a plethora of unique facial features on each of their heads. Every single one is full of emotions and character. A saying goes that the biggest of them was based around a monster, not native to any of the monster worlds. How 
+Monsters/Knott_5_rare=Monte Platident Raro
+Monsters/Knott_5_rare_bio=Ao contrário dos Palitident do monte com os quais estamos acostumados, essas variantes em particular têm uma infinidade de características faciais únicas em cada uma de suas cabeças. Cada uma delas são cheias de emoções e caráter. Diz um ditado que o maior deles foi baseado em um monstro não nativo de nenhum Mundo dos monstros... Como? 
 
 peculiar...
-Monsters/Knott_6_rare=Mount Mound
+Monsters/Knott_6_rare=Monte Montanhoso Raro
 Monsters/Knott_6_rare_bio=Mount Mound bio
 
-Monsters/Knott_7_rare=Flocca
+Monsters/Knott_7_rare=Floquinha Rara
 Monsters/Knott_7_rare_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
 
-Monsters/Knott_8_rare=Cleomace
+Monsters/Knott_8_rare=Cleomaça Rara
 Monsters/Knott_8_rare_bio=Cleomace bio
 
-Monsters/Knott_9_rare=Babushka Knittshurr
+Monsters/Knott_9_rare=Vovó Crocherteza Rara
 Monsters/Knott_9_rare_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
 
-Monsters/Knott_10_rare=Bel'yawn Zirro
+Monsters/Knott_10_rare=Friid Máiz Raro
 Monsters/Knott_10_rare_bio=Bel'yawn Zirro bio
 
-Monsters/Knott_special_rare=Chambinho
+Monsters/Knott_special_rare=Cimbito
 Monsters/Knott_special_rare_bio=Chimblickle bio
 
 Monsters/Monster_handmond=Morgão
@@ -475,12 +476,25 @@ Monsters/Monster_jamboree_undof_bio=Dizer que a Cabana Sazonal está repleta de 
 Monsters/Monster_ghazt_undof=Fantominho
 Monsters/Monster_ghazt_undof_bio= O Fantominho, muito extraordinário, só aparece quando tudo está justo e perfeito. Imbuído do poder do Plasma, ele tem uma silhueta esbelta e a capacidade de se tornar etéreo - ideal para atravessar diversos lugares e passar despercebido. Porém, tudo isso o torna mais vulnerável a viagens interdimensionais acidentais. Ele gosta de brincar com outros Monstros, mas assim como um gato, às vezes prefere ficar sozinho... ou na companhia de outros de sua espécie.
 
-WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
 Monsters/Monster_maulch=Composto
 Monsters/Monster_maulch_bio=O que é isso? Uma daquelas estátues antigas que vieram direto da Tempestade que chegou até você! Acorde ela e libere a sua alma...
+Monsters/Monster_reebro=Cerêbrother
+Monsters/Monster_reebro_bio=Reebro bio
 
 Monsters/Monster_maulch_awake=Composto
 Monsters/Monster_maulch_awake_bio=Maulch bio awakened
+
+Monsters/Monster_wubbox_undof=Wub-Caixa
+Monsters/Monster_wubbox_undof_bio=One day as the monsters were tunneling underground, they stumbled upon an immense underground vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations:Sample analysis of the box's exterior indicates that it shares traits with every known monster species - in fact, it even has specialized compartments with an otherworldy shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.Gather some intrepid monster volunteers and see what happens when you 'box' them!
+
+Monsters/Monster_wubbox_undof_awake=<ref>Monsters/Monster_wubbox_undof
+Monsters/Monster_wubbox_undof_bio_awake=Eureka! The Wubbox awakes!  As it turns out, this extraordinary electric elemental is vital to the life processes of the colossal island monsters that the other singing denizens call home.  The shrunken monsters used to power up the creature report that inside is as fun as any playground they've ever seen, so they are happy to stay indefinitely.The robotic chirps and whistles it uses to express itself can take some getting used to, but eventually become a beloved and inextricable part of the island's tune.  Besides, it's all the rage in "current" music.The specific breeding characteristics of the Wubbox have not yet been studied.
+
+
+Monsters/Monster_wubbox_rare_undof=Wub-Caixa Rara
+Monsters/Monster_wubbox_rare_undof_bio=Rare Wubbox bio
+Monsters/Monster_wubbox_rare_undof_awake=<ref>Monsters/Monster_wubbox_rare_undof
+Monsters/Monster_wubbox_rare_undof_awake_bio=Rare Wubbox awake bio
 
 Monsters/Monster_fleechwurm_undof=Hipnonhoca
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
@@ -492,9 +506,9 @@ Monsters/Monster_pixolotl_bio=Pixolotl bio
 Monsters/Monster_pixolotl_awake=Pixelote
 Monsters/Monster_pixolotl_awake_bio=Pixolotl awake bio
 
-Monsters/Monster_poewk=Poewk
+Monsters/Monster_poewk=Finca
 Monsters/Monster_poewk_bio=Poewk bio
-Monsters/Monster_poewk_awake=Poewk
+Monsters/Monster_poewk_awake=Finca
 Monsters/Monster_poewk_awake_bio=Poewk awake bio
 
 Monsters/Monster_denchuhs=Gemolares
@@ -547,6 +561,12 @@ Desert_path4=Desert path 4
 Desert_path5=Desert path 5
 
 Desert_path6=Desert path 6
+
+Organ_path1=Caminho da Célula De Sangue Vermelha
+
+Organ_path2=Caminho da Célula De Sangue Vermelha
+
+Organ_path3=Caminho de Bolharito Hematógeno
 
 #--DECORATIONS--##
 Decoration/Decoration_test=Notárvore
@@ -712,6 +732,9 @@ str_popup_knottmaker_fail=Sua criação falhou! Mais os seus itens viraram algun
 str_popup_knottmaker_fail2=Sua criação falhou! Mais relaxa, você vai ganhar alguns itens de volta.
 str_popup_knottmaker_fail_items=Sua criação falhou! Don't worry you get some of the items back!
 str_popup_knottmaker_fail_noitems=Sua criação falhou! Infelizmente todos seus itens foram perdidos...
+str_popup_notOnThisIsland=Isso não está disponvél 
+str_noitems=Sem Itens
+
 
 str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
 
@@ -781,6 +804,7 @@ str_popup_unlock=Você descobriu:\n<name>
 
 btn_upgrade=Melhorar
 btn_view=Ver
+btn_mingames=Mini Jogos
 
 str_popup_islandComingSoon=Coisas novas e legais chegando no futuro!
 str_popup_islandAlreadyOn=Você já está nessa ilha.
