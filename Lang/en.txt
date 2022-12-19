@@ -418,6 +418,9 @@ Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
 Structures/Structure_knottmaker4=Enhanced Amalgamator
 Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
 
+Structures/Structure_stargazer=Observatory
+Structures/Structure_stargazer_bio=Observatory bio
+
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
 Monsters/Composer/Monster_toejammer_composer=Toe Jammer
@@ -728,6 +731,7 @@ str_limitedTime=Available for a limited time
 str_limitedTimeTimer=Available for:\n<time>
 
 str_warning=Hold up!
+str_tutorial=Tutorial
 str_popup_sellEgg=Are you sure you want to sell this egg for <sprite name=coins><color="yellow"><amount>?
 str_popup_speedUp=Are you sure you want to speed up the proccess for <sprite name=diamonds><color=#4EFFF5><amount>?
 str_popup_notEnough_diamonds=You don't have enough <color=#4EFFF5>Diamonds.

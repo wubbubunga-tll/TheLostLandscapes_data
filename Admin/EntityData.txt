@@ -211,6 +211,9 @@ Structures/Structure_knottmaker2 coins=100000 0 0
 Structures/Structure_knottmaker3 coins=100000 0 0
 Structures/Structure_knottmaker4 coins=100000 0 0
 
+Structure_stargazer coins=1 0 0
+
+
 Desert_path1 coins=100 0 0
 Desert_path2 coins=200 0 0
 Desert_path3 coins=300 0 0
