@@ -850,6 +850,8 @@ str_setting_zoomBTN=Use zoom slider
 str_setting_notifN=Send notifications
 str_setting_EF=Elephant Fart
 str_setting_ambient=Ambient sounds
+str_doubleRewards=DOUBLE
+\nREWARDS!
 
 btn_shop_monsters=Monsters
 btn_shop_decorations=Decorations
