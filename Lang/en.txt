@@ -842,6 +842,9 @@ str_popup_knottmaker_fail=Your crafting failed! But items you used were converte
 str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some of the items back!
 str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
 
+str_popup_tutor1=Welcome to <color="purple">The Lost Landscapes!</color>\nBreed them, Feed them, Listen to them sing!
+str_popup_tutor2=Not this time thogh... Young monsters don't know how to sing quite yet.\nBut they will learn later! For now, let's get ourselves a <color="green">Floot Fly!</color>
+
 str_noitems=No Items
 
 btn_shop=Market
