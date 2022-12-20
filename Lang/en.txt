@@ -843,8 +843,9 @@ str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some o
 str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
 
 str_popup_tutor1=Welcome to <color="purple">The Lost Landscapes!</color>\nA fan-made <color="green">My Singing Monsters</color> game!
-str_popup_tutor2=Hello! I'm Floot Fly. This here is my pal Toe Jammer. Let's get more monsters here.
+str_popup_tutor2=Hello! I'm Floot Fly. This here is my pal Toe Jammer. Let's get more monsters on this island.
 str_popup_tutor3=Go get a <color="green">Tweedle.</color>
+str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n(Something happens next. Probably feeding)
 
 str_noitems=No Items
 
