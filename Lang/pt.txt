@@ -1,7 +1,6 @@
 ﻿------- 
 #--MONSTERS--#
 WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
-Monsters/Monster_banno_rare=Bannorio Raro 
 Monsters/Monster_banno_rare_bio=yeeeeeee
 
 Monsters/Monster_schmoochle=Beijo-Bicota
@@ -12,7 +11,8 @@ Monsters/Monster_punkleton_bio=Punkleton bio
 
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! Este explorador intrépido, agora mais longe de casa do que nunca, está feliz em explorar este mundo estranho e vibrante.
-
+Monsters/Monster_bisonorus=Bisonoronte
+Monsters/Monster_bisonorus_bio=Dum diddly
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=Do bio
 Monsters/Monster_dipster_2=Ré
@@ -735,7 +735,7 @@ str_popup_knottmaker_fail_noitems=Sua criação falhou! Infelizmente todos seus 
 str_popup_notOnThisIsland=Isso não está disponvél 
 str_noitems=Sem Itens
 
-
+MonsterLockedBio=Você não encontrou esse monstro ainda. Jogue mais para desbloquea-lo depois!
 str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
 
 diamonds - <color=#4EFFF5>
@@ -804,7 +804,7 @@ str_popup_unlock=Você descobriu:\n<name>
 
 btn_upgrade=Melhorar
 btn_view=Ver
-btn_mingames=Mini Jogos
+btn_minigames=Mini Jogos
 
 str_popup_islandComingSoon=Coisas novas e legais chegando no futuro!
 str_popup_islandAlreadyOn=Você já está nessa ilha.
@@ -812,10 +812,10 @@ str_popup_islandAlreadyOn=Você já está nessa ilha.
 str_taptocollectrewards=Toque para coletar
 
 str_mailbox_reward_collected=Coletado
-
+str_doubleRewards=DUPLO
 str_popup_banned=<color=red>Você foi banido(a)!</color>\nSua conta foi banida!\nContate algum responsável do TLL se você acha que isso foi um engano.
 str_popup_connection_failed=<color=red>Conexão falhou!</color>
-
+str_tutorial=Tutorial
 str_island_comingsoon=Em Breve!
 
 ##--ISLANDS--##
