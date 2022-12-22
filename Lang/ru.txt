@@ -17,7 +17,7 @@ Monsters/Monster_fleechwurm_undof_awake_bio=Некоторые монстры и
 Monsters/Monster_pixolotl=Пиксолотль
 Monsters/Monster_pixolotl_bio=А чё сразу шакал то?
 Monsters/Monster_pixolotl_awake=Пиксолотль
-Monsters/Monster_pixolotl_awake_bio=ьлтолоскиП
+Monsters/Monster_pixolotl_awake_bio=Писькалотль
 
 Monsters/Monster_poewk=Повек
 Monsters/Monster_poewk_bio=Чума
