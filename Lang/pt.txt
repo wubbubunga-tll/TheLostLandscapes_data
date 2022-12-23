@@ -818,6 +818,11 @@ str_popup_connection_failed=<color=red>Conexão falhou!</color>
 str_tutorial=Tutorial
 str_island_comingsoon=Em Breve!
 
+str_popup_tutor1=Bem-vindo(a) <color="purple">As Paiságens Perdidas!</color>\nUm jogo de <color="green">My Singing Monsters</color> feito por fans, para fans!!
+str_popup_tutor2=Olá! Eu sou o Mosca-da-Flauta. Esse daqui é meu camarada Dedo Enrroscado. Que tal a gente arranjar mais alguns monstros para nossa ilha?.
+str_popup_tutor3=Vá comprar uma <color="green">Pintinho Piu.</color>
+str_popup_tutor4=Bom trabalho! Agora nós temos uma <color="green"Pintinho Piu</color> aqui!
+
 ##--ISLANDS--##
 
 str_island_Calamity=Ilha da Catástrofe
