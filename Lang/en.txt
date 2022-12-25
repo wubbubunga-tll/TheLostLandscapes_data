@@ -92,7 +92,7 @@ Monsters/Monster_quibble_bio=The Quibble may seem like a graceful monster on the
 Monsters/Monster_stoopa=Stoopa
 Monsters/Monster_stoopa_bio=Not much is known about the misty marsh deep in the heart of the Evergreen Woods, but legends speak of a strange monster that watches over and leads the song of the monsters that reside there. And whaddya know, here it is! Stoopa is even more of a recycling expert than Congle, finding anything and everything in nature to produce its song, even if it has to make some exceptions with its nature-based rule at times- proven by those... pots and pans on its stupa? Still very little is known about it, and Stoopa prefers to keep it that way while it wields its strange staff, and guards the secrets of the Marsh.
 Monsters/Monster_bridgit=Bridg-it
-Monsters/Monster_bridgit_bio=While the marsh is a special haven for Faerie elementals, I bet you didn’t expect this one here! Believe it or not, a special gene deep within the mind of this crystalline connoisseur’s mind calls all Bridg-its to seek out marshy depths. While these days, most that find such a place go through a very unique and dramatic change to suit their environment, this odd specimen feels itself already, and is content as it is! A Gold Star for Great Body Image goes to our Evergreen Marsh Bridg-it! (bad bio. Azuran, ya tebe po jope dam. -from Gob)
+Monsters/Monster_bridgit_bio=While stereotypes say trolls are generally cruel and live in basements, Bridg-it's quite the opposite. This melodic monster is one of the kindest one'll meet, constantly hosting tea parties, bridge building competitions, and much more. Well we think so, we havent seen it really do... anything besides those two things. 
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
 
@@ -145,7 +145,7 @@ Monsters/Monster_flootfly_young=Young Floot Fly
 Monsters/Monster_flootfly_young_bio=Whoosh! Spry Flootlings are adventurous, soaring through the skies. Never seen without their signature masks, its said they search for something lost long ago...
 
 Monsters/Monster_theremind_young=Young Theremind
-Monsters/Monster_theremind_young_bio=Pls someone translate this: Юные Терменумы такие озорники! Благодаря своими псионическим способностям они могут перетаскивать предметы силой мысли. И они... Очень часто этим пользуются. Там где Маленький Терменум, там и сплошной беспорядок. Игрушки разлетаются в стороны, бьётся посуда! А вот уже и чей-то обед оказался прямо на голове одного из малышей. Но помимо наведения "творческого" беспорядка у мозговитых друзей есть и другие хобби. Они любят показывать толпе разные фокусы с исчезновением, картами и зверьками в шляпе. Несмотря на озорной характер, все любят юного Терменума
+Monsters/Monster_theremind_young_bio=Young Thereminds are such mischievous minds! With their psychic abilities, they can drag objects with their minds... very VERY often. Where there is a Little Theremind, one can expect a not-so-little mess. Toys fly apart, dishes break! And now someone's dinner was right on the head of one of the monsterlings. But besides creating a "creative" mess, brainy friends have other hobbies. They like to show the crowd different tricks with disappearances, cards and animals in a hat. Despite the mischievous nature, everyone loves the young Theremind!
 
 Monsters/Monster_fluoress_young=Young Fluoress
 Monsters/Monster_fluoress_young_bio=The solemn tings of the Fluoress paralarvae make for a wonderful lullabye, so much so that they have the tendency of lulling themselves to sleep while playing! In any case, Fluoress were never known for their attention-keeping habits to begin with, as they most often spend their waking hours poking and prodding at the wide array of critters that call the Floating City their home.
@@ -538,9 +538,9 @@ Organ_path3=Hematogen Bubblerite Path
 Decoration/Decoration_test=Kee-Tree
 Decoration/Decoration_test_bio=The Kee-Tree is a wooden amalgamation of wood and whimsy! While unable to play itself like the ancient Bass Machine, prophecies say that if played just right by the wind, the Kee-Tree can reveal a song not heard since the dawn of reality…
 Decoration/Decoration_test1=Talkie Radish
-Decoration/Decoration_test1_bio=Talkie Radish bio
+Decoration/Decoration_test1_bio=Talkie Radishes are capable of remembering and saying out loud whatever a monster said while around it, so be careful to not reveal any special secrets you have while being around these gossipy plants or else eveyone will soon know everything about you.
 Decoration/Decoration_test2=Saptree
-Decoration/Decoration_test2_bio=Saptree bio
+Decoration/Decoration_test2_bio=These elegant trees are covered in sap, but who did that? Well the answer is simple: themselves! Saptrees have the ability of creating sap directly from their leaves, said sap is know for trapping little crriters who would dare to eat their greeny wig. Other monsters use the sap from the Saptree to extract sugar to make their delicious treats and even put in a big plate of pancakes!
 Decoration/Decoration_test3=Souxls Tree
 Decoration/Decoration_test3_bio=Souxls Tree bio
 Decoration/Decoration_test4=Gob Gush

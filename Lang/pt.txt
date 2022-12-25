@@ -1,7 +1,6 @@
 ﻿------- 
 #--MONSTERS--#
 WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
-Monsters/Monster_banno_rare=Bannorio Raro 
 Monsters/Monster_banno_rare_bio=yeeeeeee
 
 Monsters/Monster_schmoochle=Beijo-Bicota
@@ -12,7 +11,8 @@ Monsters/Monster_punkleton_bio=Punkleton bio
 
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! Este explorador intrépido, agora mais longe de casa do que nunca, está feliz em explorar este mundo estranho e vibrante.
-
+Monsters/Monster_bisonorus=Bisonoronte
+Monsters/Monster_bisonorus_bio=Dum diddly
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=Do bio
 Monsters/Monster_dipster_2=Ré
@@ -46,7 +46,7 @@ Monsters/Monster_flootfly=Mosca-da-Flauta
 Monsters/Monster_flootfly_bio=A mística Mosca-da-Flauta é um dos monstros mais comuns de se encontras nas Paisagens Perdidas, pois, ele é um dos mais amigáveis nos arredores! Moscas-da-Flauta amam fazer festas do chá nos lugares mais bizarros! Convites para uma festa do chá são sempre reverenciados e aceitos com alegria, porque é um ótimo lugar para socializar e fofocar!
 
 Monsters/Monster_choral=Troncoral
-Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Corallê! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Corallês tapeiam o monstros com seu disfarce se alguém chega muito perto, e logo após perceberem os monstros pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
+Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Troncoral! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Troncoras trollam o monstros com seu disfarce se alguém chega muito perto, e quando eles perceberem, logo pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
 
 Monsters/Monster_likho=Boco
 Monsters/Monster_likho_bio=Se você ver um Boco, saiba que acabou de encontrar um cara maneiro! Bocos são pequenos arbustos secos, rolando por aí e colhendo todos os tipos de plantas e geralmente presenteando outras, mesmo que elas não gostem tanto quanto o presenteador. Mas não só isso, quando para, prepara uma... Canção "maravilhosa" para seus companheiros, que geralmente resulta em seu público gritando "FAZ ISSO PARAR!" Não sei do que se trata... E prefiro não saber!
@@ -63,7 +63,7 @@ Monsters/Monster_wadee_bio=Nas profundezas mais sombrias das turvas encontra-se 
 Monsters/Monster_quibble=Picuinha
 Monsters/Monster_quibble_bio=A Picuinha pode parecer um monstro gracioso por fora, mas isso é apenas fingimento. As duas cabeças brigam constantemente, geralmente tendo opiniões opostas sobre as últimas tendências ou algum outro assunto trivial. Uma vez, a Picuinha da esquerda queria pedir batatas fritas, mas a Picuinha da direita estava ansiosa para tomar um milk-shake... O caos continuou. Mas no final, elas sempre se reconciliam, como verdadeiros irmãos. Sim, elas acabaram pedindo batatas fritas mergulhadas em um milk-shake. Um trato mais que feito.
 
-Monsters/Monster_stoopa=Stoopa
+Monsters/Monster_stoopa=Stupa
 Monsters/Monster_stoopa_bio=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
 
 Monsters/Monster_bridgit=Pontista
@@ -572,9 +572,9 @@ Organ_path3=Caminho de Bolharito Hematógeno
 Decoration/Decoration_test=Notárvore
 Decoration/Decoration_test_bio=A Notárvore é um amálgamo de madeiras e capricho! Embora incapaz de produzir uma melodia como a velha máquina de baixo, as profecias dizem que, se tocado pelo vento, a Notárvore pode revelar uma música não ouvida desde o início da realidade…
 Decoration/Decoration_test1=Rabanete Tagarela
-Decoration/Decoration_test1_bio=Talkie Radish bio
+Decoration/Decoration_test1_bio=Rabanetes Tagarelas são capazes de lembrar e dizer em voz alta tudo o que um monstro disse ao seu redor, então tome cuidado para não revelar nenhum segredo especial que você tenha enquanto estiver perto dessas plantas fofoqueiras ou então todos logo saberão tudo sobre você.
 Decoration/Decoration_test2=Seivárvore
-Decoration/Decoration_test2_bio=Saptree bio
+Decoration/Decoration_test2_bio=Estas árvores elegantes estão cobertas de seiva, mas quem fez isso? Bem, a resposta é simples: elas mesmas! Seivárvores têm a capacidade de criar seiva diretamente de suas folhas, essa seiva é conhecida por prender pequenos bichos que ousariam comer sua peruca esverdeada. Outros monstros usam a seiva dela para extrair açúcar e fazer suas deliciosas guloseimas, até mesmo colocar em um grande prato de panquecas!
 Decoration/Decoration_test3=Haulmárvore
 Decoration/Decoration_test3_bio=Souxls Tree bio
 Decoration/Decoration_test4=Fonte do Matraca
@@ -735,7 +735,7 @@ str_popup_knottmaker_fail_noitems=Sua criação falhou! Infelizmente todos seus 
 str_popup_notOnThisIsland=Isso não está disponvél 
 str_noitems=Sem Itens
 
-
+MonsterLockedBio=Você não encontrou esse monstro ainda. Jogue mais para desbloquea-lo depois!
 str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
 
 diamonds - <color=#4EFFF5>
@@ -804,7 +804,7 @@ str_popup_unlock=Você descobriu:\n<name>
 
 btn_upgrade=Melhorar
 btn_view=Ver
-btn_mingames=Mini Jogos
+btn_minigames=Mini Jogos
 
 str_popup_islandComingSoon=Coisas novas e legais chegando no futuro!
 str_popup_islandAlreadyOn=Você já está nessa ilha.
@@ -812,11 +812,16 @@ str_popup_islandAlreadyOn=Você já está nessa ilha.
 str_taptocollectrewards=Toque para coletar
 
 str_mailbox_reward_collected=Coletado
-
+str_doubleRewards=DUPLO
 str_popup_banned=<color=red>Você foi banido(a)!</color>\nSua conta foi banida!\nContate algum responsável do TLL se você acha que isso foi um engano.
 str_popup_connection_failed=<color=red>Conexão falhou!</color>
-
+str_tutorial=Tutorial
 str_island_comingsoon=Em Breve!
+
+str_popup_tutor1=Bem-vindo(a) <color="purple">As Paiságens Perdidas!</color>\nUm jogo de <color="green">My Singing Monsters</color> feito por fans, para fans!!
+str_popup_tutor2=Olá! Eu sou o Mosca-da-Flauta. Esse daqui é meu camarada Dedo Enrroscado. Que tal a gente arranjar mais alguns monstros para nossa ilha?.
+str_popup_tutor3=Vá comprar uma <color="green">Pintinho Piu.</color>
+str_popup_tutor4=Bom trabalho! Agora nós temos uma <color="green"Pintinho Piu</color> aqui!
 
 ##--ISLANDS--##
 
