@@ -406,7 +406,7 @@ Monsters/Monster_koodahcane_bio=А
 Monsters/Monster_marshflamo=Маршпламя
 Monsters/Monster_marshflamo_bio=А
 
-Monsters/Monster_brasscuit=Трубоченье
+Monsters/Monster_brasscuit=Тубаченье
 Monsters/Monster_brasscuit_bio=Латунное кондитерское изделие
 
 Monsters/Monster_gobstomper=Конфетамень
