@@ -25,10 +25,10 @@ Monsters/Monster_poewk_awake=Повек
 Monsters/Monster_poewk_awake_bio=Пов:Ержан встал
 
 Monsters/Monster_spurrit=Духов
-Monsters/Monster_spurrit_bio=Узза? УЗЗААА! Этот увлеченный исследователь, который теперь находится ещё дальше от дома, чем когда-либо, счастлив исследовать этот загадочный и яркий мир.
+Monsters/Monster_spurrit_bio=Хузза? ХУЗЗААА! Этот увлечённый исследователь, который теперь находится ещё дальше от дома, чем когда-либо, счастлив исследовать этот загадочный и яркий мир.
 
 Monsters/Monster_spurrit_desert=Духов
-Monsters/Monster_spurrit_desert_bio=Узза? Узз-ААААХ! Этот увлеченный исследователь, очарованный древними руинами, похоже, столкнулся с некоторыми проблемами... А скорее ЧИРИКблемами. Хоть и на самом деле птицы - Пустырвятники совершенно безвредны, Духов всё же замирает когда слышит их протяжные крики, даже не успевая сказать своё коронное слово. 
+Monsters/Monster_spurrit_desert_bio=Хузза? Хузз-ААААХ! Этот увлечённый исследователь, очарованный древними руинами, похоже, столкнулся с некоторыми проблемами... А скорее ЧИРИКблемами. Хоть и на самом деле птицы - Пустырвятники совершенно безвредны, Духов всё же замирает когда слышит их протяжные крики, даже не успевая сказать своё коронное слово. 
 
 Monsters/Monster_toejammer=Палезатор
 Monsters/Monster_toejammer_bio=Взрослые Палезаторы обладают отличным игристым характером и очень умело плавают, когда живут под водой. Также известно, что они являются довольно желанными гостями на разных вечеринках и пикниках, на которые их всегда приглашает лучшая подруга Легптица, и они знают, как хорошо провести время!!! 
@@ -445,7 +445,7 @@ Monsters/Monster_ffydill=Склеверипка
 Monsters/Monster_ffydill_bio=Склевепипка био
 
 Monsters/Monster_denchuhs=Челюстяги
-Monsters/Monster_denchuhs_bio=ЧЕЛюстяги био
+Monsters/Monster_denchuhs_bio=Паукулеле
 
 Monsters/Monster_clamble=Раковица
 Monsters/Monster_clamble_bio=Сраковица
@@ -587,7 +587,7 @@ Decoration/Obstacle_placable_EM_4=Пальчики дьявола
 Decoration/Obstacle_placable_EM_4_bio=А
 Decoration/Obstacle_placable_EM_5=Трюфель
 Decoration/Obstacle_placable_EM_5_bio=А
-Decoration/Obstacle_placable_EM_6=Слоеный гриб
+Decoration/Obstacle_placable_EM_6=Слоёный гриб
 Decoration/Obstacle_placable_EM_6_bio=А
 
 ObstacleCommonRocks_bio=Выкопанные камни будут увезены далеко-далеко в замечательные новые дома.
@@ -757,7 +757,7 @@ str_popup_unlock=Вы обнаружили <name>
 
 str_noitems=Пусто
 
-str_popup_islandComingSoon=Новые и интересные дополнения вскоре!
+str_popup_islandComingSoon=Новые и интересные дополнения уже скоро!
 str_popup_islandAlreadyOn=Вы уже на этом острове.
 
 str_taptocollectrewards=Нажми чтобы собрать
@@ -838,7 +838,7 @@ str_class_Dipster=Дипстер
 str_teleporter=Дирижабль Симфоний
 str_teleporter2=Дирижабль
 str_teleporter_target=Дирижабль прибудет на <color="green"><islandName></color> через <time>\nХотели бы вы ускорить его за <color=#4EFFF5><amount> бриллиантов</color>?
-str_teleporter_target_map=Дирижабль прибудет к <color="green"><islandName></color> через <time>
+str_teleporter_target_map=Дирижабль прибудет на <color="green"><islandName></color> через <time>
 str_teleporter_target_map_arrived=Дирижабль прибыл на <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Хотели бы вы отправится на <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Хотели бы вы отправить Дирижабль на <color="green"><islandName></color>?
@@ -873,7 +873,7 @@ btn_close=Закрыть
 btn_back=Назад
 btn_buy=Купить
 btn_sell=Продать
-btn_designerMode_randFlip=Случайный Разворот
+btn_designerMode_randFlip=Случайно Развернуть
 btn_designerMode_erase=Стереть
 btn_designerMode_paint=Рисовать
 btn_designerMode_change=Поменять
@@ -917,8 +917,8 @@ btn_view=Посмотреть
 btn_upgrade=Улучшить
 
 goal_breed_buy=Купите и разместите <color="green"><entityName>
-goal_breed_an=Выведите и поместите <color="green"><entityName>
-goal_breed=Выведите и поместите <color="green"><entityName>
+goal_breed_an=Выведите и разместите <color="green"><entityName>
+goal_breed=Выведите и разместите <color="green"><entityName>
 
 goal_celestial=Приобретите <color="green"><entityName>
 goal_celestial_an=Приобретите <color="green"><entityName>
