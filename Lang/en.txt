@@ -902,7 +902,7 @@ designerMode_sellFor=Sell for: <sprite name=coins><color="yellow"><amount>
 
 obstacleMode_totalCost=Total cost: <sprite name=<type>><col><amount>
 
-btn_changeTime=Warp
+btn_changeTime=Time Warp
 btn_compose=Compose
 btn_breed=Breed
 btn_speedup=Speed Up
