@@ -908,7 +908,8 @@ btn_shop_deco_other=Outros
 btn_shop_structures=Estruturas
 btn_shop_currency=Recursos
 btn_sell=Vender
-
+btn_changeTime=Distorcer
+btn_changeTime=Distorcer Tempo
 btn_shop_celestials=Celestiais
 btn_shop_babyMomsters=Monstros Bebês
 
