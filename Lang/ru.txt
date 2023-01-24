@@ -925,10 +925,10 @@ goal_celestial_an=Приобретите <color="green"><entityName>
 
 goal_flip=Используйте кнопку <color="green">"Развернуть"</color> при перемещении монстра.
 goal_rename=Переименуйте <color="green">монстра.
-goal_levelUp_5=Накормите 1 монстра до уровня <color="green">5.
-goal_levelUp_10=Накормите 1 монстра до уровня <color="green">10.
-goal_levelUp_15=Накормите 1 монстра до уровня <color="green">15.
-goal_levelUp_20=Накормите 1 монстра до уровня <color="green">20.
+goal_levelUp_5=Накормите монстра до уровня <color="green">5.
+goal_levelUp_10=Накормите монстра до уровня <color="green">10.
+goal_levelUp_15=Накормите монстра до уровня <color="green">15.
+goal_levelUp_20=Накормите монстра до уровня <color="green">20.
 goal_placeBakery=Купите и разместите <color="green">Пекарню.
 goal_placeBreeding=Купите и разместите <color="green">Здание Разведения.
 goal_removeObstacles=Уберите <color="green"><amount></color> препятствий.
