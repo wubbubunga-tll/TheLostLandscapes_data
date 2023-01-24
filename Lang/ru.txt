@@ -327,6 +327,12 @@ Structures/Structure_knottmaker3_bio=А
 Structures/Structure_knottmaker4=Улучшенный Амальгаметор
 Structures/Structure_knottmaker4_bio=А
 
+Structures/Structure_stargazer=Обсерватория
+Structures/Structure_stargazer_bio=Роддом нежопытилей
+
+Structures/Structure_timemachine=Машина времени
+Structures/Structure_timemachine_bio=Тик Так
+
 Structures/Structure_castle_undof=Основной Дворец
 Structures/Structure_castle_undof_bio=А...
 
@@ -527,6 +533,11 @@ Desert_path5_bio=А
 Desert_path6=Пустынная Дорожка 6
 Desert_path6_bio=А
 
+Organ_path1==Дорожка красных кровяных тельц
+
+Organ_path2=Дорожка белых кровяных тельц 
+
+Organ_path3=Гематогенная пузыристая дорожка
 
 Decoration/Decoration_test=Древо клавиш
 Decoration/Decoration_test_bio=А
@@ -754,6 +765,13 @@ str_popup_knottmaker_fail=Процесс создания не удался! Н�
 str_popup_knottmaker_fail_items=Процесс создания не удался! Не волнуйтесь вы получите некоторые предметы обратно!
 str_popup_knottmaker_fail_noitems=Процесс создания не удался! К сожалению все ваши предметы были потеряны.
 str_popup_unlock=Вы обнаружили <name>
+str_popup_notOnThisIsland=Это не доступно на данном острове
+
+str_tutorial=Обучение
+str_popup_tutor1=Добро пожаловать в <color="purple">The Lost Landscapes!</color>\nФан-игра по <color="green">My Singing Monsters</color>!
+str_popup_tutor2=Привет! Я Мухофлейт. Это мой товарищ Палезатор. Давай получим больше монстров на острове.
+str_popup_tutor3=Пойдите и получите <color="green">Лягптицу.</color>
+str_popup_tutor4=Отличная работа! Теперь разместите <color="green">Лягптицу</color> здесь.\n(Что-то происходит здесь. Скорее всего скиби даб даб даб ес ес ес)
 
 str_noitems=Пусто
 
@@ -772,6 +790,7 @@ str_setting_zoomBTN=Ползунок приближения
 str_setting_notifN=Уведомления
 str_setting_EF=Пердёж слона
 str_setting_ambient=Фоновые звуки
+str_doubleRewards=ДВОЙНЫЕ \nНАГРАДЫ!
 
 str_island_City=Летучий город
 str_island_City_bio=Летучий город био
@@ -883,12 +902,14 @@ designerMode_sellFor=Продать за: <color="yellow"> <amount> монет
 
 obstacleMode_totalCost=Общая стоимость: <col><amount> <type>
 
+btn_changeTime=Деформировать
 btn_compose=Написать
 btn_breed=Вывести
 btn_speedup=Ускорить
 btn_map=Карта
 btn_bake=Испечь
 btn_craft=Создать
+btn_minigames=Мини-игры
 btn_feed=Кормить
 btn_remove=Убрать
 btn_removeMany=Убрать несколько
