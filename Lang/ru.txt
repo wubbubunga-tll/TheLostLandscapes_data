@@ -153,7 +153,7 @@ Monsters/Monster_dandidoo_young=Юная Дендиптица
 Monsters/Monster_dandidoo_young_bio=А
 
 Monsters/Monster_oaktopus_young=Юный Осьмидуб
-Monsters/Monster_oaktopus_young_bio=А
+Monsters/Monster_oaktopus_young_bio=https://www.youtube.com/watch?v=vKyjVkAvh1U
 
 Monsters/Monster_reedling_young=Юная Зелынка
 Monsters/Monster_reedling_young_bio=A
