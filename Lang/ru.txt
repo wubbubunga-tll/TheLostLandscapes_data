@@ -425,7 +425,7 @@ Monsters/Monster_sprinklate=Торторог
 Monsters/Monster_sprinklate_bio=А
 
 Monsters/Monster_jamboree_undof=Празднень
-Monsters/Monster_jamboree_undof_bio=А
+Monsters/Monster_jamboree_undof_bio=Целых десять лет прошло./nВ оркестр чудаков/nМного новых лиц ввлекло/nДесять Монстровских веков./nnВ далёкой хижине, за морем/nСезонники, звеня,/nВстрчают нового их гостя - /nРедкого Праздня!/nnРимонной свечкою-крестом/nИ глазурью шоколадной/nСверкает он хоть ясным днём,/nХоть в туман обетованный./nnЯрким пламенем горит/nКорона из свечей,/nИ праздник монстрам предстоит/nТысячу ночей.
 Monsters/Monster_schmoochle=Поцелщик
 Monsters/Monster_schmoochle_bio=Поцелщик био
 
