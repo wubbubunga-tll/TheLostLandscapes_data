@@ -1,0 +1,4 @@
+Flowers=Flower_yellow,Flower_blue,Flower_red
+Sweets=Candycane,Candycorn,Peppermint
+Wood=BlueLog,Log
+Vegetation=Flower_yellow,Flower_blue,Flower_red,Cattail
