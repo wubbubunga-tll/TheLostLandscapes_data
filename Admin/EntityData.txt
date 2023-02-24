@@ -161,6 +161,9 @@ Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 coins=2000
 Monsters/Monster_wubbox_undof coins=7500000 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Wubbox-o 0 3
 Monsters/Monster_wubbox_rare_undof stars=1 electricity 0 10000000 coins=4000,diamonds=2,food=5000,stars=2,stars=2@43200@coins=8000,diamonds=4,food=10000,stars=4,stars=2 Supernatural-r ,Wubbox_rare-o 0 3
 
+Monsters/Monster_wheezel diamonds=20 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Wheezel 0 3
+
+
 Monsters/Monster_toejammer_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural toejammer-o,toejammer-o 0 0
 Monsters/Monster_kanya_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural kayna-o,kayna-o 0 0
 Monsters/Monster_noggin_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural noggin-o,noggin-o 0 0
@@ -168,7 +171,10 @@ Monsters/Monster_fwog_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=
 Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural thrumble-o,thrumble-o 0 0
 Monsters/Monster_phangler_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural phnagler-o,phnagler-o 0 0
 Monsters/Monster_stogg_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural stogg-o,stogg-o 0 0
+
 Monsters/Monster_gumtromp coins=25000 candy 21600 7 coins=4@60@coins=57 Lost gumtromp,gumtromp 0 0
+Monsters/Monster_gumtromp_rare diamonds=225 candy 28800 14 coins=8@60@coins=100 Lost-r gumtromp_rare,gumtromp_rare 0 0
+
 Monsters/Monster_keytrus diamonds=300 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus,keytrus 0 0
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
 Monsters/Monster_marshflamo diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
@@ -178,6 +184,7 @@ Monsters/Monster_claramel diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@
 Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
 Monsters/Monster_jamboree_undof diamonds=500 jamboree 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
 Monsters/Monster_ghazt_undof diamonds=1000 plasma 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
+
 
 Monsters/Monster_dipster_1 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
 Monsters/Monster_dipster_2 diamonds=5 dipster 1800 10 coins=5@120@coins=60 Dipster ,re 0 0

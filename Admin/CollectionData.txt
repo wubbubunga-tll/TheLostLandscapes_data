@@ -93,6 +93,7 @@ Monsters/Monster_whimstlop
 Monsters/Monster_schmoochle
 Monsters/Monster_plixie
 Monsters/Monster_reebro
+Monsters/Monster_wheezel
 ;
 Meduza:
 Monsters/Monster_mammott_meduza
@@ -109,6 +110,7 @@ Monsters/Monster_toejammer_undof
 Monsters/Monster_noggin_undof
 Monsters/Monster_kanya_undof
 Monsters/Monster_gumtromp
+Monsters/Monster_gumtromp_rare
 Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
 Monsters/Monster_phangler_undof
