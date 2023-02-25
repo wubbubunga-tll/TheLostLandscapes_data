@@ -939,7 +939,7 @@ str_stars_bone=Cruz Ossea
 str_stars_faerie=Asas do Capricho
 
 str_stars_water=Lagrimas do Oceano
-str_stars_fire=Core Aflame
+str_stars_fire=Amanheçer do Fogo
 str_stars_plant=Verde Crescente
 str_stars_air=Ventos Resistentes
 str_stars_earth=Elipse Terrestre
@@ -951,11 +951,13 @@ str_stars_poison=Marcas Venenosas
 str_stars_shadow=Brilho Sombrio
 str_stars_plasma=Gosma Plasmática
 
+##--Classes--##
 str_class_Natural=Natural
 str_class_Natural-r=Natural(Raro)
 str_class_Magical=Mágico
 str_class_Magical-r=Mágico(Raro)
 str_class_Supernatural=Supernatural
+str_class_Supernatural-r=Supernatural(Raro)
 str_class_Celestial=Celestial
 str_class_Celestial-s=Supercelestial
 str_class_Lost=Isolado
@@ -1063,13 +1065,18 @@ goal_celestial_an=Obtenha um(a) <color="green"><entityName>
 
 goal_flip=Use o botão <color="green">virar</color> quando estiver movendo um monstro.
 goal_rename=Renomeie um <color="green">monstro.
+
 goal_levelUp_5=Alimente 1 monstro até o nível <color="green">5.
 goal_levelUp_10=Alimente 1 monstro até o nível <color="green">10.
 goal_levelUp_15=Alimente 1 monstro até o nível <color="green">15.
 goal_levelUp_20=Alimente 1 monstro até o nível <color="green">20.
+
 goal_placeBakery=Compre e posicione uma <color="green">Padaria.
 goal_placeBreeding=Comre e posicione uma <color="green">Estrutura de Procriação.
-goal_removeObstacles=Remova <color="green"><amount></color> Obstáculos.
-goal_designerMode=Teste o  <color="green">Modo Editor de Caminhos
 goal_placeDeco=Compre e posicione um(a) <color="green">"<entityName>".
+
+goal_designerMode=Teste o  <color="green">Modo Editor de Caminhos
+
 goal_teleport=Teleporte um(a) <color="green"><entityName></color> para uma ilha externa.
+
+goal_removeObstacles=Remova <color="green"><amount></color> Obstáculos.
