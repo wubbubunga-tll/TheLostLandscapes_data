@@ -60,8 +60,13 @@ Monsters/Monster_reedling_young 30
 Organs:
 Monsters/Monster_handmond 85
 Monsters/Monster_oaktopus 70
+Monsters/Monster_denchuhs 50
+Monsters/Monster_boskus 60
+Monsters/Monster_schmoochle 6
+Monsters/Monster_theremind 60
+Monsters/Monster_clamble 50
 
-Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_oaktopus 40
+Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_cybop 40
 ;
 Candy:
 Monsters/Monster_toejammer_undof 85
