@@ -61,7 +61,7 @@ Organs:
 Monsters/Monster_handmond 85
 Monsters/Monster_oaktopus 70
 
-Monsters/Monster_whimstlop=Monster_handmond+Monsters/Monster_oaktopus 40
+Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_oaktopus 40
 ;
 Candy:
 Monsters/Monster_toejammer_undof 85
