@@ -2,16 +2,15 @@ Calamity3
 
 monster_clamble entity-d Monsters/Monster_clamble
 
-monster_poewk entity-d Monsters/Monster_poewk
-
-monster_deedge entity-d Monsters/Monster_deedge
-
-monster_pixolotl entity-d Monsters/Monster_pixolotl
-
-monster_bisonorus entity-d Monsters/Monster_bisonorus
-
 calamityaudio audio-d Calamity
 
 calamity_pixolotl audio-d Calamity
 
 calamity midi-d
+
+monster_knife entity Monsters/Monster_knife
+monster_wubbox_undof entity Monsters/Monster_wubbox_undof
+
+candy_knife audio Candy
+candy_wubbox audio Candy
+candy midi
