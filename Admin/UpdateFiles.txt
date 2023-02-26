@@ -1,4 +1,4 @@
-Calamity3
+Candy
 
 monster_clamble entity-d Monsters/Monster_clamble
 
