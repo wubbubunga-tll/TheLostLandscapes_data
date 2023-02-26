@@ -843,6 +843,8 @@ str_class_Seasonal-r=Seasonal(rare)
 str_class_Ethereal=Ethereal
 str_class_Ethereal-r=Ethereal(rare)
 str_class_Dipster=Dipster
+str_class_Mythical=Mythical
+str_class_Mythical-r=Mythical(rare)
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter2=Zeppelin
