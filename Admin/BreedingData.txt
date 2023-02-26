@@ -90,6 +90,8 @@ Monsters/Monster_gumtromp_rare=Monsters/Monster_brasscuit+Monsters/Monster_clara
 Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_claramel 10
 Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_brasscuit 10
 
+Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 3
+
 Monsters/Monster_jamboree_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 4
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 2
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 2
