@@ -8,6 +8,10 @@ Monsters/Monster_maulch_bio=Что же это? Это одна из тех др
 Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Мульча, Монотонный Бормотун, возможно, не тот, кого вы ожидали увидеть, активируя каменную статую, но кто знает! Его Большой Папролист на голове требует обильного полива, и нигде не бывает дождя, лучше чем здесь, как он утвержает. Правда никто ни разу не видел здесь никакого дождя, но это не имеет значения... 
 
+Monsters/Monster_knife=Банти
+Monsters/Monster_knife_bio=Моти 
+Monsters/Monster_knife_rare=Редкий Ножик
+Monsters/Monster_knife_rare_bio=А
 
 Monsters/Monster_fleechwurm_undof=Червеугодник
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
