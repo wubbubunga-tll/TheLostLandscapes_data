@@ -168,7 +168,7 @@ Monsters/Monster_toejammer_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natu
 Monsters/Monster_kanya_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural kayna-o,kayna-o 0 0
 
 Monsters/Monster_noggin_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural noggin-o,noggin-o 0 0
-Monsters/Monster_noggin_rare_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural noggin_rare-o,noggin_rare-o 0 0
+Monsters/Monster_noggin_rare_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural-r noggin_rare-o,noggin_rare-o 0 0
 
 Monsters/Monster_fwog_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural fwog-o,fwog-o 0 0
 Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural thrumble-o,thrumble-o 0 0
