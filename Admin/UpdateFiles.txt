@@ -1,9 +1,9 @@
-Candy2
+Candy3
 
 monster_clamble entity-d Monsters/Monster_clamble
 
-eggs sprites egg
-icons sprites icon
+eggs sprites eggs
+icons sprites icons
 
 calamityaudio audio-d Calamity
 
