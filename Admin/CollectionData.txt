@@ -131,6 +131,7 @@ Monsters/Monster_dipster_4
 Monsters/Monster_dipster_5
 Monsters/Monster_dipster_6
 Monsters/Monster_dipster_7
+Monsters/Monster_knife
 Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
 Monsters/Monster_wubbox_rare_undof

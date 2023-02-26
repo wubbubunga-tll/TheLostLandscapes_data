@@ -19,7 +19,7 @@ Monsters/Monster_dipster_7=Ti
 Monsters/Monster_dipster_7_bio=Ti bio
 
 Monsters/Monster_knife=Banchi
-Monsters/Monster_knife=Banch bio
+Monsters/Monster_knife_bio=Banch bio
 
 Monsters/Monster_wheezel=Wheezel
 Monsters/Monster_wheezel_bio=Wheezel bio
