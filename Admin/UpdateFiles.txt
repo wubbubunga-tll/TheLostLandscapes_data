@@ -1,4 +1,4 @@
-Candy
+Candy2
 
 monster_clamble entity-d Monsters/Monster_clamble
 
