@@ -13,6 +13,7 @@ calamity midi-d
 
 monster_knife entity Monsters/Monster_knife
 monster_wubbox_undof entity Monsters/Monster_wubbox_undof
+monster_noggin_rare_undof entity Monsters/Monster_noggin_rare_undof
 
 candy_knife audio Candy
 candy_wubbox audio Candy
