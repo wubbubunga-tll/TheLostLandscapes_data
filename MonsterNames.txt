@@ -861,6 +861,13 @@ Sunki
 Thudd
 Thunk
 ;
+Monsters/Monster_knife
+Catya
+Nife
+Nozhik
+Veebrafon
+Doughter
+;
 Monsters/Monster_clamble
 Bluto
 Clamp
