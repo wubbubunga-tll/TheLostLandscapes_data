@@ -97,7 +97,7 @@ Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_bra
 
 Monsters/Monster_kanya_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_brasscuit 10
 Monsters/Monster_kanya_rare_undof=Monsters/Monster_claramel+Monsters/Monster_brasscuit 10
-Monsters/Monster_kanya_rare_undof=Monsters/Monster_brasscuit+Monsters/Monster_claramel 10
+Monsters/Monster_kanya_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 10
 
 
 Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 3
