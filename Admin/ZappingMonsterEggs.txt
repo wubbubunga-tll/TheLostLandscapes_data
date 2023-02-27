@@ -26,6 +26,7 @@ Decoration/Decoration_test1 2
 Fleechwurm Candy
 Monsters/Monster_ghazt_undof 1
 Monsters/Monster_jamboree_undof 1
+Monsters/Monster_knife 1
 Monsters/Monster_sprinklate 4
 ;
 Wubbox Candy
