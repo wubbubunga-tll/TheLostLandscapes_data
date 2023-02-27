@@ -71,6 +71,7 @@ Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_cybop 40
 Candy:
 Monsters/Monster_toejammer_undof 85
 Monsters/Monster_kanya_undof 85
+Monsters/Monster_kanya_rare_undof 85 _rare
 Monsters/Monster_noggin_undof 85
 Monsters/Monster_noggin_rare_undof 85 _rare
 Monsters/Monster_fwog_undof 70
