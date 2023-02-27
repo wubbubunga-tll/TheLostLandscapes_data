@@ -6,6 +6,7 @@ Monsters/Monster_toejammer_undof= 1000
 Monsters/Monster_noggin_undof= 1000
 Monsters/Monster_noggin_rare_undof= 1000
 Monsters/Monster_kanya_undof= 1000
+Monsters/Monster_kanya_rare_undof= 1000
 Monsters/Monster_gumtromp= 1000
 Monsters/Monster_gumtromp_rare= 1000
 Monsters/Monster_fwog_undof= 1000

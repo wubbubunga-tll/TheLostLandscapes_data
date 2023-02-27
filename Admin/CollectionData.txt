@@ -110,6 +110,7 @@ Monsters/Monster_toejammer_undof
 Monsters/Monster_noggin_undof
 Monsters/Monster_noggin_rare_undof
 Monsters/Monster_kanya_undof
+Monsters/Monster_kanya_rare_undof
 Monsters/Monster_gumtromp
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_fwog_undof
