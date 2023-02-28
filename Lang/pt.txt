@@ -53,6 +53,9 @@ Monsters/Monster_maw_bio=Maw bio
 Monsters/Monster_maw_meduza=Bocarra
 Monsters/Monster_maw_meduza_bio=Maw bio
 
+Monsters/Monster_quibble_young=Picuinha Bebê
+Monsters/Monster_quibble_young_bio=Picuinha
+
 Monsters/Monster_quibble=Picuinha
 Monsters/Monster_quibble_bio=A Picuinha pode parecer um monstro gracioso por fora, mas isso é apenas fingimento. As duas cabeças brigam constantemente, geralmente tendo opiniões opostas sobre as últimas tendências ou algum outro assunto trivial. Uma vez, a Picuinha da esquerda queria pedir batatas fritas, mas a Picuinha da direita estava ansiosa para tomar um milk-shake... O caos continuou. Mas no final, elas sempre se reconciliam, como verdadeiros irmãos. Sim, elas acabaram pedindo batatas fritas mergulhadas em um milk-shake. Um trato mais que feito.
 
@@ -82,6 +85,8 @@ Monsters/Monster_reedling_young=Piu-Flau Bebê
 Monsters/Monster_reedling_young_bio=Young Reedling bio
 Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
 Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_bio
+Monsters/Monster_reedling=Piu-Flau
+Monsters/Monster_reedling_bio=eedling bio
 
 Monsters/Monster_pummel=Maraca
 Monsters/Monster_pummel_bio=Enquanto as rolhas de fibra vegetal que os Maracas vedam suas bocas quase nunca são removidas, acredita-se que sua massa componha 70% da verdadeira escala dele mesmo! Agora, mesmo assim, é um assunto delicado de se perguntar... E tenho certeza que você não gostaria de ser arremessado pelo baque sísmico de um Maraca mal-humorado!
@@ -177,7 +182,7 @@ Monsters/Monster_fluoress=Fluoresca
 Monsters/Monster_fluoress_bio=Fluoress bio
 
 Monsters/Monster_theremind_young=Teremente Bebê
-Monsters/Monster_theremind_young_bio=Young Theremind bio
+Monsters/Monster_theremind_young_bio=Jovens Terementes tem mentes tão travessas! Com suas habilidades psíquicas, eles podem arrastar objetos com suas mentes. Onde há um Pequeno Teremente, pode-se esperar uma confusão não tão pequena. Brinquedos voam, pratos quebram! E agorinha mesmo eu vi o jantar de alguém na cabeça de um dos monstros. Mas além de criar uma bagunça "criativa", alguns inteligentes têm hobbies diferentes. Eles gostam de mostrar à multidão vários truques com desaparecimentos, cartas e animais na cartola. Apesar da natureza travessa, todos amam o Terementinho!
 
 Monsters/Monster_theremind=Teremente
 Monsters/Monster_theremind_bio=Theremind bio
@@ -231,9 +236,9 @@ Monsters/Monster_frondley=Folhamável
 Monsters/Monster_frondley_bio=O Folhamável é ummmmmmmmmm espécime incrível! Seu físico gelatinoso e dedos nos quais podem se assimilar à certo monstro, no qual certamente monstro evoluiu separadamente do nosso companheiro de cor amarela. Seus zumbidos sobrenaturais e serenos ecoam pelas ilhas, sempre afirmado que um Folhamável está presente lá. Alguns monstros vão até longas distancias só para gravar seu zumbido, para que depois eles possam se colocar para dormir escutando esse som calmo. Em outras atividades, Folhamáveis adoram manter seu penteado "tipo-alga", enquanto sempre se esforçam para encontrar a quantidade perfeita de cabelo para seus crânios bulbosos.
 
 Monsters/Monster_bridgit=Pontista
-Monsters/Monster_bridgit_bio=Embora o pântano seja um refúgio especial para os elementais de fadas, aposto que você não esperava esse aqui! Acredite ou não, um gene especial no fundo da mente desta conhecedora cristalina chama todas as Pontistas para procurar as profundezas pantanosas. Enquanto hoje em dia, a maioria dos que encontram um lugar assim, passam por uma mudança muito original e dramática para se adequar ao seu ambiente, essa criatura não mudou nadinha, pois estranhamente está acostumada com seu jeito atual! E o prêmio Met Alaga para uma ótima imagem corporal vai para a Pontista Perêne! 
-Monsters/Monster_banno=Bannorio
+Monsters/Monster_bridgit_bio=Estereótipos dizem que os trolls são geralmente cruéis e vivem em porões, Pontista é exatamente o oposto disso. Este monstro melódico é um dos mais gentis que se pode conhecer, constantemente organizando chás (sem bebês), competições de construção de pontes e muito mais. Bem, isso é o que pensamos, já que nunca vimos realmente isso acontecer... É tão bom teorizar não?.
 
+Monsters/Monster_banno=Bannorio
 Monsters/Monster_banno_bio=Um vocalista do lendário Coro do Cancer, por muito tempo Bannorio passou seu tempo nas profundezas frias do oceano. Infelizmente, as temperatura congelantes não eram ideais para seu corpo acostumado com a água quente! Ao em vez de entrar em algo como um gêiser, ele decidiu ficar perto de seus amigos utilizando um balde de madeira cheio de água fervendo para se manter confortável. Embora seu abdômen vermelho fervente possa parecer nada saudável, não há com o que se preocupar, Bannorio afirma que é apenas sua cor natural aparecendo após a limpeza de milhares de anos de sujeira do mar.
 
 Monsters/Monster_banno_rare=Bannorio raro
@@ -395,6 +400,8 @@ Monsters/Knott_special_rare_bio=Chimblickle bio
 Monsters/Monster_handmond=Morgão
 Monsters/Monster_handmond_bio=Handmond bio
 
+Monsters/Monster_whimstlop=Perlhepito
+Monsters/Monster_whimstlop_bio=As maquinações internas do Perlhepito são um enigma. O que é visto do lado de fora desse monstro passivo é apenas uma armadura com um talvez "capacete" ampliado pelo uso excessivo de armaduras descartadas em sua juventude. Seus aspectos orgânicos estão sob seu revestimento metálico, com as únicas partes visíveis sendo um olho singular (ele perdeu o outro) e duas pernas semelhantes a galhos (surpreendentemente fortes, dado o peso de levantar sua armadura). Dependendo de seu ambiente, um Perlhepito pode vestir uma armadura de um material diferente para atender às suas necessidades atuais. Às vezes eles trabalham como sopradores de folhas em meio período, expelindo grande parte da sujeira e caca que seus outros amigos monstros fazem.
 Monsters/Monster_whimstlop_meduza=Perlhepito
 Monsters/Monster_whimstlop_meduza_bio=As maquinações internas do Perlhepito são um enigma. O que é visto do lado de fora desse monstro passivo é apenas uma armadura com um talvez "capacete" ampliado pelo uso excessivo de armaduras descartadas em sua juventude. Seus aspectos orgânicos estão sob seu revestimento metálico, com as únicas partes visíveis sendo um olho singular (ele perdeu o outro) e duas pernas semelhantes a galhos (surpreendentemente fortes, dado o peso de levantar sua armadura). Dependendo de seu ambiente, um Perlhepito pode vestir uma armadura de um material diferente para atender às suas necessidades atuais. Às vezes eles trabalham como sopradores de folhas em meio período, expelindo grande parte da sujeira e caca que seus outros amigos monstros fazem.
 
@@ -411,7 +418,7 @@ Monsters/Special/Monster_melochness_bio=Nascidos das poças encantadas nos bosqu
 ###--Misc------------------------------------------###
 WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
 
-Monsters/Monster_dipster_1=Do
+Monsters/Monster_dipster_1=Dó
 Monsters/Monster_dipster_1_bio=Do bio
 Monsters/Monster_dipster_2=Ré
 Monsters/Monster_dipster_2_bio=Re bio
@@ -535,8 +542,14 @@ Monsters/Monster_toejammer_undof_bio= Embora os Dedos Enroscados pareçam fráge
 Monsters/Monster_kanya_undof=<ref>Monsters/Monster_kayna
 Monsters/Monster_kanya_undof_bio=A antiga Lavareda foi por muito tempo considerada perdida para um evento enigmático na antiguidade Monstruosa. Um espécime solitário envolto em âmbar foi resgatado na Ilha Tribal, é verdade, mas só recentemente uma nova geração desses seres começou a aparecer, atraída pelo misterioso chamado de Relíquias ressoando profundamente dentro do núcleo vulcânico do mundo. Agora, este Elemental do Fogo está pronto para fazer sua parte em restaurar a glória do seu poderoso Elemento no Mundo dos Monstros.
 
+Monsters/Monster_kanya_rare_undof=Lavareda Rara
+Monsters/Monster_kanya_rare_undof_bio=Bearers of the oldest Element of all, Rare Kaynas are an ancient breed from which all their Common cousins have sprung. Their intricate, tattoo-like carvings are bestowed upon them with great honor to represent their impressive age and crowing wisdom, eon after eon; you can imagine that the oldest Rare Kaynas are quite a sight! Yet no matter how old the original Fire Rare gets, the burning glow of the Fire Element never dims.
+
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_undof_bio= As Cabeças-duras são, basicamente, pedras musicais. Em sintonia profunda com a terra, seus ritmos simples ecoam o pulso de sua ilha. Os efeitos de reverberação produzidos pelas Cabeças-duras estimulam todos os outros Monstros.
+
+Monsters/Monster_noggin_rare_undof=Rare Noggin
+Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
 
 ###--Doubles------------------------------------------###
 Monsters/Monster_fwog_undof=Dom Sapo
@@ -552,6 +565,8 @@ Monsters/Monster_thrumble_undof=Cantarolador
 Monsters/Monster_thrumble_undof_bio=EscaramuÃ§a de sÃ¡bado  Lanches Ã¡vidos com bocas largas, Cantaroladores tendem a engolir Agrados inteiros. Suas gargantas alongadas podem se espremer e se esticar para fornecer aos Agrados tempo suficiente para serem pulverizados pelas reverberaÃ§Ãµes da vibraÃ§Ã£o da assinatura deste Monstro desajeitado. Ao zumbir com o estÃ´mago vazio, bolsÃµes de ar borbulhantes podem se expandir e provocar uma sÃºbita onda de risadinhas!
 
 ###--Candy------------------------------------------###
+Monsters/Monster_knife=Dangata
+Monsters/Monster_knife_bio=Banch bio
 
 Monsters/Monster_gumtromp=Masclete
 Monsters/Monster_gumtromp_bio=Bio
@@ -618,17 +633,17 @@ EM_path6=Lascas de Madeira
 
 EM_path7=Caminho de Bolharito Super-Crescido 
 
-Desert_path1=Desert path 1
+Desert_path1=Caminho de Âmbar
 
-Desert_path2=Desert path 2
+Desert_path2=Caminho da Relíquia
 
-Desert_path3=Desert path 3
+Desert_path3=Caminho da Flolhagem Petrificada
 
-Desert_path4=Desert path 4
+Desert_path4=Tilojos de Areia
 
-Desert_path5=Desert path 5
+Desert_path5=Tilojos de Areia Corbertos
 
-Desert_path6=Desert path 6
+Desert_path6=Tilojo de Areia
 
 Organ_path1=Caminho da Célula De Sangue Vermelha
 
@@ -968,6 +983,8 @@ str_class_Seasonal-r=Sazonal(Raro)
 str_class_Ethereal=Etéreo
 str_class_Ethereal-r=Etéreo(Raro)
 str_class_Dipster=Acanhado
+str_class_Mythical=Mítico
+str_class_Mythical-r= Mítico(Raro)
 
 ##--BUTTONS--##
 str_teleporter=Zepelim Sinfônico
