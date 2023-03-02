@@ -18,6 +18,9 @@ Monsters/Monster_dipster_6_bio=La bio
 Monsters/Monster_dipster_7=Ti
 Monsters/Monster_dipster_7_bio=Ti bio
 
+Monsters/Monster_furcorn=Furcorn
+Monsters/Monster_furcorn_bio=Furcorn bio
+
 Monsters/Monster_knife=Banchi
 Monsters/Monster_knife_bio=Banch bio
 

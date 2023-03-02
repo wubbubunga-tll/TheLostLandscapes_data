@@ -78,6 +78,7 @@ Monsters/Knott_special
 Desert:
 Monsters/Monster_scaratar
 Monsters/Monster_flootfly
+Monsters/Monster_furcorn
 Monsters/Monster_rootitoot
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
