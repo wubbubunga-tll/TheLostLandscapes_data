@@ -34,6 +34,12 @@ Monsters/Monster_dulsylvan_rare
 Monsters/Monster_banno_rare
 Monsters/Monster_phangler_rare
 -
+monster_azu:
+Monsters/Monster_toejammer_rare
+Monsters/Monster_percFrog
+Monsters/Monster_dulsylvan
+Monsters/Monster_banno
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1

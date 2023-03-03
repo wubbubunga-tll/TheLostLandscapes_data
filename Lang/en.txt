@@ -3,6 +3,8 @@ WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious 
 
 MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it later.
 
+ol=Azu's Monsters
+
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=Do bio
 Monsters/Monster_dipster_2=Re
