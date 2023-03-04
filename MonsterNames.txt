@@ -44,7 +44,6 @@ Barbara
 Apootis
 Bahrole
 Sophia
-Yaga
 PotPom
 Babayag
 Poitayaga
@@ -369,7 +368,7 @@ Biden
 Tyson
 PingPong
 Evunn
-Flicky
+Slappy
 Henry
 Iccupler
 Jambon
@@ -380,13 +379,7 @@ Sloprock
 Teddy
 ;
 Monsters/Monster_kuncklehead
-Jobo's offspring
-Josh
-Jooooooosh
 Caac
-Biden
-Spungatillo
-J
 Brayzen
 Carpa
 Falanks
@@ -425,9 +418,6 @@ Mamment
 Monumott
 Ogr
 Yetis
-Jobo
-Spungatillo
-Josh
 ;
 Monsters/Monster_syncopite
 Bezel
@@ -521,6 +511,7 @@ Ortho & Dont
 Phil & Ling
 Rooty & Kanall
 Wiz & Dum
+Brey & Sez
 ;
 Monsters/Monster_ghazt_undof,Monsters/Monster_ghazt
 Aethuri-awl
@@ -577,6 +568,7 @@ Todd
 Vix
 Wapapow
 Yip
+Juan
 ;
 Monsters/Monster_arackulele
 Acktagon
@@ -661,6 +653,8 @@ Phantazee
 Skaytrdi
 Vasselcania
 Zalde
+Maree'oh
+Loo-Wee-Jee
 ;
 Monsters/Monster_fleechwurm_undof,Monsters/Monster_fleechwurm
 Abbott
@@ -761,6 +755,7 @@ Stalactort
 Thurrk
 Tombakka
 Yharson
+Oogway
 ;
 Monsters/Monster_plixie
 Cosmite
@@ -890,3 +885,9 @@ Monsters/Monster_wheezel
 Will Innaboks
 Sourpraze
 Yikers
+Claus
+Jofox
+Klubb
+Schorne
+Schpeyd
+Yooker
