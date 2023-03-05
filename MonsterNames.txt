@@ -792,6 +792,9 @@ Orchestreef
 Pegleg
 Searock
 Tromp
+Lyv'zi
+Hawkin
+Trelawney
 ;
 Monsters/Monster_furnoss
 Bombecue
@@ -892,3 +895,4 @@ Schorne
 Schpeyd
 Yooker
 Jack
+;
