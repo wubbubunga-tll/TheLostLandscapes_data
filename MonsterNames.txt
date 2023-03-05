@@ -968,3 +968,13 @@ KnittWitt
 ;
 Monsters/Knott10
 Papku
+;
+Monsters/Monster_gumtromp
+Gummy
+Masti
+Droled
+Sweetromp
+Goma
+Chikel
+Babala
+Ashukarr
