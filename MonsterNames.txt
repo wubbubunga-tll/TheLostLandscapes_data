@@ -792,8 +792,8 @@ Orchestreef
 Pegleg
 Searock
 Tromp
-Lyv'zi
-Hawkin
+Livesey
+Hawkins
 Trelawney
 ;
 Monsters/Monster_furnoss
