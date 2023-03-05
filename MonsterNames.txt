@@ -140,7 +140,7 @@ Siku
 Syrinx
 Zampona
 ;
-Monsters/Monster_frondey
+Monsters/Monster_frondley
 Areckal
 Ayrrol
 Ghould
