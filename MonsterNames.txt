@@ -895,3 +895,13 @@ Schorne
 Schpeyd
 Yooker
 Jack
+;
+Monsters/Monster_meduza
+Necronia
+Kriptik
+GorgonZolah
+Sssslithersssss
+S'Theenoh
+Y'Ryali
+Dee-Kapp
+Beehedd
