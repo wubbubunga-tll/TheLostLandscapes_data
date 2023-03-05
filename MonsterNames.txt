@@ -488,7 +488,7 @@ Nerron
 Nurv
 Seenapps
 ;
-Monsters/Monster_fluoress
+Monsters/Monster_fluoress,Monsters/Monster_fluoress_young
 Eclipse
 Fluora
 Glimber
@@ -501,6 +501,7 @@ Rainglow
 Sparktrum
 UltraVyolet
 Xylotone
+Luma
 ;
 Monsters/Monster_denchuhs
 Eee & Nahmel
@@ -1052,3 +1053,17 @@ Squatch
 Stampy
 Vern
 Zeecha
+Monsters/Monster_mammott_young,Monsters/Monster_kayna
+Xama
+;
+Monsters/Monster_noggin_young,Monsters/Monster_noggin
+Dwayne
+;
+Monsters/Monster_clackula_young,Monsters/Monster_clackula
+SpaniTildee
+;
+Monsters/Monster_osstax_young,Monsters/Monster_osstax
+Torresso
+;
+Monsters/Monster_rootitoot_young,Monsters/Monster_rootitoot
+Raizmund
