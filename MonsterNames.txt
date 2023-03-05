@@ -72,7 +72,7 @@ Mari
 Oxen't
 Wabluu
 ;
-Monsters/Monster_varrow,Monsters/Monster_varrow_rare
+Monsters/Monster_varrow
 Bow and Varrow
 Cacklette
 Bunnie
@@ -188,7 +188,7 @@ Vino
 Vinton
 Yababa
 ;
-Monsters/Monster_toejammer,Monsters/Monster_toejammer_young,Monsters/Monster_toejammer_rare
+Monsters/Monster_toejammer,Monsters/Monster_toejammer_young
 Bluuurp
 Bubbles
 Chortle
@@ -273,7 +273,7 @@ Swanton
 Tarleton
 Thys & Thatt
 ;
-Monsters/Monster_oaktopus,Monsters/Monster_oaktopus_young,Monsters/Monster_oaktopus_rare
+Monsters/Monster_oaktopus,Monsters/Monster_oaktopus_young
 Arlo
 Barkley
 Eldritch
@@ -330,7 +330,7 @@ Floaty
 Ayrrgan
 Willy
 Dick
-Air organ
+Air Organ
 Terrance
 Derzhi
 Jerry
@@ -391,7 +391,9 @@ Sephine
 Tachee
 ;
 Monsters/Knott_6
-Bebra Bleyash MatMat
+Bebra 
+Bleyash 
+MatMat
 ;
 Monsters/Monster_galvana
 Ampool
@@ -655,6 +657,7 @@ Vasselcania
 Zalde
 Maree'oh
 Loo-Wee-Jee
+MinPik
 ;
 Monsters/Monster_fleechwurm_undof,Monsters/Monster_fleechwurm
 Abbott
@@ -899,9 +902,63 @@ Jack
 Monsters/Monster_meduza
 Necronia
 Kriptik
-GorgonZolah
-Sssslithersssss
+GorgonZoluh
+Sssslitherssss
 S'Theenoh
 Y'Ryali
-Dee-Kapp
+Dee-kapp
 Beahedd
+;
+Monsters/Monster_toejammer_rare
+Althaya
+Closh
+Daktil
+Doeeye
+Doowah
+Faaze
+Fiibe
+Geemowv
+Grubb
+Gwibl
+Jhigg
+Pokey
+Sklush
+Smmore
+Squimb
+Ululula
+;
+Monsters/Monster_oaktopus_rare
+Alby
+Creen
+Entley
+Everette
+Fawst
+Fernsworth
+Gavin
+Herb
+Knotch
+Mahff
+Mona
+Phlegg
+Sappy
+Thark
+Tomas
+Treenie
+Trunkenstein
+Walter
+;
+Monsters/Monster_varrow_rare
+I NEED NICKNAMES JOBO DOESN'T HAVE ANY IDEAS BECAUSE HE HAS STINKY WILLY INFECTION
+;
+Monsters/Monster_spurrit
+Arrrg
+Brenty
+Chonzey
+Cire
+Eedeevee
+Eener
+Gord
+Marcus
+Neph
+Wardin
+Da' Zaaa
