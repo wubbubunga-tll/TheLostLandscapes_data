@@ -1254,7 +1254,7 @@ Vesuvius
 Vollca
 Furrnowe
 ;
-Monsters/Monster_kanya_rare_undof,Monsters/Monster_kanya_rare
+Monsters/Monster_kayna_rare_undof,Monsters/Monster_kayna_rare
 Kano
 Ansestora
 Aynchent
