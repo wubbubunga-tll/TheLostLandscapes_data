@@ -15,6 +15,8 @@ Flower_blue 10 flowers
 Cattail_water 90 water Cattail
 Log_water 30 water,water_log Log
 Log 30 ground
+Mushroom_1 30 ground
+Mushroom_2 10 tree
 ;
 Island_Knottshurr: 20 45
 BlueLog 100 trees
