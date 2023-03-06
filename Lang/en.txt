@@ -174,13 +174,13 @@ Monsters/Monster_maw_young=Young Maw
 Monsters/Monster_maw_young_bio=It should come to no surprise that the young Maw is filled to the brim of pure water! Essentially acting as fuzzy water balloons, Maw pups quickly learn to manage their fluid intake and outtake through their highly-evolved... well, maws. While being slobbered on by a wandering Maw tongue may never be a pleasant experience to bystanders, the handlers have determined it more just means said maw wants to be your friend. aww.
 
 Monsters/Monster_noggin_young=Young Noggin
-Monsters/Monster_noggin_young_bio=Young Noggin bio
+Monsters/Monster_noggin_young_bio=Thump thump Bump bump! The newborn noggin's hands aren't quite steady enough to provide that rhythm it's known for, but that doesnt stop it from trying. Juvenile Noggins sometimes let their musical mishaps get out of hand, often trying to bounce with the Thumpies, with very limited success. 
 
 Monsters/Monster_reedling=Reedling
 Monsters/Monster_reedling_bio=Reedling bio
 
 Monsters/Monster_reedling_young=Young Reedling
-Monsters/Monster_reedling_young_bio=Young Reedling bio
+Monsters/Monster_reedling_young_bio=What is a flute but something fun to toot, young Reedlings always say. Or at least thats what its assumed they are trying to communicate, as gusty wheezes and adorable drooling arent quite in our database of translatable languages yet. Nevertheless, the canine cutie happily joins in on any activities the other youngsters have. 
 
 Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
 Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_bio
@@ -198,10 +198,10 @@ Monsters/Monster_rootitoot=Rootitoot
 Monsters/Monster_rootitoot_bio=Rootitoot bio
 
 Monsters/Monster_rootitoot_young=Young Rootitoot
-Monsters/Monster_rootitoot_young_bio=Young Rootitoot bio
+Monsters/Monster_rootitoot_young_bio=The calm air that young Rootitoots provide are much appreciated solace in the boistrous and playful city. While supervised naps are offered, too many sleeping monsters around a local Rootitoot can cause a bit of a jam, and not the tasty kind. 
 
 Monsters/Monster_spunge_young=Young Spunge
-Monsters/Monster_spunge_young_bio=Young Spunge bio
+Monsters/Monster_spunge_young_bio=PFFFFFFFNFHFGNFJBGBF. That's what a young Spunge sounds like. I'm not joking. Its adorable bro. :)
 
 Monsters/Monster_dandidoo_young=Young Dandidoo
 Monsters/Monster_dandidoo_young_bio=Young Dandidoo bio
