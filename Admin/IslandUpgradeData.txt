@@ -1,5 +1,5 @@
 
-EM 1
+EM: 1
 diamonds=30
 Mushroom_1=15
 Mushroom_2=10
