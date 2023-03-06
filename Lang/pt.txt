@@ -71,6 +71,8 @@ Monsters/Monster_dandidoo_bio=Enquanto os fluxos quentinhos do oceano carregam o
 Monsters/Monster_dandidoo_young=Dandidão Bebê
 Monsters/Monster_dandidoo_young_bio=Young Dandidoo bio
 
+Monsters/Monster_furcorn=Sabugo Peludo
+Monsters/Monster_furcorn_bio=Furcorn bio
 #--Triples--#
 Monsters/Monster_spunge_young=Esponjo Bebê
 Monsters/Monster_spunge_young_bio=Young Spunge bio
