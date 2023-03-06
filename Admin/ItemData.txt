@@ -13,7 +13,7 @@ Flower_red 10 flowers
 Flower_yellow 10 flowers
 Flower_blue 10 flowers
 Cattail_water 90 water Cattail
-Log_water 30 water Log
+Log_water 30 water,water_log Log
 Log 30 ground
 ;
 Island_Knottshurr: 20 45
