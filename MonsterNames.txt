@@ -3,7 +3,6 @@ Likho-ad
 Barbatan
 Eyeren
 Yaken
-
 ;
 Monsters/Monster_choral
 Coralline
@@ -371,7 +370,7 @@ Jaboba
 Jopa
 Tyrone
 ;
-Monsters/Monster_bridgit,Monsters/Monster_bridgit_rare
+Monsters/Monster_bridgit
 Grendelle
 Gruffy
 Mbira
