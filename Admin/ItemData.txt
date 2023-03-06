@@ -17,6 +17,7 @@ Log_water 30 water,water_log Log
 Log 30 ground
 Mushroom_1 30 ground
 Mushroom_2 10 tree
+Lilly 4 lilly
 ;
 Island_Knottshurr: 20 45
 BlueLog 100 trees
@@ -34,13 +35,13 @@ Island_Farm: 10 20
 Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
-Flower_white 9 flowers
 Fruit_apple 100 fruits
 Fruit_orange 50 fruits
-Fruit_pear 40 fruits
+Fruit_pear 10 fruits
 ;
 Island_Organs: 10 22
 Bone 33 ground
 BloodCell_red 33 flying BloodCells
 BloodCell_white 33 flying BloodCells
+Virus 3 flying BloodCells
 ;

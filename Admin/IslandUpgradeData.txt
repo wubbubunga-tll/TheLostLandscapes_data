@@ -3,5 +3,5 @@ EM 1
 diamonds=30
 Mushroom_1=15
 Mushroom_2=10
-Flower_blue=10
+Lilly=10
 ;
