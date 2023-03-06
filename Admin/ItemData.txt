@@ -43,5 +43,5 @@ Island_Organs: 10 22
 Bone 33 ground
 BloodCell_red 33 flying BloodCells
 BloodCell_white 33 flying BloodCells
-Virus 3 flying BloodCells
+Virus 3 flying
 ;
