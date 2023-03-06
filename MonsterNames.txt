@@ -463,6 +463,7 @@ Hornslo
 Mith & Fabyl
 Quaddhorn
 Snorpodon
+Nash & Hiers
 ;
 Monsters/Monster_tiawa
 Kweeny
@@ -475,6 +476,7 @@ Rexa
 Roi
 Xyla
 Zafumi
+Zeltz
 ;
 Monsters/Monster_theremind,Monsters/Monster_theremind_meduza
 Amygdahlia
@@ -1067,3 +1069,13 @@ Torresso
 ;
 Monsters/Monster_rootitoot_young,Monsters/Monster_rootitoot
 Raizmund
+;
+Monsters/Monster_pango_young,Monsters/Monster_pango
+Guinpen
+;
+Monsters/Monster_ffidyll
+Schnif
+;
+Monsters/Monster_stogg
+sog
+;
