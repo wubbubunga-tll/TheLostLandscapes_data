@@ -544,23 +544,6 @@ Rooty & Kanall
 Wiz & Dum
 Brey & Sez
 ;
-Monsters/Monster_ghazt_undof,Monsters/Monster_ghazt
-Aethuri-awl
-Ailura
-Astral
-Crattler
-Glowb
-Klowder
-Orbz
-Plooo
-Puttinz
-Salaman
-Seethroo
-Skwurm
-Vibriss
-Wyska
-Xander
-;
 Monsters/Monster_reebro
 Bellum
 Brai-nyac
@@ -1018,7 +1001,7 @@ Seethroo
 Skwurm
 Vibriss
 Wyska
-Xande
+Xander
 ;
 Monsters/Monster_wubbox_undof,Monsters/Monster_wubbox,Monsters/Monster_wubbox_undof_awake
 Bowhaus
