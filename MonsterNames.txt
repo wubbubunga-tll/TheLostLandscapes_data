@@ -404,7 +404,7 @@ Puksus
 Megamegalullul
 Svestoplas
 ;
-Monsters/Monster_pongping,Monsters/Monster_pongping_meduza
+Monsters/Monster_pongping,Monsters/Monster_pongping_meduza,Monsters/Monster_pongping_young
 Caac
 Biden
 Tyson
@@ -825,6 +825,7 @@ Zzberrt
 ;
 Monsters/Monster_light
 Lonposa
+KittWitt
 ;
 Monsters/Monster_bone
 Helix
@@ -1226,7 +1227,7 @@ Squatch
 Stampy
 Vern
 Zeecha
-Monsters/Monster_mammott_young,Monsters/Monster_kayna,Monsters/Monster_kayna_undof
+Monsters/Monster_kayna_young,Monsters/Monster_kayna,Monsters/Monster_kayna_undof
 Xama
 Caldera
 Chanda
