@@ -9,17 +9,17 @@ Monsters/Monster_oaktopus 70
 Monsters/Monster_oaktopus_rare 70 _rare
 Monsters/Monster_quibble 70
 Monsters/Monster_dandidoo 70
-Monsters/Monster_wadee 25
-Monsters/Monster_likho 25
-Monsters/Monster_varrow 25
-Monsters/Monster_varrow_rare 25 _rare
+Monsters/Monster_wadee 65
+Monsters/Monster_likho 65
+Monsters/Monster_varrow 65
+Monsters/Monster_varrow_rare 65 _rare
 Monsters/Monster_spunge 40
 Monsters/Monster_spunge_rare 40 _rare
-Monsters/Monster_choral 20
-Monsters/Monster_dulsylvan 20
-Monsters/Monster_dulsylvan_rare 20 _rare
-Monsters/Monster_banno 20
-Monsters/Monster_stoopa 10
+Monsters/Monster_choral 35
+Monsters/Monster_dulsylvan 35
+Monsters/Monster_dulsylvan_rare 35 _rare
+Monsters/Monster_banno 35
+Monsters/Monster_stoopa 20
 
 Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 100
 Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 100

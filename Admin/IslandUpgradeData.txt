@@ -1,5 +1,23 @@
 
-EM: 1
+EM 1
+diamonds=30
+Mushroom_1=15
+Mushroom_2=10
+Lilly=10
+;
+City 1
+diamonds=30
+Mushroom_1=15
+Mushroom_2=10
+Lilly=10
+;
+City 2
+diamonds=30
+Mushroom_1=15
+Mushroom_2=10
+Lilly=10
+;
+City 3
 diamonds=30
 Mushroom_1=15
 Mushroom_2=10
