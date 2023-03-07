@@ -24,4 +24,3 @@ Rock=60
 ITM_rootbeer=10
 Log=100
 Virus=5
-;
