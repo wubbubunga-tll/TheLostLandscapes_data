@@ -154,6 +154,8 @@ Monsters/Monster_tweedle_young=Young Tweedle
 Monsters/Monster_tweedle_young_bio=Tweedles are well known to be airy and aloof, and the youngest members of the species are no different. When not spreading chitchat around the Floating City, these babbling birds preen themselves nonstop, hoping to be the most "fantastic feathered fling" of the day. 
 Monsters/Monster_flootfly_young=Young Floot Fly
 Monsters/Monster_flootfly_young_bio=Whoosh! Spry Flootlings are adventurous, soaring through the skies. Never seen without their signature masks, its said they search for something lost long ago...
+Monsters/Monster_stogg_young=Young Stogg
+Monsters/Monster_stogg_young_bio=Young Stogg bio
 
 Monsters/Monster_theremind_young=Young Theremind
 Monsters/Monster_theremind_young_bio=Young Thereminds are such mischievous minds! With their psychic abilities, they can drag objects with their minds... very VERY often. Where there is a Little Theremind, one can expect a not-so-little mess. Toys fly apart, dishes break! And now someone's dinner was right on the head of one of the monsterlings. But besides creating a "creative" mess, brainy friends have other hobbies. They like to show the crowd different tricks with disappearances, cards and animals in a hat. Despite the mischievous nature, everyone loves the young Theremind!
