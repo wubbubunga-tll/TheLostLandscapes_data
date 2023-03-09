@@ -5,6 +5,12 @@ MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it
 
 ol=Azu's Monsters
 
+Monsters/Monster_jobo=Jodel
+Monsters/Monster_jobo_bio=Jodel bio
+
+Monsters/Monster_treble=Ethenor
+Monsters/Monster_treble_bio=Ethenor bio
+
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=Do bio
 Monsters/Monster_dipster_2=Re
