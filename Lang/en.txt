@@ -5,6 +5,10 @@ MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it
 
 ol=Azu's Monsters
 
+
+Monsters/Monster_phangler_young=Young Phangler
+Monsters/Monster_phangler_young_bio=Young Phangler bio
+
 Monsters/Monster_jobo=Jodel
 Monsters/Monster_jobo_bio=Jodel bio
 
