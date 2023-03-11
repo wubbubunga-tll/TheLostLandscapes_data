@@ -5,6 +5,8 @@ MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it
 
 ol=Azu's Monsters
 
+Monsters/Monster_knucklehead_young=Young Knucklehead
+Monsters/Monster_knucklehead_young_bio=Young Knucklehead bio
 
 Monsters/Monster_phangler_young=Young Phangler
 Monsters/Monster_phangler_young_bio=Young Phangler bio

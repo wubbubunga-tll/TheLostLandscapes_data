@@ -45,6 +45,7 @@ Monsters/Monster_stogg_young
 Monsters/Monster_phangler_young
 Monsters/Monster_quibble_young
 Monsters/Monster_osstax_young
+Monsters/Monster_knucklehead_young
 Monsters/Monster_rootitoot_young
 Monsters/Monster_reedling_young
 Monsters/Monster_spunge_young
