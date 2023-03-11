@@ -238,7 +238,7 @@ Mortimer
 Ottotuna
 Tallulah
 ;
-Monsters/Monster_phangler_rare;
+Monsters/Monster_phangler_rare
 Saulmon Gud
 Daiyurnal
 Glowby
@@ -288,6 +288,9 @@ Vardon
 Whistlee
 Wobble
 Wubbs
+;
+Monsters/Monster_spunge_rare
+Stinks
 ;
 Monsters/Monster_quibble,Monsters/Monster_quibble_young
 Accalia
@@ -1028,7 +1031,6 @@ Glitch
 Bynari
 Comvert
 ;
-
 Monsters/Monster_clamble
 Bluto
 Clamp
