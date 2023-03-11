@@ -2,19 +2,19 @@
 #GeneratorName: items_per_day items_limit
 
 ;
-Island_City: 7 30
+Island_City: 30 50
 Flower_red 33 flowers
-Flower_yellow 33 flowers
+Flower_yellow 34 flowers
 Flower_blue 33 flowers
-Fruit_apple 100 fruits
+Fruit_apple 50 fruits
 ;
-Island_EM: 10 50
+Island_EM: 30 50
 Flower_red 10 flowers
 Flower_yellow 10 flowers
-Flower_blue 10 flowers
-Cattail_water 90 water Cattail
-Log_water 30 water,water_log Log
-Log 30 ground
+Flower_blue 15 flowers
+Cattail_water 50 water Cattail
+Log_water 15 water,water_log Log
+Log 20 ground
 Mushroom_1 30 ground
 Mushroom_2 10 tree
 Lilly 4 lilly
