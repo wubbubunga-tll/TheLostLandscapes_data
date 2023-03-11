@@ -998,5 +998,5 @@ goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 
-Monsters/VOIDCORN=V O I D C O R N
+Monsters/VOIDCORN=<color="red">V O I D C O R N
 str_class_YOOL=<YOURMISSINGYOOL>

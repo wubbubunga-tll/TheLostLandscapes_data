@@ -969,3 +969,4 @@ goal_removeObstacles=Уберите <color="green"><amount></color> препят
 goal_designerMode=Попробуйте <color="green">режим дизайнера.
 goal_placeDeco=Купите и разместите <color="green">"<entityName>".
 goal_teleport=Телепортируйте <color="green"><entityName></color> на внешний остров.
+
