@@ -1,0 +1,16 @@
+# if not added here they will be 1 by default. If it's negative, that means it's a contaminate. It will decrease the food amount
+
+Virus -10 
+
+ITM_amberstick 10
+ITM_flowerjam 5
+ITM_buttergum 5
+ITM_churrbone 5
+ITM_bloodsoup 5
+ITM_cake 5
+ITM_kebab 5
+ITM_pizza 5
+ITM_salad 5
+ITM_ink 5
+ITM_rootbeer 5
+ITM_FlingDrink 5
