@@ -210,10 +210,10 @@ Monsters/Monster_clackula_bio=Clackula bio
 Monsters/Monster_denchuhs=Gemolares
 Monsters/Monster_denchuhs_bio=Mah dentures
 
-Monsters/Monster_kuncklehead=Cabeçuda
-Monsters/Monster_kuncklehead_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
-Monsters/Monster_kuncklehead_meduza=Cabeçuda
-Monsters/Monster_kuncklehead_meduza_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
+Monsters/Monster_knucklehead=Cabeçuda
+Monsters/Monster_knucklehead_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
+Monsters/Monster_knucklehead_meduza=Cabeçuda
+Monsters/Monster_knucklehead_meduza_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
 
 Monsters/Monster_osstax_young=Pilhossos Bebê
 Monsters/Monster_osstax_young_bio=Young Osstax bio

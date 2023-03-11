@@ -268,10 +268,10 @@ Monsters/Monster_pummel_bio=А
 Monsters/Monster_pummel_meduza=Маракастук
 Monsters/Monster_pummel_meduza_bio=А
 
-Monsters/Monster_kuncklehead=Тыдыщ
-Monsters/Monster_kuncklehead_bio=А
-Monsters/Monster_kuncklehead_meduza=Тыдыщ
-Monsters/Monster_kuncklehead_meduza_bio=А
+Monsters/Monster_knucklehead=Тыдыщ
+Monsters/Monster_knucklehead_bio=А
+Monsters/Monster_knucklehead_meduza=Тыдыщ
+Monsters/Monster_knucklehead_meduza_bio=А
 
 Monsters/Monster_hornacle=Трубяпцы
 Monsters/Monster_hornacle_bio=А
