@@ -9,7 +9,7 @@ Monsters/Monster_potbelly=Planta-Pança
 Monsters/Monster_potbelly_bio=A Planta-Pança é uma criatura barulhenta e extrovertida, constantemente tagalerando coisas sem sentido para todos que as podem ouvir. As vezes no meio de um conversa entre vários monstros, uma Planta-Pança qualquer se retira de seu pote e se estabelecer na tagarelice, às vezes nem mesmo percebebendo que os seus tentáculos enraizados engolfando seu ouvinte ansioso, felizmente, hoje em dia os monstros aprenderam a ficar longe ou a lembrar gentilmente a Planta-Pança de se afastar um pouco, e as coisas vão bem a partir daí.
 
 Monsters/Monster_mammott_young=Mamutinho Bebê
-Monsters/Monster_mammott_young_bio=Young Mammott bio
+Monsters/Monster_mammott_young_bio=The abominamble snowman? More like the adorable snowmons! Mammott isnt quite a boistrous master of "Bom"s but we're getting there. Meanwhile, Mammott prefers to eat food and fluff its fur. Typical. 
 
 Monsters/Monster_mammott=Mamutinho
 Monsters/Monster_mammott_bio=Mammott bio
@@ -69,7 +69,7 @@ Monsters/Monster_dandidoo=Dandidão
 Monsters/Monster_dandidoo_bio=Enquanto os fluxos quentinhos do oceano carregam ostras pelas profundezas, uma brisa suave carrega o Esbelto Dandidão pelo mundo dos monstros. Suas migrações dependem do fluxo de ar, já que a natureza não foi tão gentil o suficiente para conceder-lhes asas, pobrezinho. Eles podem conduzir o ar através de seus corpos verdinhos para armazená-lo e explorá-lo em um poderoso fluxo de tons e semitons afinados. É por isso que seu canto se assemelha a "doo"s e "dee"s. Seu elemental de Planta deu-lhes uma tonalidade esverdeada e cabelos estilo afro que lembram um dente-de-leão comum, será que é fácil confundir os dois? Provavelmente sim.
 
 Monsters/Monster_dandidoo_young=Dandidão Bebê
-Monsters/Monster_dandidoo_young_bio=Young Dandidoo bio
+Monsters/Monster_dandidoo_young_bio=With that delightful tuft, the unmistakable dandidoo prefers to sit in one spot, admiring the world as it goes by. Who knows whether it forgets all it sees, or if echos of a murky past remain, tucked away within the dandelion dancer.
 
 Monsters/Monster_furcorn=Sabugo Peludo
 Monsters/Monster_furcorn_bio=Furcorn bio
@@ -106,7 +106,7 @@ Monsters/Monster_deedge_bio=Deedge bio
 ###--Fires------------------------------------------###
 #--Singles--#
 Monsters/Monster_kayna_young=Lavareda Bebê
-Monsters/Monster_kayna_young_bio=Young Kayna Bio
+Monsters/Monster_kayna_young_bio=The warm embrace of a Kayna is a welcome surprise to any monster, and theyre quite common surprises given how kind and loving the firey monsterlings tend to be. Surprisingly, mini-eruptions from its head are actually prompted by laughter and tickling
 
 Monsters/Monster_kayna=Lavareda
 Monsters/Monster_kayna_bio=Kayna Bio
@@ -115,11 +115,17 @@ Monsters/Monster_kayna_bio=Kayna Bio
 Monsters/Monster_boskus=Bícanco
 Monsters/Monster_boskus_bio=Boskus bio
 
+Monsters/Monster_phangler_young=Peixânzol Bebê
+Monsters/Monster_phangler_young_bio=Young Phangler bio
+
 Monsters/Monster_phangler=Peixanzol
 Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Bannorio e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixanzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixanzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
 
 Monsters/Monster_phangler_rare=Peixanzol Raro
 Monsters/Monster_phangler_rare_bio=Glub Glub Glub. O Peixeanzol raro comeu um lama demais do fundo das águas do pântano e sua cauda caiu. Por sorte, ele tinha um extra em seus bolsos, então os colocou e os usou como braços!
+
+Monsters/Monster_stogg_young=Estegão Bebê
+Monsters/Monster_stogg_young_bio=Young Stogg bio
 
 #--Triples--#
 Monsters/Monster_rootitoot=Rutitu
@@ -194,7 +200,7 @@ Monsters/Monster_theremind_meduza_bio=Theremind bio
 Monsters/Monster_fluoress_young_bio=Uma Fluoresca pode parecer sem cores e sem graça, mas isso é apenas uma fachada. Quando em música com outros monstros, Fluoresca alegremente cutuca seu vestido de Fluorofila, iluminando a escuridão. Embora a razão para essa estranha reação, bem como as origens da Fluorofila, sejam um mistério, Fluoresca gentilmente lembra que não é preciso entender para apreciar.
 
 
-Monsters/Monster_flootfly_young=Mosca-da-Faulta Bebê
+Monsters/Monster_flootfly_young=Mosca-da-Flauta Bebê
 Monsters/Monster_flootfly_young_bio=Vush! Moscas das flautas são bem aventureiros, voando pelos céus. Nunca vistos sem suas máscaras de alaranjadas, dizem que eles procuram algo perdido há muito tempo...
 
 Monsters/Monster_flootfly=Mosca-da-Flauta
@@ -209,6 +215,9 @@ Monsters/Monster_clackula_bio=Clackula bio
 #--Doubles--#
 Monsters/Monster_denchuhs=Gemolares
 Monsters/Monster_denchuhs_bio=Mah dentures
+
+Monsters/Monster_knucklehead_young=Cabeçuda Bebê
+Monsters/Monster_knucklehead_young_bio=Thump thump Bump bump! The newborn noggin's hands aren't quite steady enough to provide that rhythm it's known for, but that doesnt stop it from trying. Juvenile Noggins sometimes let their musical mishaps get out of hand, often trying to bounce with the Thumpies, with very limited success. 
 
 Monsters/Monster_knucklehead=Cabeçuda
 Monsters/Monster_knucklehead_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
@@ -570,6 +579,12 @@ Monsters/Monster_thrumble_undof_bio=EscaramuÃ§a de sÃ¡bado  Lanches Ã¡vido
 Monsters/Monster_knife=Dangata
 Monsters/Monster_knife_bio=Banch bio
 
+Monsters/Monster_jobo=Jodel
+Monsters/Monster_jobo_bio=Jodel bio
+
+Monsters/Monster_treble=Ethenor
+Monsters/Monster_treble_bio=Ethenor bio
+
 Monsters/Monster_gumtromp=Masclete
 Monsters/Monster_gumtromp_bio=Bio
 
@@ -874,6 +889,7 @@ str_popup_speedUp=Você tem certeza que quer acelerar o processo por <color=#4EF
 str_popup_notEnough_diamonds=Você não tem <color=#4EFFF5>Diamantes</color> o suficiente.
 str_popup_notEnough_coins=Você não tem <color="yellow">Moedas o suficiente.
 str_popup_notEnough_food=Você não tem  <color=#F318D1>Food.
+str_popup_notEnough_foodB=YVocê não tem <color=#CDFF3D>Papinha.
 str_popup_notEnough_stars=Você não tem  <color=#FFA400>PoderEstelar</color> o suficiente.
 str_popup_sell=Você tem certeza que quer vender isso por <color="yellow"><amount> Moedas?
 str_popup_designer_cancel=Tem certeza que você quer cancelar todas as alterações feitas no modo de edição?
@@ -987,6 +1003,7 @@ str_class_Ethereal-r=Etéreo(Raro)
 str_class_Dipster=Acanhado
 str_class_Mythical=Mítico
 str_class_Mythical-r= Mítico(Raro)
+str_class_Legendary=Lendário
 
 ##--BUTTONS--##
 str_teleporter=Zepelim Sinfônico
@@ -1008,6 +1025,7 @@ btn_shop_deco_obstacles=Obstáculos
 btn_shop_deco_other=Outros
 btn_shop_structures=Estruturas
 btn_shop_currency=Recursos
+str_currency_foodB=Papinha
 btn_sell=Vender
 btn_changeTime=Distorcer
 btn_changeTime=Distorcer Tempo
