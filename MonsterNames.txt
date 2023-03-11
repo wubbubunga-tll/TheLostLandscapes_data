@@ -1390,7 +1390,7 @@ Sigmond
 Trunko
 Long-ness
 ;
-Monsters/Monster_knucklehead,Monsters/Monster_kuncklehead_meduza
+Monsters/Monster_knucklehead,Monsters/Monster_knucklehead_meduza,Monsters/Monster_knucklehead_young
 Nucol-Sandish
 Caac
 Brayzen
