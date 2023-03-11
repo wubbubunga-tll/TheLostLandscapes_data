@@ -2,7 +2,7 @@ ITM_amberstick Relic=1,Log=2,<Type>Sweets=4 25
 ITM_flowerjam <Type>Flowers=10,Cattail=10 50
 ITM_buttergum Butterfly=4,<Type>Sweets=3 25
 ITM_churrbone Bone=1,Fruit_apple=4 25
-ITM_mushroombroth Bone=1,Dew=10,Mushroom1=8,Mushroom2=4 50
+ITM_mushroombroth Bone=1,Dew=10,Mushroom_1=8,Mushroom_2=4 50
 ITM_cake Fruit_apple=10,<Type>Sweets=10 100
 ITM_kebab Bone=1,Fruit_apple=4 25
 ITM_pizza <Type>Flowers=10 25
