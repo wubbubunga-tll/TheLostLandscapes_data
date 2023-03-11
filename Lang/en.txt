@@ -775,7 +775,7 @@ str_popup_speedUp=Are you sure you want to speed up the proccess for <sprite nam
 str_popup_notEnough_diamonds=You don't have enough <color=#4EFFF5>Diamonds.
 str_popup_notEnough_coins=You don't have enough <color="yellow">Coins.
 str_popup_notEnough_food=You don't have enough <color=#F318D1>Food.
-str_popup_notEnough_foodB=You don't have enough <color=#FF4C4F>Baby food.
+str_popup_notEnough_foodB=You don't have enough <color=#CDFF3D>Baby food.
 str_popup_notEnough_stars=You don't have enough <color=#FFA400>Starpower.
 str_popup_notEnough=You don't have enough <color=green>Items</color>.
 str_popup_sell=Are you sure you want to sell this for <sprite name=coins><color="yellow"><amount>?
