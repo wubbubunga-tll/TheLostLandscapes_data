@@ -2,9 +2,9 @@ ITM_amberstick Relic=1,Log=2,<Type>Sweets=4 25
 ITM_flowerjam <Type>Flowers=10,Cattail=10 50
 ITM_buttergum Butterfly=4,<Type>Sweets=3 25
 ITM_mushroombroth Bone=1,Dew=10,Mushroom_1=8,Mushroom_2=4 50
-ITM_cake Fruit_apple=10,<Type>Sweets=10 100
+ITM_cake Fruit_orange=10,<Type>Sweets=10 100
 ITM_kebab Bone=1,Fruit_apple=4 25
-ITM_salad <Type>Vegetation=25 100
+ITM_salad <Type>Vegetation=25, Seaweed=10 100
 ITM_ink Flower_blue=1,Flower_red=1,Flower_yellow=1 100
 ITM_rootbeer Log=1,Foam=4,<Type>Sweets=10 100
 ITM_FlingDrink Virus=1,Relic=1,Vortex=1,Lily=1,Dew=20 100
