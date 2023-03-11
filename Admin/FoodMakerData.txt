@@ -1,4 +1,4 @@
-ITM_flowerjam Flower_blue=10,Lilly=5, Cattail=10 2
+ITM_flowerjam Flower_blue=10,Lily=5, Cattail=10 2
 ITM_salad Flower_red=5, Flower_yellow=5, Seaweed=10 5
 ITM_buttergum Butterfly=4 Candycane=3 5
 ITM_mushroombroth Bone=1,Dew=10,Mushroom_1=8,Mushroom_2=4 1
