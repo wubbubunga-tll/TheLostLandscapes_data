@@ -1416,7 +1416,7 @@ Monsters/Monster_dipster_1,Monsters/Monster_dipster_2,Monsters/Monster_dipster_3
 Dipper
 Underling
 Grundo
-scendip
+Ascendip
 Boundling
 Crescendip
 Dave
