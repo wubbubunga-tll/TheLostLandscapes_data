@@ -516,7 +516,7 @@ Xyla
 Zafumi
 Zeltz
 ;
-Monsters/Monster_theremind,Monsters/Monster_theremind_meduza
+Monsters/Monster_theremind,Monsters/Monster_theremind_meduza,Monsters/Monster_theremind_young
 Amygdahlia
 Awblongata
 Bellum
@@ -1239,7 +1239,7 @@ Squatch
 Stampy
 Vern
 Zeecha
-Monsters/Monster_kayna_young,Monsters/Monster_kayna,Monsters/Monster_kayna_undof
+Monsters/Monster_kayna_young,Monsters/Monster_kayna,Monsters/Monster_kanya_undof
 Xama
 Caldera
 Chanda
@@ -1254,7 +1254,7 @@ Vesuvius
 Vollca
 Furrnowe
 ;
-Monsters/Monster_kayna_rare_undof,Monsters/Monster_kayna_rare
+Monsters/Monster_kanya_rare_undof,Monsters/Monster_kanya_rare
 Kano
 Ansestora
 Aynchent
