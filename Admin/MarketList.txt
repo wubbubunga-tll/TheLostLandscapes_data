@@ -7,6 +7,7 @@ Monsters/Monster_tweedle diamonds=20
 Monsters/Monster_flootfly diamonds=25
 Monsters/Monster_oaktopus
 Monsters/Monster_dandidoo
+Monsters/Monster_likho_epic
 Monsters/Monster_likho
 Monsters/Monster_wadee
 Monsters/Monster_varrow
