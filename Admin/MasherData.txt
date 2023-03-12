@@ -12,3 +12,4 @@ ITM_salad 2
 ITM_Grain 2
 ITM_rootbeer 10
 ITM_FlingDrink 50
+ITM_AppleJuice 4
