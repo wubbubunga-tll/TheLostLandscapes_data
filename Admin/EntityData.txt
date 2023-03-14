@@ -82,6 +82,7 @@ Monsters/Monster_clackula_young coins=400 bone 14400 2 coins=1@120@coins=90 Magi
 Monsters/Monster_rootitoot_young diamonds=40 water@fire@plant 43200 4 coins=1@72@coins=260 Natural rootitoot,rootitoot_young 4 0
 Monsters/Monster_reedling_young diamonds=40 air@plant@earth 43200 4 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 Monsters/Monster_spunge_young diamonds=40 water@air@plant 43200 4 coins=1@72@coins=260 Natural spunge,spunge_young 4 0
+Monsters/Monster_bridgit_young diamonds=100 faerie@earth@fire 64800 7 coins=8@60@coins=260 Magical bridgit,bridgit_young 4 0
 
 Monsters/Monster_reedling_young_singer diamonds=40 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 

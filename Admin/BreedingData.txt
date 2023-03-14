@@ -58,6 +58,7 @@ Monsters/Monster_knucklehead_young 35
 Monsters/Monster_rootitoot_young 30
 Monsters/Monster_spunge_young 30
 Monsters/Monster_reedling_young 30
+Monsters/Monster_bridgit_young 27
 
 
 ;

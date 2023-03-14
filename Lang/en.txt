@@ -116,6 +116,9 @@ Monsters/Monster_stoopa=Stoopa
 Monsters/Monster_stoopa_bio=Not much is known about the misty marsh deep in the heart of the Evergreen Woods, but legends speak of a strange monster that watches over and leads the song of the monsters that reside there. And whaddya know, here it is! Stoopa is even more of a recycling expert than Congle, finding anything and everything in nature to produce its song, even if it has to make some exceptions with its nature-based rule at times- proven by those... pots and pans on its stupa? Still very little is known about it, and Stoopa prefers to keep it that way while it wields its strange staff, and guards the secrets of the Marsh.
 Monsters/Monster_bridgit=Bridg-it
 Monsters/Monster_bridgit_bio=While stereotypes say trolls are generally cruel and live in basements, Bridg-it's quite the opposite. This melodic monster is one of the kindest one'll meet, constantly hosting tea parties, bridge building competitions, and much more. Well we think so, we havent seen it really do... anything besides those two things. 
+Monsters/Monster_bridgit_young=Young Bridg-it
+Monsters/Monster_bridgit_young_bio=Young Bridg-it bio
+
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
 

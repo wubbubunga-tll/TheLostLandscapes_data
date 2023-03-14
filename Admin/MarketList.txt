@@ -151,6 +151,7 @@ Monsters/Monster_knucklehead_young
 Monsters/Monster_rootitoot_young
 Monsters/Monster_spunge_young
 Monsters/Monster_reedling_young
+Monsters/Monster_bridgit_young
 -
 monsters_celestials:
 Monsters/Monster_hornacle
