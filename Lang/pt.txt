@@ -489,7 +489,7 @@ Structures/Structure_bakery_bio=Bakery bio
 Structures/Structure_amalgamator=Amalgamador
 Structures/Structure_amalgamator_bio=Amalgamator bio
 
-Structures/Structure_amalgamator_city=Forninho de Luxo
+Structures/Structure_amalgamator_city=Amassador
 Structures/Structure_amalgamator_city_bio=Bebe food maker bio
 
 ###--Fun------------------------------------------###
