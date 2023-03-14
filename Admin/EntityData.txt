@@ -61,30 +61,31 @@ Monsters/Monster_pummel_meduza diamonds=70 water@earth@plant 43200 25 coins=1@72
 Monsters/Monster_knucklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 Monsters/Monster_knucklehead_meduza diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 
-Monsters/Monster_potbelly_young coins=400 plant 300 1 coins=1@120@coins=60 Natural potbelly,potbelly_young 4 0
-Monsters/Monster_toejammer_young coins=400 water 300 1 coins=1@120@coins=60 Natural toejammer_young,toejammer_young 0 0
-Monsters/Monster_tweedle_young coins=400 air 300 1 coins=1@120@coins=60 Natural tweedle_young,tweedle_young 0 0
-Monsters/Monster_mammott_young coins=400 cold 300 1 coins=1@120@coins=60 Natural mammott,mammott_young 4 0
-Monsters/Monster_flootfly_young coins=400 faerie 14400 2 coins=1@120@coins=90 Magical flootfly,flootfly_young 0 0
-Monsters/Monster_oaktopus_young diamonds=25 water@plant 28800 3 coins=1@80@coins=100 Natural oaktopus,oaktopus_young 4 0
-Monsters/Monster_dandidoo_young diamonds=25 air@plant 28800 3 coins=1@80@coins=100 Natural dandidoo_young,dandidoo_young 4 0
-Monsters/Monster_theremind_young coins=400 psychic 14400 2 coins=1@120@coins=90 Magical theremind,theremind_young 6 0
-Monsters/Monster_fluoress_young coins=400 light 14400 2 coins=1@120@coins=90 Magical fluoress_young,fluoress_young 6 0
-Monsters/Monster_osstax_young diamonds=30 faerie@bone 36000 5 coins=1@80@coins=150 Magical osstax,osstax_young 6 0
-Monsters/Monster_knucklehead_young diamonds=30 faerie@light 36000 5 coins=1@80@coins=150 Magical knucklehead,knucklehead_young 4 0
-Monsters/Monster_maw_young diamonds=25 water@cold 28800 3 coins=1@80@coins=100 Natural maw_young,maw_young 4 0
-Monsters/Monster_stogg_young diamonds=25 earth@fire 28800 3 coins=1@80@coins=100 Natural stogg_young,stogg_young 4 0
-Monsters/Monster_phangler_young diamonds=25 fire@water 28800 3 coins=1@80@coins=100 Natural phangler_young,phangler_young 4 0
+Monsters/Monster_potbelly_young coins=100 plant 300 1 coins=1@120@coins=60 Natural potbelly,potbelly_young 4 0
+Monsters/Monster_toejammer_young coins=300 water 300 1 coins=1@120@coins=60 Natural toejammer_young,toejammer_young 0 0
+Monsters/Monster_tweedle_young coins=750 air 300 1 coins=1@120@coins=60 Natural tweedle_young,tweedle_young 0 0
+Monsters/Monster_mammott_young coins=250 cold 300 1 coins=1@120@coins=60 Natural mammott,mammott_young 4 0
+Monsters/Monster_flootfly_young coins=30000 faerie 14400 2 coins=1@120@coins=90 Magical flootfly,flootfly_young 0 0
+Monsters/Monster_oaktopus_young diamonds=150 water@plant 28800 3 coins=1@80@coins=100 Natural oaktopus,oaktopus_young 4 0
+Monsters/Monster_dandidoo_young diamonds=150 air@plant 28800 3 coins=1@80@coins=100 Natural dandidoo_young,dandidoo_young 4 0
+Monsters/Monster_theremind_young coins=25000 psychic 14400 2 coins=1@120@coins=90 Magical theremind,theremind_young 6 0
+Monsters/Monster_fluoress_young coins=20000 light 14400 2 coins=1@120@coins=90 Magical fluoress_young,fluoress_young 6 0
+Monsters/Monster_osstax_young diamonds=200 faerie@bone 36000 5 coins=1@80@coins=150 Magical osstax,osstax_young 6 0
+Monsters/Monster_knucklehead_young diamonds=200 faerie@light 36000 5 coins=1@80@coins=150 Magical knucklehead,knucklehead_young 4 0
+Monsters/Monster_maw_young diamonds=150 water@cold 28800 3 coins=1@80@coins=100 Natural maw_young,maw_young 4 0
+Monsters/Monster_stogg_young diamonds=150 earth@fire 28800 3 coins=1@80@coins=100 Natural stogg_young,stogg_young 4 0
+Monsters/Monster_phangler_young diamonds=150 fire@water 28800 3 coins=1@80@coins=100 Natural phangler_young,phangler_young 4 0
 Monsters/Monster_noggin_young coins=400 earth 300 1 coins=1@120@coins=60 Natural noggin,noggin_young 4 0
-Monsters/Monster_kayna_young coins=400 fire 300 1 coins=1@120@coins=60 Natural kayna,kayna_young 4 0
-Monsters/Monster_quibble_young diamonds=25 water@air 28800 3 coins=1@80@coins=100 Natural quibble_young,quibble_young 4 0
-Monsters/Monster_clackula_young coins=400 bone 14400 2 coins=1@120@coins=90 Magical clackula,clackula_young 6 0
-Monsters/Monster_rootitoot_young diamonds=40 water@fire@plant 43200 4 coins=1@72@coins=260 Natural rootitoot,rootitoot_young 4 0
-Monsters/Monster_reedling_young diamonds=40 air@plant@earth 43200 4 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
-Monsters/Monster_spunge_young diamonds=40 water@air@plant 43200 4 coins=1@72@coins=260 Natural spunge,spunge_young 4 0
-Monsters/Monster_bridgit_young diamonds=100 faerie@earth@fire 64800 7 coins=8@60@coins=260 Magical bridgit,bridgit_young 4 0
+Monsters/Monster_kayna_young coins=5000 fire 300 1 coins=1@120@coins=60 Natural kayna,kayna_young 4 0
+Monsters/Monster_quibble_young diamonds=150 water@air 28800 3 coins=1@80@coins=100 Natural quibble_young,quibble_young 4 0
+Monsters/Monster_clackula_young coins=40000 bone 14400 2 coins=1@120@coins=90 Magical clackula,clackula_young 6 0
+Monsters/Monster_rootitoot_young diamonds=500 water@fire@plant 43200 4 coins=1@72@coins=260 Natural rootitoot,rootitoot_young 4 0
+Monsters/Monster_reedling_young diamonds=500 air@plant@earth 43200 4 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
+Monsters/Monster_spunge_young diamonds=500 water@air@plant 43200 4 coins=1@72@coins=260 Natural spunge,spunge_young 4 0
+Monsters/Monster_bridgit_young diamonds=600 faerie@earth@fire 64800 7 coins=8@60@coins=260 Magical bridgit,bridgit_young 4 0
+Monsters/Monster_frondley_young diamonds=750 faerie@psychic@light 64800 7 coins=8@60@coins=260 Magical bridgit,bridgit_young 4 0
 
-Monsters/Monster_reedling_young_singer diamonds=40 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
+Monsters/Monster_reedling_young_singer diamonds=10000 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 
 Monsters/Monster_fluoress coins=400 light 14400 10 coins=1@120@coins=90 Magical fluoress,fluoress 6 0
 Monsters/Monster_rootitoot diamonds=70 water@fire@plant 43200 25 coins=1@72@coins=260 Natural rootitoot,rootitoot 4 0
@@ -106,20 +107,20 @@ Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal
 Monsters/Monster_sox diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 Monsters/Monster_sox_meduza diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 
-Monsters/Monster_hornacle diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial hornacle,hornacle 8 0
-Monsters/Monster_loodvigg diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial loodvigg,loodvigg 8 0
-Monsters/Monster_blasoom diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial blasoom,blasoom 8 0
-Monsters/Monster_torrt diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial torrt,torrt 8 0
-Monsters/Monster_scaratar diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial scaratar,scaratar 8 0
-Monsters/Monster_syncopite diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial syncopite,syncopite 8 0
-Monsters/Monster_attmoz diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial attmoz,attmoz 8 0
-Monsters/Monster_vhamp diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial vhamp,vhamp 8 0
-Monsters/Monster_furnoss diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial furnoss,furnoss 8 0
-Monsters/Monster_glaishur diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial glaishur,glaishur 8 0
-Monsters/Monster_galvana diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial galvana,galvana 8 0
-Monsters/Monster_plixie diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial plixie,plixie 8 0
-Monsters/Monster_light diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s light,light 8 0
-Monsters/Monster_bone diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s bone,bone 8 0
+Monsters/Monster_hornacle diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial hornacle,hornacle 8 0
+Monsters/Monster_loodvigg diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial loodvigg,loodvigg 8 0
+Monsters/Monster_blasoom diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial blasoom,blasoom 8 0
+Monsters/Monster_torrt diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial torrt,torrt 8 0
+Monsters/Monster_scaratar diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial scaratar,scaratar 8 0
+Monsters/Monster_syncopite diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial syncopite,syncopite 8 0
+Monsters/Monster_attmoz diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial attmoz,attmoz 8 0
+Monsters/Monster_vhamp diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial vhamp,vhamp 8 0
+Monsters/Monster_furnoss diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial furnoss,furnoss 8 0
+Monsters/Monster_glaishur diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial glaishur,glaishur 8 0
+Monsters/Monster_galvana diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial galvana,galvana 8 0
+Monsters/Monster_plixie diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial plixie,plixie 8 0
+Monsters/Monster_light diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s light,light 8 0
+Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s bone,bone 8 0
 
 Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 Natural phangler,phangler 6 0
 Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 Magical bridgit,bridgit 6 0
@@ -226,6 +227,8 @@ Structures/Structure_amalgamator diamonds=100 0 1
 Structures/Structure_amalgamator_city coins=10000 0 1
 Structures/Structure_jukebox coins=1000 0 1
 Structures/Structure_bass coins=100000 0 2
+
+Structures/Structure_masher coins=0,diamonds=1000 3 2
 
 Structures/Structure_knottmaker1 coins=100000 0 0
 Structures/Structure_knottmaker2 coins=100000 0 0
