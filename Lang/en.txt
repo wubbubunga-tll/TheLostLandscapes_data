@@ -283,7 +283,7 @@ Monsters/Monster_tiawa=Tiawa
 Monsters/Monster_tiawa_bio=Tiawa bio
 
 Monsters/Monster_kayna_young=Young Kayna
-Monsters/Monster_kayna_young_bio=The warm embrace of a Kayna is a welcome surprise to any monster, and theyre quite common surprises given how kind and loving the firey monsterlings tend to be. Surprisingly, mini-eruptions from its head are actually prompted by laughter and tickling
+Monsters/Monster_kayna_young_bio=The warm embrace of a Kayna is a welcome surprise to any monster, and theyre quite common surprises given how kind and loving the firey monsterlings tend to be. Surprisingly, mini-eruptions from its head are actually prompted by laughter and tickling!
 
 Monsters/Monster_kayna=Kayna
 Monsters/Monster_kayna_bio=Kayna Bio
