@@ -457,8 +457,8 @@ Structures/Structure_stargazer_bio=Observatory bio
 Structures/Structure_timemachine=Time Machine
 Structures/Structure_timemachine_bio=Time Machine bio
 
-Structures/Strcture_masher=Masher
-Structures/Strcture_masher_bio=Masher bio
+Structures/Structure_masher=Masher
+Structures/Structure_masher_bio=Masher bio
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
