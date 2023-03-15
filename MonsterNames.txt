@@ -1466,3 +1466,17 @@ Underling
 Vegurms
 Worbz
 ;
+Monsters/Monster_gloptic,Monsters/Monster_gloptic_young
+Dulslymer
+Glarp
+Goopert
+Hypnooze
+Myookus
+Noooodle
+Oculyre
+Slither
+Strummuck
+Tentapull
+Spaghett
+;
+
