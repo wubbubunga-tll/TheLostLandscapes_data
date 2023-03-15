@@ -51,6 +51,7 @@ Monsters/Monster_reedling_young
 Monsters/Monster_spunge_young
 Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
+Monsters/Monster_gloptic_young
 
 Monsters/Monster_hornacle
 Monsters/Monster_loodvigg

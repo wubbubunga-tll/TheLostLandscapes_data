@@ -185,6 +185,7 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Strcture_masher
 Structures/Structure_breeding_city
 Structures/Structure_bakery
 Structures/Structure_amalgamator_city
