@@ -5,6 +5,9 @@ MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it
 
 ol=Azu's Monsters
 
+Monsters/Monster_gloptic_young=Young Gloptic
+Monsters/Monster_gloptic_young_bio=Young Gloptic bio
+
 Monsters/Monster_knucklehead_young=Young Knucklehead
 Monsters/Monster_knucklehead_young_bio=Young Knucklehead bio
 

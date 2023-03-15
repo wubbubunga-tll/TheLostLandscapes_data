@@ -149,6 +149,7 @@ Monsters/Monster_spunge_young
 Monsters/Monster_reedling_young
 Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
+Monsters/Monster_gloptic_young
 -
 monsters_celestials:
 Monsters/Monster_hornacle
