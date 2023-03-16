@@ -1,5 +1,5 @@
 # if not added here they will be 1 by default. If it's negative, that means it's a contaminate. It will decrease the food amount
-DEF 1 3600 1
+DEF 1 1200 1
 
 Virus -10 
 
