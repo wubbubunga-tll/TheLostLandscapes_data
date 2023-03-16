@@ -1129,6 +1129,7 @@ Tomas
 Treenie
 Trunkenstein
 Walter
+Mistahwite
 ;
 Monsters/Monster_varrow_rare
 Bonessa
@@ -1136,6 +1137,10 @@ Cover
 Fallin A. Parte
 Tack
 Pinn
+Koschey
+Gnokeengdumkom
+Deh-thlss
+De-kay
 ;
 Monsters/Monster_spurrit,Monsters/Monster_spurrit_desert
 Arrrg
@@ -1149,6 +1154,7 @@ Marcus
 Neph
 Wardin
 Da' Zaaa
+Thunker
 ;
 Monsters/Knott_1
 Notr
