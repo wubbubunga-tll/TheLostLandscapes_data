@@ -2,8 +2,8 @@ Flower_red
 Flower_blue
 Flower_yellow
 Cattail
-Mushroom1
-Mushroom2
+Mushroom_1
+Mushroom_2
 Fruit_apple
 Fruit_pear
 Log
@@ -23,7 +23,7 @@ Metal
 Peppermint
 Candycane 
 Candycorn
-Lily
+Lilly
 Relic
 Goldenegg
 Jewel
