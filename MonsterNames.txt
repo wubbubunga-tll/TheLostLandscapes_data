@@ -899,6 +899,9 @@ Monsters/Monster_gumtromp_rare
 Gumnot
 Choco
 Gummy Wonka
+Sstravbrie
+Chandler
+Shurrkropp
 ;
 Monsters/Monster_keytrus
 Lara
