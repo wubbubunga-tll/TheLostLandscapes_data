@@ -28,3 +28,14 @@ Relic
 Goldenegg
 Jewel
 Dew
+ITM_amberstick
+ITM_flowerjam
+ITM_buttergum
+ITM_mushroombroth
+ITM_cake
+ITM_bonybaguette
+ITM_salad
+ITM_Grain
+ITM_rootbeer
+ITM_FlingDrink
+ITM_AppleJuice
