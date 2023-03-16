@@ -1,7 +1,7 @@
 # if not added here they will be 1 by default. If it's negative, that means it's a contaminate. It will decrease the food amount
 DEF 1 1200 1
 
-Virus -10 
+Virus 1 2600 -10
 
 ITM_amberstick 1 260 5
 ITM_flowerjam 3 780 24
