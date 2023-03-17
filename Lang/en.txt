@@ -784,6 +784,7 @@ str_currency_ITM_grain=Grain
 str_currency_ITM_rootbeer=Rootbeer
 str_currency_ITM_flingDrink=Fling Drink
 str_currency_ITM_appleJuice=Apple Juice
+str_currency_ITM_bloodcandy=Hematogen
 
 comes from strawberry and apple. Stra + le
 

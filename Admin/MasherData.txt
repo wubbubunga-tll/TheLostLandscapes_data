@@ -14,3 +14,4 @@ ITM_grain 2 520 15
 ITM_rootbeer 10 2600 93
 ITM_flingDrink 50 13000 483
 ITM_appleJuice 4 1040 34
+ITM_bloodcandy 0 0 0

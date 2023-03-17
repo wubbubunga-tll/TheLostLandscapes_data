@@ -6,6 +6,7 @@ Mushroom_1
 Mushroom_2
 Fruit_apple
 Fruit_pear
+Fruit_orange
 Log
 BlueLog
 Rock
@@ -39,3 +40,4 @@ ITM_grain
 ITM_rootbeer
 ITM_flingDrink
 ITM_appleJuice
+ITM_bloodcandy
