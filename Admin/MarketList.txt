@@ -62,8 +62,9 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_breeding
-Structures/Structure_bass
+Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_bass
 Structures/Structure_timemachine
 -
 deco_paths:
@@ -185,10 +186,10 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_crafter
 Structures/Structure_masher
 Structures/Structure_breeding_city
 Structures/Structure_bakery
-Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
 Structures/Structure_timemachine
 -
@@ -334,6 +335,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_breeding
+Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_timemachine
 -
@@ -455,6 +457,7 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_timemachine
 
@@ -620,6 +623,7 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_timemachine
 -
@@ -672,6 +676,7 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_timemachine
 -
