@@ -35,7 +35,7 @@ ITM_mushroombroth
 ITM_cake
 ITM_bonybaguette
 ITM_salad
-ITM_Grain
+ITM_grain
 ITM_rootbeer
-ITM_FlingDrink
-ITM_AppleJuice
+ITM_flingDrink
+ITM_appleJuice

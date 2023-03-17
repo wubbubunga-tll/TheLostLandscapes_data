@@ -10,7 +10,7 @@ ITM_mushroombroth 8 73
 ITM_cake 10 2600 93
 ITM_bonybaguette 5 1300 44
 ITM_salad 2 520 15
-ITM_Grain 2 520 15
+ITM_grain 2 520 15
 ITM_rootbeer 10 2600 93
-ITM_FlingDrink 50 13000 483
-ITM_AppleJuice 4 1040 34
+ITM_flingDrink 50 13000 483
+ITM_appleJuice 4 1040 34
