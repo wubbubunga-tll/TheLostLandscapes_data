@@ -17,6 +17,8 @@ DaylenGG
 
 <Title>Music:
 Raw Zebra
+Uksus
+MantisGirl
 
 <Title>Secondary Music:
 ADAM
@@ -30,8 +32,13 @@ Pupka
 
 <Title>Voice Acting:
 Raw Zebra
+sophiestrawberry
+Rebeka the Bowgart
+FreakKnife
+TrebleStroke
 Matthew the Bowgart
 Jobo
+Zhanya Gennadiy
 
 <Title>Concepts:
 Raw Zebra
@@ -68,12 +75,6 @@ Olaf
 Erick the PinkSauce
 
 <Title>Special thanks to:
-sophiestrawberry
-Rebeka the Bowgart
-FreakKnife
-TrebleStroke
-Jobo
-Zhanya Gennadiy
 Balls
 salt for some reason
 Verenne
