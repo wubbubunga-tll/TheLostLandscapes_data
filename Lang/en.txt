@@ -771,6 +771,20 @@ str_currency_Vortex=Dark Matter
 str_currency_Wool=Fluff
 str_currency_xp=XP
 str_currency_LVL=Level
+
+
+str_currency_ITM_amberstick=AmberPop
+str_currency_ITM_flowerjam=Flower Jam
+str_currency_ITM_buttergum=Butterfly Gum
+str_currency_ITM_mushroombroth=Mushroom Broth
+str_currency_ITM_cake=Cake
+str_currency_ITM_bonybaguette=Bone Baguette
+str_currency_ITM_salad=Salad
+str_currency_ITM_grain=Grain
+str_currency_ITM_rootbeer=Rootbeer
+str_currency_ITM_flingDrink=Fling Drink
+str_currency_ITM_appleJuice=Apple Juice
+
 comes from strawberry and apple. Stra + le
 
 str_currency=Technical Var
