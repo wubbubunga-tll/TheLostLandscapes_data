@@ -38,6 +38,6 @@ ITM_bonybaguette
 ITM_salad
 ITM_grain
 ITM_rootbeer
-ITM_flingDrink
-ITM_appleJuice
+ITM_flingdrink
+ITM_applejuice
 ITM_bloodcandy
