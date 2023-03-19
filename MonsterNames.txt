@@ -1488,4 +1488,9 @@ Strummuck
 Tentapull
 Spaghett
 ;
-
+Monsters/Monster_jobo
+Squashie
+Baow R. Mann
+Aff-bro
+Dozer
+Pellow
