@@ -160,7 +160,7 @@ Siku
 Syrinx
 Zampona
 ;
-Monsters/Monster_frondley
+Monsters/Monster_frondley,Monsters/Monster_frondley_young
 Areckal
 Ayrrol
 Ghould
@@ -1397,7 +1397,7 @@ Thwoodles
 Tristan
 Willy
 ;
-Monsters/Monster_stogg,Monsters/Monster_stogg_undof
+Monsters/Monster_stogg,Monsters/Monster_stogg_undof,Monsters/Monster_stogg_young
 Sog
 Ajax
 Avani
