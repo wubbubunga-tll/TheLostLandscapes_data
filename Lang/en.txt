@@ -5,6 +5,7 @@ MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it
 
 ol=Azu's Monsters
 
+#BABY SINGLES#
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
 Monsters/Monster_mammott_young=Young Mammott
@@ -26,6 +27,7 @@ Monsters/Monster_flootfly_young_bio=Whoosh! Spry Flootlings are adventurous, soa
 Monsters/Monster_clackula_young=Young Clackula
 Monsters/Monster_clackula_young_bio=While normally reserved and quiet, the hands of a Clackula tot are nothing short of a handful! The occasional snip of the sharper baby teeth of a Clackula is a frightening sensation to many, though their fellow monsterlings make sure to maintain their patience. After all, Clackulas are essentially learning table manners for 3!
 
+#BABY DOUBLES#
 Monsters/Monster_dandidoo_young=Young Dandidoo
 Monsters/Monster_dandidoo_young_bio=With that delightful tuft, the unmistakable dandidoo prefers to sit in one spot, admiring the world as it goes by. Who knows whether it forgets all it sees, or if echos of a murky past remain, tucked away within the dandelion dancer. 
 Monsters/Monster_oaktopus_young=Young Oaktopus
@@ -43,6 +45,7 @@ Monsters/Monster_knucklehead_young_bio=Young Knucklehead bio
 Monsters/Monster_osstax_young=Young Osstax
 Monsters/Monster_osstax_young_bio=It’s well-known that Osstax begins their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstak Pebblets, despite being generally sedentary, can come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
 
+#BABY TRIPLES#
 Monsters/Monster_spunge_young=Young Spunge
 Monsters/Monster_spunge_young_bio=PFFFFFFFNFHFGNFJBGBF. That's what a young Spunge sounds like. I'm not joking. Its adorable bro. :)
 Monsters/Monster_reedling_young=Young Reedling
@@ -54,6 +57,7 @@ Monsters/Monster_bridgit_young_bio=Young Bridg-it bio
 Monsters/Monster_frondley_young=Young Frondley
 Monsters/Monster_frondley_young_bio=Young Frondley bio
 
+#BABY QUADS#
 Monsters/Monster_gloptic_young=Young Gloptic
 Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 
@@ -61,12 +65,17 @@ Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 
 
 
+#ADULT OFFICIAL SINGLES#
 Monsters/Monster_potbelly=Potbelly
 Monsters/Monster_potbelly_bio=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
+Monsters/Monster_mammott=Mammott
+Monsters/Monster_mammott_bio=Mammott bio
 Monsters/Monster_tweedle=Tweedle
 Monsters/Monster_tweedle_bio=Psst? Did you hear that? The featherbrained Tweedle probably did! This gossip gathering monster is known for its abysmal secret-keeping ability- but all the fellow monsters keep it around, for its signature calming coo.
 Monsters/Monster_toejammer=Toe Jammer
 Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
+Monsters/Monster_noggin=Noggin
+Monsters/Monster_noggin_bio=Noggin bio
 Monsters/Monster_kayna=Kayna
 Monsters/Monster_kayna_bio=Kayna Bio
 Monsters/Monster_fluoress=Fluoress
@@ -78,6 +87,7 @@ Monsters/Monster_flootfly_bio=The mystical Floot Fly is one of the most common m
 Monsters/Monster_clackula=Clackula
 Monsters/Monster_clackula_bio=Clackula bio
 
+#ADULT OFFICIAL DOUBLES#
 Monsters/Monster_furcorn=Furcorn
 Monsters/Monster_furcorn_bio=Furcorn bio
 Monsters/Monster_dandidoo=Dandidoo
@@ -86,23 +96,46 @@ Monsters/Monster_oaktopus=Oaktopus
 Monsters/Monster_oaktopus_bio=Oaktopi are packed full of wisdom to share with the world, about the world. They almost always have an answer to some of life's most burning questions; "Why is the sky blue?", "Is water wet?", and most notably, "Is mayonnaise an instrument?" (The answer is inconclusive, there is no mayonnaise monster). Sometimes they even say outlandish claims of islands once being carried by towering creatures across the monster world. Psh, yeah right. An Oaktopus can usually be seen reading a good book or swimming in a local hot spring.
 Monsters/Monster_pango=Pango
 Monsters/Monster_pango_bio=Pango bio
+Monsters/Monster_maw=Maw
+Monsters/Monster_maw_bio=Maw bio
 Monsters/Monster_quibble=Quibble
 Monsters/Monster_quibble_bio=The Quibble may seem like a graceful monster on the outside, but that's just a facade. The two heads constantly bicker, usually having polar opinions about the latest trends, or some other trivial issue. One time, the left Quibble wanted to order fries, but the right Quibble was eager to get a milkshake... chaos ensued. But in the end, they always make up with each other, like true siblings. Oh yeah, they ended up ordering fries dunked in a milkshake. A... unique consensus
 Monsters/Monster_boskus=Boskus
 Monsters/Monster_boskus_bio=Boskus bio
 Monsters/Monster_phangler=Phangler
 Monsters/Monster_phangler_bio=On water and on land, a Phangler’s sure to lend a hand! Or.. a fin? A tail? No matter, this studio-set swimmer’s a welcome addition to any party, ready to wow the stage. During off hours, Phanglers are known to listen to podcasts and make quinoa smoothies- bleargh…
+Monsters/Monster_denchuhs=Denchuhs
+Monsters/Monster_denchuhs_bio=Mah dentures
 Monsters/Monster_knucklehead=Knucklehead
 Monsters/Monster_knucklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
 Monsters/Monster_osstax=Osstax
 Monsters/Monster_osstax_bio=Osstax bio
 
+#ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
+Monsters/Monster_clamble=Clamble
+Monsters/Monster_clamble_bio=Clamble bio
+Monsters/Monster_reedling=Reedling
+Monsters/Monster_reedling_bio=Reedling bio
+Monsters/Monster_rootitoot=Rootitoot
+Monsters/Monster_rootitoot_bio=Rootitoot bio
+Monsters/Monster_bridgit=Bridg-it
+Monsters/Monster_bridgit_bio=While stereotypes say trolls are generally cruel and live in basements, Bridg-it's quite the opposite. This melodic monster is one of the kindest one'll meet, constantly hosting tea parties, bridge building competitions, and much more. Well we think so, we havent seen it really do... anything besides those two things. 
+Monsters/Monster_frondley=Frondley
+Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
 
+#ADULT OFFICIAL QUADS#
+Monsters/Monster_deedge=Deedge
+Monsters/Monster_deedge_bio=Deedge bio
+Monsters/Monster_pongping=PongPing
+Monsters/Monster_pongping_bio=PongPing bio
+Monsters/Monster_tiawa=Tiawa
+Monsters/Monster_tiawa_bio=Tiawa bio
+Monsters/Monster_bisonorus=Bisonorus
+Monsters/Monster_bisonorus_bio=Bisonorus bio (Azu if you will write this, please mention how the emperor looks like a wig when they are sleping)
 
-
-
+#MARSH FANMADES#
 Monsters/Monster_likho=Yap
 Monsters/Monster_likho_bio=If you see a Yap, just know that you've just run into a nice chap! Yaps are small little tumbleweeds, rolling around picking up all sorts of plant life, and usually gifting some to others, even if they don't like it as much as the gifter. But not only that, when it stops, it prepares a... "wonderful" song for its comrades, which usually results in its audience screaming "MAKE IT STOP!" Don't know what that's about.
 Monsters/Monster_varrow=Varrow
@@ -165,8 +198,7 @@ Monsters/Monster_maulch_bio=What's this? One of those old statues from within th
 Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Maulch, the Monotone Mumbler, is perhaps not who you'd expect out here, but whaddaya know! Maulch's Large Lulaguleaf requires much watering, and nowhere has better rain than here it says. Of course, nobody else has even seen it rain but thats irrelevant...
 
-Monsters/Monster_bisonorus=Bisonorus
-Monsters/Monster_bisonorus_bio=Bisonorus bio (Azu if you will write this, please mention how the emperor looks like a wig when they are sleping)
+
 
 Monsters/Monster_pixolotl=Pixolotl
 Monsters/Monster_pixolotl_bio=Pixolotl bio
@@ -183,8 +215,6 @@ Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
 Monsters/Monster_fleechwurm_undof_awake_bio=In addition to using them to play music, some Monsters take advantage of their unique features and body shapes, and use them for other purposes. In the case of the Fleechwurm, its resonant body cavity can generate a series of whistles that have an unusual hypnotic effect on other Wublins. They can be used to coax others into doing unglamorous chores for it, or to lovingly preen its leaf-like limbs. Some Wublins are more resistant than others, and playfully admonish the Fleechwurm so it doesn't become too mischievous.
 
-Monsters/Monster_deedge=Deedge
-Monsters/Monster_deedge_bio=Deedge bio
 
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! This intreped explorer, now farther from home than ever, is happy to explore this strange and vibrant world. 
@@ -200,8 +230,6 @@ Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known 
 Monsters/Monster_oaktopus_rare=Rare Oaktopus
 Monsters/Monster_oaktopus_rare_bio=Sporting a pair of handy appendages, Rare Oaktopus has taken up a long time dream of being a Chemist! This wooden wizard travels the realm searching for new ingredients, from the blood of a slumbering giant to the sap of a sugary paradise. Most recently, the Rare Oaktopus has discovered that if mixed in proper proportion to other ingridients, the water of a distant marsh had hallucinogenic effects when sipped; Fascinating! 
 
-Monsters/Monster_bridgit=Bridg-it
-Monsters/Monster_bridgit_bio=While stereotypes say trolls are generally cruel and live in basements, Bridg-it's quite the opposite. This melodic monster is one of the kindest one'll meet, constantly hosting tea parties, bridge building competitions, and much more. Well we think so, we havent seen it really do... anything besides those two things. 
 
 
 
@@ -225,11 +253,8 @@ Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside
 Monsters/Monster_banno_rare=Rare Banno
 Monsters/Monster_banno_rare_bio=twerking.
 
-Monsters/Monster_clamble=Clamble
-Monsters/Monster_clamble_bio=Clamble bio
 
-Monsters/Monster_frondley=Frondley
-Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
+
 
 Monsters/Special/Monster_melochness=Meloch-Ness
 Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit. What. How you get dis. Excuse me. Magical Expansion is not canon. L + Ratio. TLL is not as good as Dawn of Fire. - Mr. Magic of Expanding
@@ -244,8 +269,6 @@ Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Dee
 
 
 
-Monsters/Monster_reedling=Reedling
-Monsters/Monster_reedling_bio=Reedling bio
 
 
 Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
@@ -253,8 +276,7 @@ Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_
 
 
 
-Monsters/Monster_rootitoot=Rootitoot
-Monsters/Monster_rootitoot_bio=Rootitoot bio
+
 
 
 
@@ -308,11 +330,9 @@ Monsters/Knott_10_rare_bio=Bel'yawn Zirro bio
 Monsters/Knott_special_rare=Chimblickle
 Monsters/Knott_special_rare_bio=Chimblickle bio
 
-Monsters/Monster_denchuhs=Denchuhs
-Monsters/Monster_denchuhs_bio=Mah dentures
 
-Monsters/Monster_tiawa=Tiawa
-Monsters/Monster_tiawa_bio=Tiawa bio
+
+
 
 
 
@@ -325,27 +345,23 @@ Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an en
 Monsters/Monster_whimstlop_meduza=<ref>Monsters/Monster_whimstlop
 Monsters/Monster_whimstlop_meduza_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
 
-Monsters/Monster_mammott=Mammott
-Monsters/Monster_mammott_bio=Mammott bio
+
 Monsters/Monster_mammott_meduza=<ref>Monsters/Monster_mammott
 Monsters/Monster_mammott_meduza_bio=Mammott bio
 
 
-Monsters/Monster_maw=Maw
-Monsters/Monster_maw_bio=Maw bio
+
 Monsters/Monster_maw_meduza=<ref>Monsters/Monster_maw
 Monsters/Monster_maw_meduza_bio=Maw bio
 
-Monsters/Monster_pongping=PongPing
-Monsters/Monster_pongping_bio=PongPing bio
+
 Monsters/Monster_pongping_meduza=<ref>Monsters/Monster_pongping
 Monsters/Monster_pongping_meduza_bio=PongPing bio
 
 Monsters/Monster_meduza=M'Duzza
 Monsters/Monster_meduza_bio=M'Duzza bio
 
-Monsters/Monster_noggin=Noggin
-Monsters/Monster_noggin_bio=Noggin bio
+
 Monsters/Monster_noggin_meduza=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_meduza_bio=Noggin bio
 
@@ -377,6 +393,8 @@ Monsters/Monster_ffydill_bio=Ffidyll bio
 Monsters/Monster_arackulele=Arackulele
 Monsters/Monster_arackulele_bio=Arackulele bio
 
+
+#CELESTIALS#
 Monsters/Monster_hornacle=Hornacle
 Monsters/Monster_hornacle_bio=Hornacle bio
 Monsters/Monster_loodvigg=Loodvigg
