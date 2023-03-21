@@ -12,7 +12,7 @@ Structures/Structure_castle_undof 60 coins=10000 10000
 ;
 Breeding Candy
 Structures/Structure_breeding_undof 0 diamonds=25 10000
-Structures/Structure_breeding_undof2 0 diamonds=25 10000
+Structures/Structure_breeding_undof2 0 diamonds=100,Candycane=50,Candycorn=50,Peppermint=50 10000
 Structures/Structure_breeding_undof3 0 diamonds=100,Candycane=50,Candycorn=50,Peppermint=50 10000
 ;
 Knottmaker Knottshurr
