@@ -551,6 +551,7 @@ Decoration/Obstacle_placable_Candy_6
 structures:
 Structures/Structure_breeding_undof
 Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
 Structures/Structure_bakery
 Structures/Structure_timemachine
 -
