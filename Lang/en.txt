@@ -3,7 +3,7 @@ WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious 
 
 MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it later.
 
-ol=Azu's Monsters
+
 
 #BABY SINGLES#
 Monsters/Monster_potbelly_young=Young Potbelly
