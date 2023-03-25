@@ -744,8 +744,8 @@ str_limitedTime=Доступно в течение ограниченного в
 str_limitedTimeTimer=<time>
 
 str_warning=Погоди-ка!
-str_popup_sellEgg=Вы уверены, что хотите продать это яйцо за <color="yellow"><amount> монет?
-str_popup_speedUp=Вы уверены, что хотите ускорить процесс за<color=#4EFFF5><amount> бриллиантов?
+str_popup_sellEgg=Вы уверены, что хотите продать это яйцо за <sprite name=coins><color="yellow"><amount>?
+str_popup_speedUp=Вы уверены, что хотите ускорить процесс за<sprite name=diamonds><color=#4EFFF5><amount>?
 str_popup_notEnough_diamonds=У вас недостаточно <color=#4EFFF5>бриллиантов.
 str_popup_notEnough_coins=У вас недостаточно <color="yellow">монет.
 str_popup_notEnough_food=У вас недостаточно <color=#F318D1>еды.
