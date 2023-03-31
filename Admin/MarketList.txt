@@ -701,6 +701,7 @@ Decoration/Dog
 GM
 monsters:
 Monsters/Monster_olga
+Monsters/Monster_potbellyGM
 -
 decorations:
 Decoration/Decoration_test
