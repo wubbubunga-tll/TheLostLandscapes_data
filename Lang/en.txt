@@ -1060,3 +1060,5 @@ goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N
 str_class_YOOL=<YOURMISSINGYOOL>
+
+Monsters/Monster_potbelly_GM=Kelpebbul
