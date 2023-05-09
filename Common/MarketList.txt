@@ -175,7 +175,6 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-Structures/Structure_crafter
 Structures/Structure_masher
 Structures/Structure_breeding_city
 Structures/Structure_jukebox
