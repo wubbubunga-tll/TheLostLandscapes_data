@@ -269,9 +269,14 @@ Monsters/Monster_dulsylvan_rare_bio=Durante os últimos estágios da vida de um 
 Monsters/Monster_choral=Troncoral
 Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Troncoral! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Troncoras trollam o monstros com seu disfarce se alguém chega muito perto, e quando eles perceberem, logo pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
 
+Monsters/Monster_frondley_young=Folhamável ovem
+Monsters/Monster_frondley_young_bio=Young Frondley bio
 #--Quads--#
 Monsters/Monster_stoopa=Stupa
 Monsters/Monster_stoopa_bio=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
+
+Monsters/Monster_gloptic_young=Visscolha Jovem
+Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 
 
 ###--Mythicals------------------------------------------###
@@ -382,7 +387,6 @@ Monsters/Knott_2_rare_bio=Bay bio
 
 Monsters/Knott_3_rare=Vaso Haulma Raro
 Monsters/Knott_3_rare_bio=Uma coleção de haulmas vingativas com uma alma muito licenciosa e uma forte determinação. A tarefa de os proteger deve ser concedida em boas mãos. Ou só uma mão neste caso. Os dedos inflexíveis e a força imensurável do guardião os tornam perfeitos para o trabalho, mas mesmo eles estão tendo dificuldade em manter as inquietas Haulmas em repouso. Por qual motivo, razão ou circunstância essas Haulmas são tão inquietas? Ninguém sabe...
-`
 
 Monsters/Knott_4_rare=BoOoo Raro
 Monsters/Knott_4_rare_bio=Rare BooOo is a misleading name. These thumpies are actually Ghawgs. Fishy looking, yet still very much covered in fur, creatures. Always accompanied by a pack of tortappers seeking new life and exciting adventures, they travel between realms and explore the world. Occasionally stoping for a few months if they like the place. These monsters sure know how to enjoy life.
@@ -422,6 +426,8 @@ Monsters/Monster_whimstlop_meduza_bio=As maquinações internas do Perlhepito s�
 ###--Gamma------------------------------------------###
 Monsters/Monster_olga=Olgapolva
 Monsters/Monster_olga_bio=Olgaropipe bio
+
+Monsters/Monster_potbellyGM=Bobalgas
 
 
 ###--Guest------------------------------------------###
@@ -495,9 +501,11 @@ Structures/Structure_amalgamator_bio=Amalgamator bio
 Structures/Structure_amalgamator_city=Misturador
 Structures/Structure_amalgamator_city_bio=Bebe food maker bio
 
-Structures/Structure_masher=Moinho
+Structures/Structure_masher=Moedor
 Structures/Structure_masher_bio=Masher bio
 
+Structures/Structure_crafter=Mesa de Criações
+Structures/Structure_crafter_bio=The crafter is a strange contraption! Try out some of the recipies for new goodies and treats!
 
 ###--Fun------------------------------------------###
 Structures/Structure_jukebox=Jukebox
@@ -861,6 +869,8 @@ diamonds - <color=#4EFFF5>
 coins - <color="yellow">
 food - <color=#F318D1>
 
+#--ITEMS--#
+
 str_currency_coins=Moedas
 str_currency_diamonds=Diamantes
 str_currency_food=Agrados
@@ -882,6 +892,18 @@ str_currency_Vortex=Matéria Negra
 str_currency_Wool=Algodão
 str_currency_xp=XP
 str_currency_LVL=Nível
+str_currency_ITM_amberstick=Recheio de Âmbar
+str_currency_ITM_flowerjam=Geléia de Flores
+str_currency_ITM_buttergum=Borboclete
+str_currency_ITM_mushroombroth=Caldomelo
+str_currency_ITM_cake=Bolo
+str_currency_ITM_bonybaguette=Baguete de Osso
+str_currency_ITM_salad=Bolo
+str_currency_ITM_grain=Grãos
+str_currency_ITM_rootbeer=Raizveja
+str_currency_ITM_flingdrink=Coisinha de Beber
+str_currency_ITM_applejuice=Suquinho de Maça
+str_currency_ITM_bloodcandy=Gematogen
 
 str_currency=Variável Técnica
 str_noitems - Sem itens
@@ -941,7 +963,7 @@ str_island_comingsoon=Em Breve!
 str_popup_tutor1=Bem-vindo(a) <color="purple">As Paiságens Perdidas!</color>\nUm jogo de <color="green">My Singing Monsters</color> feito por fans, para fans!!
 str_popup_tutor2=Olá! Eu sou o Mosca-da-Flauta. Esse daqui é meu camarada Dedo Enrroscado. Que tal a gente arranjar mais alguns monstros para nossa ilha?.
 str_popup_tutor3=Vá comprar uma <color="green">Pintinho Piu.</color>
-str_popup_tutor4=Bom trabalho! Agora nós temos uma <color="green"Pintinho Piu</color> aqui!
+str_popup_tutor4=Bom trabalho! Agora nós temos uma <color="green">Pintinho Piu</color> aqui!
 
 ##--ISLANDS--##
 
