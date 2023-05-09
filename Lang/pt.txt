@@ -498,8 +498,6 @@ Structures/Structure_amalgamator_city_bio=Bebe food maker bio
 Structures/Structure_masher=Moinho
 Structures/Structure_masher_bio=Masher bio
 
-Structures/Structure_maker=Mario
-Structures/Structure_maker_bio=Mario
 
 ###--Fun------------------------------------------###
 Structures/Structure_jukebox=Jukebox
@@ -1100,6 +1098,7 @@ btn_inf_islands=Ilhas
 btn_zap=Energizar
 btn_inventory=Inventário
 btn_wakeUp=Acordar
+btn_mash=Moer
 
 #--GOALS--#
 goal_breed_buy=Compre e posicione um(a) <color="green"><entityName>
