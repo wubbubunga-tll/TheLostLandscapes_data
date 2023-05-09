@@ -2,11 +2,10 @@
 DEF 1 1200 1
 
 
-coins 2 520 1
 ITM_amberstick 1 260 5
 ITM_flowerjam 3 780 24
 ITM_buttergum 4 1040 34
-ITM_mushroombroth 8 73
+ITM_mushroombroth 8 73 1
 ITM_cake 10 2600 93
 ITM_bonybaguette 5 1300 44
 ITM_salad 2 520 15
