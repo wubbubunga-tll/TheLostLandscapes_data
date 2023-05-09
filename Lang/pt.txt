@@ -472,16 +472,16 @@ Structures/Structure_castle_undof6=Castelo Extravagante
 Structures/Structure_castle_undof6_bio=Castle
 
 ###--Breeding------------------------------------------###
-Structures/Structure_breeding=Estrutura de Prociração
+Structures/Structure_breeding=Estrutura de Procriação
 Structures/Structure_breeding_bio=Breeding Structure bio
 
-Structures/Structure_breeding_city=Estrutura de Prociração
+Structures/Structure_breeding_city=Estrutura de Procriação
 Structures/Structure_breeding_city_bio=Breeding Structure bio
 
-Structures/Structure_breeding_undof=Estrutura de Prociração
+Structures/Structure_breeding_undof=Estrutura de Procriação
 Structures/Structure_breeding_undof_bio=Esta estrutura peculiar tem sido usada desde a era de ouro do Mundo dos Monstros, e pouco mudou desde então. Uma vez que é velho o suficiente, um Monstro pode produzir espontaneamente um ovo contendo toda a sua informação genética e elemental, que é então colocada em uma das 'tigelas' da máquina. Esses ovos, que são verdadeiramente mais como os esporos, fluem lentamente seus 'fluidos corporais preciosos' pelos drenos gêmeos da estrutura e se misturam magicamente no vaso central, até que um novo ovo seja produzido! O processo é complicado, porém, como uma combinação de criação pode ter muitos resultados possíveis.
 
-Structures/Structure_breeding_undof2=Estrutura de Prociração Melhorada
+Structures/Structure_breeding_undof2=Estrutura de Procriação Melhorada
 Structures/Structure_breeding_undof2_bio=A procriação é um negócio complicado na melhor das hipóteses, então uma pequenina vantagem ajuda. Graças à inestimável pesquisa de campo que foi coletada nos últimos dois anos, a complexa interação dos poderes elementais agora é melhor compreendida do que nunca! Esta estrutura de criação aprimorada reduz o tempo de espera de criação em 25%!
 
 
@@ -492,8 +492,14 @@ Structures/Structure_bakery_bio=Bakery bio
 Structures/Structure_amalgamator=Amalgamador
 Structures/Structure_amalgamator_bio=Amalgamator bio
 
-Structures/Structure_amalgamator_city=Amassador
+Structures/Structure_amalgamator_city=Misturador
 Structures/Structure_amalgamator_city_bio=Bebe food maker bio
+
+Structures/Structure_masher=Moinho
+Structures/Structure_masher_bio=Masher bio
+
+Structures/Structure_maker=Mario
+Structures/Structure_maker_bio=Mario
 
 ###--Fun------------------------------------------###
 Structures/Structure_jukebox=Jukebox
