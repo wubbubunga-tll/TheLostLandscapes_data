@@ -2,7 +2,7 @@ Candy_natural_monsters
 
 monster_clamble entity-d Monsters/Monster_clamble
 
-monster_fwog_undof entity Monsters/Monster_noggin_undof
+monster_fwog_undof entity Monsters/Monster_fwog_undof
 monster_kanya_undof entity Monsters/Monster_kanya_undof
 monster_noggin_undof entity Monsters/Monster_noggin_undof
 monster_toejammer_undof entity Monsters/Monster_toejammer_undof
