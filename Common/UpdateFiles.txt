@@ -1,4 +1,4 @@
-Candy_natural_monsters
+Candy_natural_monsters_1
 
 monster_clamble entity-d Monsters/Monster_clamble
 
