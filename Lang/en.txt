@@ -947,7 +947,7 @@ str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of you
 str_popup_tutor1=Welcome to <color="purple">The Lost Landscapes!</color>\nA fan-made <color="green">My Singing Monsters</color> game!
 str_popup_tutor2=Hello! I'm Floot Fly. This here is my pal Toe Jammer. Let's get more monsters on this island.
 str_popup_tutor3=Go get a <color="green">Tweedle.</color>
-str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n Have fun and happy monstering!
+str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n As well, a gift has appeared in your mailbox! Have fun and happy monstering!
 
 str_noitems=No Items
 
