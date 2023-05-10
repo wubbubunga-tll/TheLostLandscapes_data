@@ -3,7 +3,7 @@
 
 ;
 Island_City: 3000 10000
-Flower_red 33 flower
+Flower_red 33 flowers
 Flower_yellow 34 flowers
 Flower_blue 33 flowers
 Fruit_apple 50 fruits
