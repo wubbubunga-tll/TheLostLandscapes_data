@@ -1035,6 +1035,7 @@ btn_upgrade=Upgrade
 btn_view=View
 btn_settings=Settings
 btn_craft=Craft
+btn_mash=Mash
 btn_minigames=Minigames
 
 goal_breed_buy=Buy and place a <color="green"><entityName>
