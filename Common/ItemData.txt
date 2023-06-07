@@ -5,8 +5,7 @@
 Island_City: 100 300
 Flower_red 33 ground
 Flower_yellow 34 ground
-Flower_blue 33 flowers
-Fruit_apple 50 fruits
+Flower_blue 33 ground
 ;
 Island_EM: 30 50
 Flower_red 10 flowers
