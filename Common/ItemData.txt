@@ -10,7 +10,6 @@ Fruit_apple 50 fruits
 ;
 Island_EM: 30 50
 Flower_red 10 flowers
-Flower_yellow 10 flowers
 Flower_blue 15 flowers
 Cattail_water 50 water Cattail
 Log_water 15 water,water_log Log
