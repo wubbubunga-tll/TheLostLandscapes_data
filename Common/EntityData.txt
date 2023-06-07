@@ -226,7 +226,6 @@ Structures/Structure_castle_undof6 coins=0 0 1
 
 Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 3
 Structures/Structure_amalgamator diamonds=100 0 1
-Structures/Structure_amalgamator_city coins=10000 0 1
 Structures/Structure_jukebox coins=1000 0 1
 Structures/Structure_bass coins=100000 0 2
 
