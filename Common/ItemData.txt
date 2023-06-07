@@ -44,5 +44,5 @@ Bone 33 ground
 BloodCell_red 33 flying BloodCells
 BloodCell_white 33 flying BloodCells
 Virus 3 flying
-ITM_Cake 1 flying
+ITM_cake 1 flying
 ;
