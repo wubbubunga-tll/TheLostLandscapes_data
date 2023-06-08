@@ -517,7 +517,8 @@ Structures/Structure_bakery
 Structures/Structure_timemachine
 -
 deco_paths:
-EM_path1
+EM_path5
+EM_path7
 -
 deco_trees:
 Decoration/Decoration_test
