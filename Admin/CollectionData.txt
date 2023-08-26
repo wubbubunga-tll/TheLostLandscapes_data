@@ -110,7 +110,7 @@ Monsters/Monster_maw_meduza
 Monsters/Monster_pongping_meduza
 Monsters/Monster_whimstlop_meduza
 Monsters/Monster_noggin_meduza
-Monsters/Monster_kuncklehead_meduza
+Monsters/Monster_knucklehead_meduza
 Monsters/Monster_pummel_meduza
 Monsters/Monster_meduza
 ;
