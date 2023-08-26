@@ -1,15 +1,15 @@
-Candy_natural_monsters_and_gumtromp_and_marshflamo_admin
+Candy_natural_monsters_and_gumtromp_and_marshflamo
 
 monster_clamble entity-d Monsters/Monster_clamble
 
-monster_fwog_undof entity Monsters/Monster_fwog_undof
-monster_kanya_undof entity Monsters/Monster_kanya_undof
-monster_noggin_undof entity Monsters/Monster_noggin_undof
-monster_toejammer_undof entity Monsters/Monster_toejammer_undof
-monster_phangler_undof entity Monsters/Monster_phangler_undof
-monster_thrumble_undof entity Monsters/Monster_thrumble_undof
-monster_stogg_undof entity Monsters/Monster_stogg_undof
-monster_gumtromp entity Monsters/Monster_gumtromp
+monster_fwog_undof entity-d Monsters/Monster_fwog_undof
+monster_kanya_undof entity-d Monsters/Monster_kanya_undof
+monster_noggin_undof entity-d Monsters/Monster_noggin_undof
+monster_toejammer_undof entity-d Monsters/Monster_toejammer_undof
+monster_phangler_undof entity-d Monsters/Monster_phangler_undof
+monster_thrumble_undof entity-d Monsters/Monster_thrumble_undof
+monster_stogg_undof entity-d Monsters/Monster_stogg_undof
+monster_gumtromp entity-d Monsters/Monster_gumtromp
 
 eggs sprites-d eggs
 icons sprites-d icons
