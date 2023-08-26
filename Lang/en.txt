@@ -377,7 +377,7 @@ Monsters/Monster_pummel_bio=While the plantlike corks Pummels seal their mouths 
 Monsters/Monster_pummel_meduza=<ref>Monsters/Monster_pummel
 Monsters/Monster_pummel_meduza_bio=Ded pummel bio
 
-Monsters/Monster_knucklehead_meduza=<ref>Monsters/Monster_kuncklehead
+Monsters/Monster_knucklehead_meduza=<ref>Monsters/Monster_knucklehead
 Monsters/Monster_knucklehead_meduza_bio=Ded knuckles bio
 
 Monsters/Monster_schmoochle=Schmoochle
