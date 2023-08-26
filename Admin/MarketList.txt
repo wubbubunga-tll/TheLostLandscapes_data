@@ -160,6 +160,8 @@ Monsters/Monster_glaishur
 Monsters/Monster_galvana
 Monsters/Monster_plixie
 Monsters/Monster_light 
+Monsters/Monster_psychic
+Monsters/Monster_faerie
 Monsters/Monster_bone
 -
 decorations:
