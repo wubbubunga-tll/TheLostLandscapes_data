@@ -902,6 +902,11 @@ str_island_instant=Instant
 
 str_island_monstercount=<mon>/<max>
 
+str_time_d=D
+str_time_h=H
+str_time_m=M
+str_time_s=S
+
 str_stars_light=Luminous Beacon
 str_stars_psychic=Subconscious Spiral
 str_stars_bone=Osseous Cross
