@@ -898,6 +898,8 @@ str_island_TI_bio=bio
 
 str_island_lvl=Lvl <lvl>
 
+str_island_instant=Instant
+
 str_island_monstercount=<mon>/<max>
 
 str_stars_light=Luminous Beacon
