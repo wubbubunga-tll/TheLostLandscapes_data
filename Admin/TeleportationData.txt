@@ -1,7 +1,7 @@
 
-City 0
+City 0 0
 ;
-Candy 0
+Candy 0 0
 Monsters/Monster_toejammer_undof= 1000
 Monsters/Monster_noggin_undof= 1000
 Monsters/Monster_noggin_rare_undof= 1000
@@ -92,7 +92,7 @@ Monsters/Monster_handmond= 0
 Monsters/Monster_whimstlop= 0
 Monsters/Monster_theremind= 0
 ;
-Knottshurr 0
+Knottshurr 0 0
 Monsters/Knott_1= 1
 Monsters/Knott_2= 1
 Monsters/Knott_3= 1
@@ -104,7 +104,7 @@ Monsters/Knott_8= 1
 Monsters/Knott_9= 1
 Monsters/Knott_10= 1
 ;
-Meduza 0
+Meduza 0 0
 Monsters/Monster_whimstlop= 0
 Monsters/Monster_theremind= 0
 Monsters/Monster_pongping= 0
