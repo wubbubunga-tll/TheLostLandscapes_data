@@ -896,6 +896,10 @@ str_island_Calamity_bio=Calamity Island bio
 str_island_TI=Tutor's Island
 str_island_TI_bio=bio
 
+str_island_GM=Gamma Water Island
+str_island_GM_bio=bio
+
+
 str_island_lvl=Lvl <lvl>
 
 str_island_instant=Instant
