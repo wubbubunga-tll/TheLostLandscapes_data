@@ -335,3 +335,11 @@ Decoration/Obstacle_placable_Knott_10 diamonds=10 0 0
 
 
 Decoration/Dog food=2000 20 0
+
+
+Monsters/Monster_mammott_dream coins=0 cold 0 5 coins=0@120@coins=60 Natural , 0 0
+Monsters/Monster_deedge_dream coins=0 cold 0 5 coins=0@120@coins=60 Natural , 0 0
+Monsters/Monster_likho_dream coins=0 cold 0 5 coins=0@120@coins=60 Natural , 0 0
+Monsters/Monster_quibble_dream coins=0 cold 0 5 coins=0@120@coins=60 Natural , 0 0
+Monsters/Monster_stogg_dream coins=0 cold 0 5 coins=0@120@coins=60 Natural , 0 0
+Monsters/Monster_toejammer_dream coins=0 cold 0 5 coins=0@120@coins=60 Natural , 0 0

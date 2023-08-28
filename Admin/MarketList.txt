@@ -699,6 +699,15 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
 ;
+dream
+monsters:
+Monsters/Monster_mammott_dream
+Monsters/Monster_toejammer_dream
+Monsters/Monster_likho_dream
+Monsters/Monster_stogg_dream
+Monsters/Monster_quibble_dream
+Monsters/Monster_deedge_dream
+;
 GM
 monsters:
 Monsters/Monster_olga
