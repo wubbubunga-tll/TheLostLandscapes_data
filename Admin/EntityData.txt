@@ -205,6 +205,8 @@ Monsters/Monster_treble Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Lege
 
 Monsters/Monster_knife diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife,knife 0 0
 
+Monsters/Monster_cataliszt diamonds=500 mythical 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 0
+
 Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
 Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 0
 Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 0
