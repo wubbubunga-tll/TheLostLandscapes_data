@@ -141,4 +141,13 @@ Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 17
 Monsters/Monster_loodvigg=Monsters/Monster_loodvigg 1
 Monsters/Monster_spurrit_young=Monsters/Monster_spurrit 17
 Monsters/Monster_reedling_young=Monsters/Monster_reedling_young_singer 17
+;
+dream 0 -999
+Monsters/Monster_mammott_young=Monsters/Monster_mammott_dream 0
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer_dream 0
+Monsters/Monster_gloptic_young=Monsters/Monster_likho_dream 0
+Monsters/Monster_stogg_young=Monsters/Monster_stogg_dream 0
+Monsters/Monster_quibble_young=Monsters/Monster_quibble_dream 0
+Monsters/Monster_rootitoot_young=Monsters/Monster_deedge_dream 0
+
 
