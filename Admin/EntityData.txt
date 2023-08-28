@@ -346,3 +346,4 @@ Monsters/Monster_quibble_dream coins=0 cold 0 999999 coins=0@120@coins=60 dream 
 Monsters/Monster_stogg_dream coins=0 cold 0 999999 coins=0@120@coins=60 dream , 0 0
 Monsters/Monster_toejammer_dream coins=0 cold 0 999999 coins=0@120@coins=60 dream , 0 0
 Monsters/Monster_ghazt_dream coins=0 cold 0 999999 coins=0@120@coins=60 dream , 0 0
+Monsters/VOIDCORN_dream coins=0  0 999999 coins=0@120@coins=60 dream , 0 0

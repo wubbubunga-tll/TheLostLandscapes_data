@@ -151,5 +151,6 @@ Monsters/Monster_quibble_young=Monsters/Monster_quibble_dream 0
 Monsters/Monster_rootitoot_young=Monsters/Monster_deedge_dream 0
 Monsters/Monster_plixie=Monsters/Monster_ghazt_dream 0
 Monsters/Monster_light=Monsters/Monster_cataliszt 0
+Monsters/Monster_spunge_young=Monsters/VOIDCORN_dream 0
 
 
