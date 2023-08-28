@@ -1,4 +1,4 @@
-Dream2
+Dream3
 
 monster_clamble entity-d Monsters/Monster_clamble
 
@@ -14,6 +14,7 @@ monster_gumtromp entity-d Monsters/Monster_gumtromp
 
 monster_ghazt_dream entity Monsters/Monster_ghazt_dream
 monster_cataliszt entity Monsters/Monster_cataliszt
+voidcorn_dream entity Monsters/VOIDCORN_dream
 dreamaudio audio dream
 dream midi
 
