@@ -1,0 +1,11 @@
+City 0
+EM 0
+Candy 4
+Knottshurr 10
+Desert 15
+Meduza 20
+Calamity 20
+Organs 20
+TI 0
+GM 20
+dream 0
