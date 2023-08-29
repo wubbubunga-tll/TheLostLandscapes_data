@@ -2,10 +2,11 @@
 #GeneratorName: items_per_day items_limit
 
 ;
-Island_City: 100 300
-Flower_red 33 ground
-Flower_yellow 34 ground
-Flower_blue 33 ground
+Island_City: 1440 100
+Flower_red 33 flowers
+Flower_yellow 34 flowers
+Flower_blue 33 flowers
+Fruit_apple 50 fruits
 ;
 Island_EM: 30 50
 Flower_red 10 flowers
