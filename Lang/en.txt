@@ -906,7 +906,7 @@ str_island_dream_bio=what the actual fwog
 
 str_island_lvl=Lvl <lvl>
 
-str_island_unlock=Unlocked at\n<color=green>Level <level>
+str_island_unlock=Unlocked at\n<color=green>Level <lvl>
 
 str_island_instant=Instant
 
