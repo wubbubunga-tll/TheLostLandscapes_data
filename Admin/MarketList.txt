@@ -702,6 +702,7 @@ Decoration/Dog
 dream
 monsters:
 Monsters/Monster_cataliszt diamonds=10
+-
 monsters2:
 Monsters/Monster_mammott_dream
 Monsters/Monster_toejammer_dream
