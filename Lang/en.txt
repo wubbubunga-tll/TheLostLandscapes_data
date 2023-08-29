@@ -901,7 +901,7 @@ str_island_TI_bio=bio
 str_island_GM=Gamma Water Island
 str_island_GM_bio=bio
 
-str_island_dream=The Demented Dream
+str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
 
 str_island_lvl=Lvl <lvl>
