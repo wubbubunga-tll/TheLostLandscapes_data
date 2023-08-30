@@ -1,4 +1,4 @@
-Starpower=25;Diamonds=50
+stars=25;Diamonds=50
 Coins=10000;Diamonds=50
 Lilly=1;Diamonds=25
 Virus=1;Diamonds=25
