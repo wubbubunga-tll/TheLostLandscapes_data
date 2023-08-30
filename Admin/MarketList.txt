@@ -491,7 +491,7 @@ Candy
 monsters:
 Monsters/Monster_toejammer_undof
 Monsters/Monster_noggin_undof
-Monsters/Monster_kanya_undof
+Monsters/Monster_kayna_undof
 Monsters/Monster_gumtromp
 Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
