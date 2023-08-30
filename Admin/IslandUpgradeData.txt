@@ -25,3 +25,11 @@ Flower_red=25
 Log=50
 Mushroom_2=10
 ITM_Grain=10
+;
+Calamity: 1
+diamonds=50
+Mushroom_1=15
+Mushroom_2=10
+Lilly=10
+Virus=7
+Vortex=10
