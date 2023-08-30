@@ -917,6 +917,14 @@ str_time_h=H
 str_time_m=M
 str_time_s=S
 
+str_time_ds=d
+str_time_hs=h
+str_time_ms=m
+str_time_ss=s
+
+str_nebulaTimerDays=<time> Days Remaning
+str_nebulaTimer=<time> Remaning
+
 str_stars_light=Luminous Beacon
 str_stars_psychic=Subconscious Spiral
 str_stars_bone=Osseous Cross
