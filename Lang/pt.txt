@@ -274,7 +274,10 @@ Monsters/Monster_frondley_young_bio=Young Frondley bio
 Monsters/Monster_stoopa=Stupa
 Monsters/Monster_stoopa_bio=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
 
-Monsters/Monster_gloptic_young=Visscolha Jovem
+Monsters/Monster_gloptic=Visscolha
+Monsters/Monster_gloptic_bio=Young Gloptic bio
+
+Monsters/Monster_gloptic_young=Visscolha Bebê
 Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 
 
