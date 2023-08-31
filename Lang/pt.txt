@@ -283,6 +283,10 @@ Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 Monsters/Monster_wheezel=Sibilinha
 Monsters/Monster_wheezel_bio=Wheezel bio
 
+Monsters/Monster_cataliszt=Gatalisador
+Monsters/Monster_cataliszt_bio=Cataliszt bio
+
+
 ###--Celestials------------------------------------------###
 Monsters/Monster_hornacle=Cornecraca
 Monsters/Monster_hornacle_bio=Hornacle bio
@@ -320,12 +324,17 @@ Monsters/Monster_galvana_bio=Ano após ano, o ciclo celestial se repete novament
 Monsters/Monster_plixie=Pluende
 Monsters/Monster_plixie_bio=Plixie bio
 
-
 Monsters/Monster_light=Loqueturna
 Monsters/Monster_light_bio=Que absurdo! A Loqueturna é um ser realmente estranho, com um pescoço impressionante e pernas longas, ou seriam braços? Nínguem sabe... incluindo a própria Loqueturna; A lenda da cor de lavanda apenas os chama de braçernas! Quando não está filosofando sua própria existência, as paixões desse monstro misterioso incluem tricotar meias de pescoço, topar em praticamente qualquer coisa e tocar apaixonadamente com seu coração desajeitado em sua lira amadeirada. E sempre tomando cuidado para não arrebentar as cordas, pois elas são feitas à mão por uma outra tricotadora de uma terra bem distante.
 
 Monsters/Monster_bone=Amonautilo
 Monsters/Monster_bone_bio=Em uma terra TÃO TÃO distante, nascido das lagrimas de uma estrela que estáva a morrer, uma criatura única governou a terra... Assim começa a história favorita do galanteador Amonautilo. Um role-player radical de sua própria classe, esse ser barulhento adora brincar de faz de conta, imaginando todos os tipos de histórias e criando fantasias engraçadas. Embora suas próprias origens permaneçam um mistério, ele só pode imaginar quem o criou. Não importa o que aconteça, uma coisa é certa: nós sabemos que isso se tornará parte da identidade de cada osso do corpo bem equipado do Amonautilo!
+
+Monsters/Monster_psychic=Maláxia
+Monsters/Monster_psychic_bio=Macrocranium bio
+
+Monsters/Monster_faerie=Fungágia
+Monsters/Monster_faerie_bio=Chordyrid bio
 
 ###--Seasonals------------------------------------------###
 Monsters/Monster_punkleton=Punkeleto
@@ -434,6 +443,7 @@ Monsters/Monster_potbellyGM=Bobalgas
 Monsters/Special/Monster_melochness=Melódi-Ness
 Monsters/Special/Monster_melochness_bio=Nascidos das poças encantadas nos bosques profundos, Melódi-Nesses são criaturas colossais e curiosas. Como a maioria dos habitantes da Floresta das Fadas, a existência desse monstro é grandemente lincada a Neblina Flora. Enquanto não sabemos exatamente oque faz, a neblina aparenta amplificar as melódicas melodias de Melódi-Ness e levá-las para longe. Sua melodia encantada pode ser ouvida por toda floresta à fora enquanto é carregada pela Neblina Flora. Na verdade, isso foi a primeira coisa que os monstros naturais ouviram quando adentraram aos Bosques Profundos. Também é dito que Melódi-Ness compartilha um ancestral em comum com Piu-Flau e Coelhinho-do-Ninho.
 
+Monsters/VOIDCORN=<color="red">V O I D C O R N
 
 ###--Misc------------------------------------------###
 WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
@@ -565,11 +575,11 @@ Monsters/Composer/Monster_spunge_composer_bio=Spunge bio
 Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
 Monsters/Monster_toejammer_undof_bio= Embora os Dedos Enroscados pareçam frágeis, estes elementais emborrachados de Água são bem fortes. Eles cantam sobre maravilhas líquidas: leviatãs do mar profundo, ondas em colisão, porão inundado e chá de bolhas!
 
-Monsters/Monster_kanya_undof=<ref>Monsters/Monster_kayna
-Monsters/Monster_kanya_undof_bio=A antiga Lavareda foi por muito tempo considerada perdida para um evento enigmático na antiguidade Monstruosa. Um espécime solitário envolto em âmbar foi resgatado na Ilha Tribal, é verdade, mas só recentemente uma nova geração desses seres começou a aparecer, atraída pelo misterioso chamado de Relíquias ressoando profundamente dentro do núcleo vulcânico do mundo. Agora, este Elemental do Fogo está pronto para fazer sua parte em restaurar a glória do seu poderoso Elemento no Mundo dos Monstros.
+Monsters/Monster_kayna_undof=<ref>Monsters/Monster_kayna
+Monsters/Monster_kayna_undof_bio=A antiga Lavareda foi por muito tempo considerada perdida para um evento enigmático na antiguidade Monstruosa. Um espécime solitário envolto em âmbar foi resgatado na Ilha Tribal, é verdade, mas só recentemente uma nova geração desses seres começou a aparecer, atraída pelo misterioso chamado de Relíquias ressoando profundamente dentro do núcleo vulcânico do mundo. Agora, este Elemental do Fogo está pronto para fazer sua parte em restaurar a glória do seu poderoso Elemento no Mundo dos Monstros.
 
-Monsters/Monster_kanya_rare_undof=Lavareda Rara
-Monsters/Monster_kanya_rare_undof_bio=Portadoras do elemento mais experiente, Lavaredas raras são uma forma antiga da qual todos os seus primos comuns surgiram. Suas exóticas esculturas semelhantes a tatuagens são concedidas a elas como bodas de lava. Impressionantes e sábias, era após era; você pode imaginar que as Lavaredas raras mais antigas são uma visão e tanto! Porém, não importa quantos anos o raro de fogo original fique, a chama ardente do seu elemento jamais minorará.
+Monsters/Monster_kayna_rare_undof=Lavareda Rara
+Monsters/Monster_kayna_rare_undof_bio=Portadoras do elemento mais experiente, Lavaredas raras são uma forma antiga da qual todos os seus primos comuns surgiram. Suas exóticas esculturas semelhantes a tatuagens são concedidas a elas como bodas de lava. Impressionantes e sábias, era após era; você pode imaginar que as Lavaredas raras mais antigas são uma visão e tanto! Porém, não importa quantos anos o raro de fogo original fique, a chama ardente do seu elemento jamais minorará.
 
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_undof_bio= As Cabeças-duras são, basicamente, pedras musicais. Em sintonia profunda com a terra, seus ritmos simples ecoam o pulso de sua ilha. Os efeitos de reverberação produzidos pelas Cabeças-duras estimulam todos os outros Monstros.
@@ -959,6 +969,10 @@ str_popup_banned=<color=red>Você foi banido(a)!</color>\nSua conta foi banida!\
 str_popup_connection_failed=<color=red>Conexão falhou!</color>
 str_tutorial=Tutorial
 str_island_comingsoon=Em Breve!
+str_island_lvl=Nvl <lvl>
+str_island_unlock=Desbloqueia no \n<color=green>Nível <lvl>
+str_island_instant=Imediato
+str_island_monstercount=<mon>/<max>
 
 str_popup_tutor1=Bem-vindo(a) <color="purple">As Paiságens Perdidas!</color>\nUm jogo de <color="green">My Singing Monsters</color> feito por fans, para fans!!
 str_popup_tutor2=Olá! Eu sou o Mosca-da-Flauta. Esse daqui é meu camarada Dedo Enrroscado. Que tal a gente arranjar mais alguns monstros para nossa ilha?.
@@ -993,6 +1007,13 @@ str_island_Candy_bio=Candy Island bio
 
 str_island_TI=Ilha dos Tutores
 str_island_TI_bio=bio
+
+str_island_GM=Ilha de Água da Matriz
+str_island_GM_bio=bio
+
+
+str_island_dream=island_demented_dream_ERROR:
+str_island_dream_bio=mais que carvalhos é isso-
 
 #--STARS--##
 str_stars_light=Sinal Luminoso
@@ -1034,6 +1055,7 @@ str_class_Mythical=Mítico
 str_class_Mythical-r= Mítico(Raro)
 str_class_Legendary=Lendário
 
+str_class_YOOL=<YOURMISSINGYOOL>
 ##--BUTTONS--##
 str_teleporter=Zepelim Sinfônico
 str_teleporter2=Zepelim
@@ -1042,6 +1064,7 @@ str_teleporter_target_map=O Zepelim chegará até <color="green"><islandName></c
 str_teleporter_target_map_arrived=O Zepelim chegou em <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Você quer enviar o Zepelim para <color="green"><islandName></color>?
+str_popup_masherLimitReached=Você alcançou o limite de itens que você pode colocar no moedor!
 
 btn_shop=Loja
 btn_mailbox=Correio
@@ -1121,6 +1144,21 @@ btn_zap=Energizar
 btn_inventory=Inventário
 btn_wakeUp=Acordar
 btn_mash=Moer
+
+str_island_monstercount=<mon>/<max>
+
+str_time_d=D
+str_time_h=H
+str_time_m=M
+str_time_s=S
+
+str_time_ds=d
+str_time_hs=h
+str_time_ms=m
+str_time_ss=s
+
+str_nebulaTimerDays=<time> Dias Restantes
+str_nebulaTimer=<time> Restante(s)
 
 #--GOALS--#
 goal_breed_buy=Compre e posicione um(a) <color="green"><entityName>
