@@ -8,7 +8,7 @@ monsters_knott entities Knott_1@Monsters/Knott_1;Knott_2@Monsters/Knott_2;Knott_
 monsters_knott_rare entities Knott_1_rare@Monsters/Knott_1_rare;Knott_2_rare@Monsters/Knott_2_rare;Knott_3_rare@Monsters/Knott_3_rare;Knott_4_rare@Monsters/Knott_4_rare;Knott_5_rare@Monsters/Knott_5_rare;Knott_6_rare@Monsters/Knott_6_rare;Knott_7_rare@Monsters/Knott_7_rare;Knott_8_rare@Monsters/Knott_8_rare;Knott_9_rare@Monsters/Knott_9_rare;Knott_10_rare@Monsters/Knott_10_rare;Knott_special_rare@Monsters/Knott_special_rare;
 entities_dream entities Monster_dragong_dream@Monsters/Monster_dragong_dream;Structure_jukebox_dream@Structures/Structure_jukebox_dream
 monster_cataliszt entity-d Monsters/Monster_cataliszt
-dreamaudio audio dream
+dreamaudio2 audio dream
 dream midi
 
 eggs sprites-d eggs
