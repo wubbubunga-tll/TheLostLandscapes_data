@@ -1,22 +1,13 @@
-SceneTest4
+DreamDragong
 
 monster_clamble entity-d Monsters/Monster_clamble
-
-monster_fwog_undof entity-d Monsters/Monster_fwog_undof
-monster_kanya_undof entity-d Monsters/Monster_kanya_undof
-monster_noggin_undof entity-d Monsters/Monster_noggin_undof
-monster_toejammer_undof entity-d Monsters/Monster_toejammer_undof
-monster_phangler_undof entity-d Monsters/Monster_phangler_undof
-monster_thrumble_undof entity-d Monsters/Monster_thrumble_undof
-monster_stogg_undof entity-d Monsters/Monster_stogg_undof
-monster_gumtromp entity-d Monsters/Monster_gumtromp
-
 desert scene-d Desert
-monsters_knott entities-d Knott_1@Monsters/Knott_1;Knott_2@Monsters/Knott_2;Knott_3@Monsters/Knott_3;Knott_4@Monsters/Knott_4;Knott_5@Monsters/Knott_5;Knott_6@Monsters/Knott_6;Knott_7@Monsters/Knott_7;Knott_8@Monsters/Knott_8;Knott_9@Monsters/Knott_9;Knott_10@Monsters/Knott_10;Knott_special@Monsters/Knott_special;
 
-monster_ghazt_dream entity Monsters/Monster_ghazt_dream
-monster_cataliszt entity Monsters/Monster_cataliszt
-voidcorn_dream entity Monsters/VOIDCORN_dream
+
+monsters_knott entities Knott_1@Monsters/Knott_1;Knott_2@Monsters/Knott_2;Knott_3@Monsters/Knott_3;Knott_4@Monsters/Knott_4;Knott_5@Monsters/Knott_5;Knott_6@Monsters/Knott_6;Knott_7@Monsters/Knott_7;Knott_8@Monsters/Knott_8;Knott_9@Monsters/Knott_9;Knott_10@Monsters/Knott_10;Knott_special@Monsters/Knott_special;
+monsters_knott_rare entities Knott_1_rare@Monsters/Knott_1_rare;Knott_2_rare@Monsters/Knott_2_rare;Knott_3_rare@Monsters/Knott_3_rare;Knott_4_rare@Monsters/Knott_4_rare;Knott_5_rare@Monsters/Knott_5_rare;Knott_6_rare@Monsters/Knott_6_rare;Knott_7_rare@Monsters/Knott_7_rare;Knott_8_rare@Monsters/Knott_8_rare;Knott_9_rare@Monsters/Knott_9_rare;Knott_10_rare@Monsters/Knott_10_rare;Knott_special_rare@Monsters/Knott_special_rare;
+entities_dream entities Monster_dragong_dream@Monsters/Monster_dragong_dream;Structure_jukebox_dream@Structures/Structure_jukebox_dream
+monster_cataliszt entity-d Monsters/Monster_cataliszt
 dreamaudio audio dream
 dream midi
 
