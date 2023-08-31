@@ -702,7 +702,7 @@ Decoration/Dog
 dream
 monsters:
 Monsters/Monster_cataliszt diamonds=10
-Structure_jukebox_dream coins=307030
+Structures/Structure_jukebox_dream coins=307030
 -
 monsters2:
 Monsters/Monster_mammott_dream
