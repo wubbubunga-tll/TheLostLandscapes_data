@@ -69,7 +69,7 @@ Monsters/Monster_dandidoo=Dandidão
 Monsters/Monster_dandidoo_bio=Enquanto os fluxos quentinhos do oceano carregam ostras pelas profundezas, uma brisa suave carrega o Esbelto Dandidão pelo mundo dos monstros. Suas migrações dependem do fluxo de ar, já que a natureza não foi tão gentil o suficiente para conceder-lhes asas, pobrezinho. Eles podem conduzir o ar através de seus corpos verdinhos para armazená-lo e explorá-lo em um poderoso fluxo de tons e semitons afinados. É por isso que seu canto se assemelha a "doo"s e "dee"s. Seu elemental de Planta deu-lhes uma tonalidade esverdeada e cabelos estilo afro que lembram um dente-de-leão comum, será que é fácil confundir os dois? Provavelmente sim.
 
 Monsters/Monster_dandidoo_young=Dandidão Bebê
-Monsters/Monster_dandidoo_young_bio=With that delightful tuft, the unmistakable dandidoo prefers to sit in one spot, admiring the world as it goes by. Who knows whether it forgets all it sees, or if echos of a murky past remain, tucked away within the dandelion dancer.
+Monsters/Monster_dandidoo_young_bio=Com aquele tufo felpudo, o inconfundível Dandidão prefere ficar quieto, admirando o mundo. Quem sabe se ele esquece tudo o que vê, ou se os ecos de um passado obscuro permanecem, escondidos dentro do dançante dente-de-leão.
 
 Monsters/Monster_furcorn=Sabugo Peludo
 Monsters/Monster_furcorn_bio=Furcorn bio
@@ -84,7 +84,7 @@ Monsters/Monster_spunge_rare=Esponjo Raro
 Monsters/Monster_spunge_rare_bio=O Esponjo Raro de olhos secos é um exemplo fascinante das adaptações que as mutações baseadas no ambiente podem trazer. Parecendo originar-se de águas particularmente poluídas, as mutações através deste Esponjo maluco mudaram quase tudo nele, desde sua cor até a quantidade de cada órgão que ele possui. Alguns até suspeitam que possa ter uma segunda boca dentro de seu corpo. Pô cara, que nojo!
 
 Monsters/Monster_reedling_young=Piu-Flau Bebê
-Monsters/Monster_reedling_young_bio=Young Reedling bio
+Monsters/Monster_reedling_young_bio=O que é uma flauta senão algo divertido de tocar? Os Piu-Flaus Bebês sempre se questionam sobre isso. Ao menos é o que parece quando tentam se comunicar, já que "Rajadas de Vento" e "Babas de Bebês"  ainda não estão em nosso banco de dados de idiomas traduzíveis... No entanto, essa gracinha canina e peludinha está sempre no meio das atividades onde os outros pequenos se divertem juntos.
 Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
 Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_bio
 Monsters/Monster_reedling=Piu-Flau
@@ -132,7 +132,7 @@ Monsters/Monster_rootitoot=Rutitu
 Monsters/Monster_rootitoot_bio=Rootitoot bio
 
 Monsters/Monster_rootitoot_young=Rutitu Bebê
-Monsters/Monster_rootitoot_young_bio=Young Rootitoot bio
+Monsters/Monster_rootitoot_young_bio=O ar calmo que os pequeninos Rutitús Bebês sopram é algo muito bem apreciado na divertida e barulhenta Cidade Flutuante. Embora sonecas vigiadas sejam oferecidas, muitos monstros adormecem ao redor de um deles, isso pode causar um grande congestionamento de pequenos monstrinhos, e isso não é bom!
 
 #--Quads--#
 Monsters/Monster_bisonorus=Bisonoronte
@@ -159,7 +159,6 @@ Monsters/Monster_sox_bio=Depois de finalmente conhecer a classe comum de monstro
 
 Monsters/Monster_sox_meduza=Rapossax
 Monsters/Monster_sox_meduza_bio=Depois de finalmente conhecer a classe comum de monstros em primeira mão, a vida de Rapossax mudou para sempre. Agora, em vez de tocar melodias solenes de jazz no vasto vazio da ilha etérea o Rapossax está livre para tocar suas melodias para todo o Mundo Perdido! A publicidade não é fácil, pois às vezes Rapossax precisa dissipar os rumores de um suposto 'som verdadeiro' que ele faz. Que som é esse?
-
 
 ###--Supernaturals------------------------------------------###
 Monsters/Monster_meduza=Mê'Duzza
@@ -217,7 +216,7 @@ Monsters/Monster_denchuhs=Gemolares
 Monsters/Monster_denchuhs_bio=Mah dentures
 
 Monsters/Monster_knucklehead_young=Cabeçuda Bebê
-Monsters/Monster_knucklehead_young_bio=Thump thump Bump bump! The newborn noggin's hands aren't quite steady enough to provide that rhythm it's known for, but that doesnt stop it from trying. Juvenile Noggins sometimes let their musical mishaps get out of hand, often trying to bounce with the Thumpies, with very limited success. 
+Monsters/Monster_knucklehead_young_bio=Tudum dum! As mãos delicadas dos pequenos Cabeçudas não são firmes o suficiente para ultrapassar os limites do chão, mas isso não o impede de tentar! Os Cabeçudas bebês às vezes deixam seus percalços musicais altamente descontrolados, eventualmente pulando como Thumpies, ou até Gawghs, com sucesso muito limitado. 
 
 Monsters/Monster_knucklehead=Cabeçuda
 Monsters/Monster_knucklehead_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
@@ -398,7 +397,7 @@ Monsters/Knott_3_rare=Vaso Haulma Raro
 Monsters/Knott_3_rare_bio=Uma coleção de haulmas vingativas com uma alma muito licenciosa e uma forte determinação. A tarefa de os proteger deve ser concedida em boas mãos. Ou só uma mão neste caso. Os dedos inflexíveis e a força imensurável do guardião os tornam perfeitos para o trabalho, mas mesmo eles estão tendo dificuldade em manter as inquietas Haulmas em repouso. Por qual motivo, razão ou circunstância essas Haulmas são tão inquietas? Ninguém sabe...
 
 Monsters/Knott_4_rare=BoOoo Raro
-Monsters/Knott_4_rare_bio=Rare BooOo is a misleading name. These thumpies are actually Ghawgs. Fishy looking, yet still very much covered in fur, creatures. Always accompanied by a pack of tortappers seeking new life and exciting adventures, they travel between realms and explore the world. Occasionally stoping for a few months if they like the place. These monsters sure know how to enjoy life.
+Monsters/Knott_4_rare_bio=BooOo rara é um nome enganoso. Esses thumpies são na verdade Ghawgs. Criaturinhas semelhantes a peixes, mas ainda bem peludos. Sempre acompanhados por um bando de tortappers em busca de uma nova história, eles viajam entre os reinos e exploram o mundo. Ocasionalmente, parando por algumas temporadas, se gostarem do lugar. Esses monstros com certeza sabem viver a vida dos sonhos. 
 
 Monsters/Knott_5_rare=Monte Platident Raro
 Monsters/Knott_5_rare_bio=Ao contrário dos Palitident do monte com os quais estamos acostumados, essas variantes em particular têm uma infinidade de características faciais únicas em cada uma de suas cabeças. Cada uma delas são cheias de emoções e caráter. Diz um ditado que o maior deles foi baseado em um monstro não nativo de nenhum Mundo dos monstros... Como? 
