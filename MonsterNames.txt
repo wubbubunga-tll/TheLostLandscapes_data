@@ -1487,6 +1487,7 @@ Slither
 Strummuck
 Tentapull
 Spaghett
+Vissca
 ;
 Monsters/Monster_jobo
 Squashie
