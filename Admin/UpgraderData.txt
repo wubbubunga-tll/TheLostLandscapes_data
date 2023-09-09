@@ -15,6 +15,10 @@ Structures/Structure_breeding_undof 0 diamonds=25 10000
 Structures/Structure_breeding_undof2 0 diamonds=100,Candycane=50,Candycorn=50,Peppermint=50 10000
 Structures/Structure_breeding_undof3 0 diamonds=100,Candycane=50,Candycorn=50,Peppermint=50 10000
 ;
+Wheezel Organs
+Monsters/Monster_wheezel_rock 0 Catfur=10,BloodCells=20,Bone=30,Log=25,Virus=5 10000
+Monsters/Monster_wheezel 0 diamonds=100 1
+;
 Knottmaker Knottshurr
 Structures/Structure_knottmaker1 0 BlueLog=10,Rock=10,Vortex=2 10000
 Structures/Structure_knottmaker2 0 BlueLog=10,Rock=15,Bone=10,Vortex=3 10000
