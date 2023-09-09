@@ -768,6 +768,7 @@ Monsters/Gnarls
 Monsters/Krillby
 Monsters/Pladdie
 Monsters/Scaratar
+Monsters/Loodvigg
 Monsters/Uuduk
 Monsters/Whimmzies
 ;
