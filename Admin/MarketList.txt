@@ -306,7 +306,7 @@ Monsters/Monster_clamble diamonds=300
 Monsters/Monster_schmoochle diamonds=1000
 Monsters/Monster_plixie diamonds=5000
 Monsters/Monster_reebro diamonds=4000
-Monsters/Monster_wheezel diamonds=30
+Monsters/Monster_wheezel_rock diamonds=30
 -
 monster_rares:
 Monsters/Monster_oaktopus_rare
