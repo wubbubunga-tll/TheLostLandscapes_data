@@ -1,5 +1,5 @@
 -------
-WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Zap the monsters you've placed on this island, and they'll transform into the electrical energy required to take up this Wublin.
+WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Zap the monsters you've bred or placed on this island, and they'll transform into the electrical energy required to take up this Wublin.
 
 MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it later.
 
