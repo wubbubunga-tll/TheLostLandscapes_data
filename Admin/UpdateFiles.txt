@@ -11,10 +11,10 @@ monster_cataliszt entity-d Monsters/Monster_cataliszt
 dreamaudio2 audio dream
 dream midi
 
-egyptpipes_scene scene EgpytPipes
-egyptpipes_audio audio EgpytPipes
-egyptpipes_entities entities Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie
-egyptpipes_midi midi
+egyptpipes_scene scene-d EgpytPipes
+egyptpipes_audio audio-d EgpytPipes
+egyptpipes_entities entities-d Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie
+egyptpipes_midi midi-d
 
 eggs sprites-d eggs
 icons sprites-d icons
