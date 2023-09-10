@@ -493,7 +493,7 @@ Structures/Structure_stargazer=Observatory
 Structures/Structure_stargazer_bio=Observatory bio
 
 Structures/Structure_timemachine=Time Machine
-Structures/Structure_timemachine_bio=This peculiar structure can warp time! Use the slider to slow down or speed up the song!
+Structures/Structure_timemachine_bio=This strange and peculiar structure can warp time! Use the slider to slow down or speed up the music!
 
 Structures/Structure_masher=Masher
 Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be proccessed into delicious snacks for the youngsters!
