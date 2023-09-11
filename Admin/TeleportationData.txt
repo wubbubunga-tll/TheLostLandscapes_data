@@ -87,6 +87,8 @@ Organs 86400 10
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 Monsters/Monster_plixie=Monsters/Monster_plixie 1
 Monsters/Monster_theremind_young=Monsters/Monster_theremind 10
+Monsters/Monster_shellbeat_young=Monsters/Monster_shellbeat 10
+Monsters/Monster_shellbeat= 0
 Monsters/Monster_oaktopus= 0
 Monsters/Monster_handmond= 0
 Monsters/Monster_whimstlop= 0

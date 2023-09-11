@@ -53,6 +53,7 @@ Monsters/Monster_pongping diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28
 Monsters/Monster_pongping_meduza diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
 
 Monsters/Monster_tiawa diamonds=130 earth@water@fire@cold 79200 40 coins=1@28@coins=550 Natural tiawa,tiawa 6 0
+Monsters/Monster_shellbeat diamonds=130 earth@water@plant@air 79200 40 coins=1@28@coins=550 Natural shellbeat,shellbeat 6 0
 
 Monsters/Monster_meduza diamonds=1000 undead 0 100 coins=10@80@coins=1000 Supernatural meduza,meduza 10 0
 

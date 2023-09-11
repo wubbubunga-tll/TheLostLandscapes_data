@@ -303,6 +303,7 @@ Monsters/Monster_oaktopus diamonds=100
 Monsters/Monster_boskus diamonds=100
 Monsters/Monster_denchuhs diamonds=120
 Monsters/Monster_clamble diamonds=300
+Monsters/Monster_shellbeat diamonds=700
 Monsters/Monster_schmoochle diamonds=1000
 Monsters/Monster_plixie diamonds=5000
 Monsters/Monster_reebro diamonds=4000
