@@ -53,7 +53,7 @@ Monsters/Monster_reedling_young_bio=What is a flute but something fun to toot, y
 Monsters/Monster_rootitoot_young=Young Rootitoot
 Monsters/Monster_rootitoot_young_bio=The calm air that young Rootitoots provide are much appreciated solace in the boistrous and playful city. While supervised naps are offered, too many sleeping monsters around a local Rootitoot can cause a bit of a jam, and not the tasty kind. 
 Monsters/Monster_bridgit_young=Young Bridg-it
-Monsters/Monster_bridgit_young_bio=Young Bridg-it bio
+Monsters/Monster_bridgit_young_bio=Young Bridg'its love bows, tiaras and anything that makes them look adorable, their hair is always well decorated and combed, however, they have such tiny arms, they can't do all this work by themselves! Luckily there is always a motherly Scaratar nearby who is willing to help them with their tangly issues.
 Monsters/Monster_frondley_young=Young Frondley
 Monsters/Monster_frondley_young_bio=Young Frondley bio
 
