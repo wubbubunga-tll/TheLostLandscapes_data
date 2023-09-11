@@ -549,7 +549,7 @@ Monsters/Monster_stogg_undof=Stogg
 Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
 
 Monsters/Monster_gumtromp=Gumtromp
-Monsters/Monster_gumtromp_bio=Bio
+Monsters/Monster_gumtromp_bio=A sweet demeanored treat, the adorable Gumtromp parades around the monster world, giving inspirational speeches on how... candy is actually good for you and how the toothbrush mafia is out to get everyone. Yikes. But besides that, this marmalade monster loves to help its friends and caters plenty of sweets for events of any size. What a sugary delight! 
 
 Monsters/Monster_gumtromp_rare=Rare Gumtromp
 Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
