@@ -97,6 +97,7 @@ Monsters/Monster_oaktopus
 Monsters/Monster_theremind
 Monsters/Monster_denchuhs
 Monsters/Monster_boskus
+Monsters/Monster_cybop
 Monsters/Monster_clamble
 Monsters/Monster_whimstlop
 Monsters/Monster_shellbeat

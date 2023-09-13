@@ -301,6 +301,7 @@ Monsters/Monster_whimstlop diamonds=150
 Monsters/Monster_theremind diamonds=80
 Monsters/Monster_oaktopus diamonds=100
 Monsters/Monster_boskus diamonds=100
+Monsters/Monster_cybop diamonds=100
 Monsters/Monster_denchuhs diamonds=120
 Monsters/Monster_clamble diamonds=300
 Monsters/Monster_shellbeat diamonds=700
