@@ -925,6 +925,8 @@ str_time_hs=h
 str_time_ms=m
 str_time_ss=s
 
+str_cleardata=Clear
+
 str_nebulaTimerDays=<time> Days Remaning
 str_nebulaTimer=<time> Remaning
 
