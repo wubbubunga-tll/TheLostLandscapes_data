@@ -1,4 +1,3 @@
-MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins Class EggSprite,IconSprite LevelRequirement Limit
 
 Default Sounds/Memmory/Default
 
