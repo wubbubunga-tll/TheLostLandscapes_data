@@ -69,6 +69,7 @@ Monsters/Monster_handmond 85
 Monsters/Monster_oaktopus 70
 Monsters/Monster_denchuhs 50
 Monsters/Monster_boskus 60
+Monsters/Monster_cybop 60
 Monsters/Monster_schmoochle 4
 Monsters/Monster_theremind 60
 Monsters/Monster_clamble 50
