@@ -770,6 +770,7 @@ Monsters/Gnarls
 Monsters/Krillby
 Monsters/Pladdie
 Monsters/Buzzinga
+Monsters/Shlep
 Monsters/Scaratar
 Monsters/Loodvigg
 Monsters/Uuduk
