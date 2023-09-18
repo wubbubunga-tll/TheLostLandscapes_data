@@ -769,6 +769,7 @@ Monsters/Congle
 Monsters/Gnarls
 Monsters/Krillby
 Monsters/Pladdie
+Monsters/Buzzinga
 Monsters/Scaratar
 Monsters/Loodvigg
 Monsters/Uuduk
