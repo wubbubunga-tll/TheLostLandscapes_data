@@ -22,7 +22,7 @@ Monsters/Monster_tweedle_young_bio=Pintinhos-Piu são bem conhecidos por serem a
 Monsters/Monster_tweedle=Pintinho Piu
 Monsters/Monster_tweedle_bio=Pintinho Pius adultas são conhecidas por migrar muito de ilhas para ilhas, às vezes elas viajam para visitar seus amigos, e raramente elas até se mudam para um dessas ilhas nas quais elas visitaram, e após sua chegada, seus companheiros monstros ajudam elas a entender como as coisas funcionam por lá. Podemos dizer que elas são realmente aves aventureiras!!
 
-Monsters/Monster_toejammer_young=Dedo-Enrroscado Bebê
+Monsters/Monster_toejammer_young=Dedo Enrroscado Bebê
 Monsters/Monster_toejammer_young_bio=Efervescentes e borbulhantes, os Jovens Dedinhos com seu comportamento tropical são sempre companheiros agradáveis ​​para os outros monstros. Às vezes, a situação pode complicar quando uma bola chutada atinge o corpo gelatinoso desse pequeno, mas isso não é páreo para uma sessão de piadocas bem executada.
 
 Monsters/Monster_toejammer=Dedo Enrroscado
@@ -118,20 +118,20 @@ Monsters/Monster_boskus_bio=Boskus bio
 Monsters/Monster_phangler_young=Peixânzol Bebê
 Monsters/Monster_phangler_young_bio=Young Phangler bio
 
-Monsters/Monster_phangler=Peixanzol
-Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Bannorio e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixanzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixanzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
+Monsters/Monster_phangler=Peixânzol
+Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Bannorio e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixânzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixânzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
 
-Monsters/Monster_phangler_rare=Peixanzol Raro
+Monsters/Monster_phangler_rare=Peixânzol Raro
 Monsters/Monster_phangler_rare_bio=Glub Glub Glub. O Peixeanzol raro comeu um lama demais do fundo das águas do pântano e sua cauda caiu. Por sorte, ele tinha um extra em seus bolsos, então os colocou e os usou como braços!
 
 Monsters/Monster_stogg_young=Estegão Bebê
 Monsters/Monster_stogg_young_bio=Young Stogg bio
 
 #--Triples--#
-Monsters/Monster_rootitoot=Rutitu
+Monsters/Monster_rootitoot=Rutitú
 Monsters/Monster_rootitoot_bio=Rootitoot bio
 
-Monsters/Monster_rootitoot_young=Rutitu Bebê
+Monsters/Monster_rootitoot_young=Rutitú Bebê
 Monsters/Monster_rootitoot_young_bio=O ar calmo que os pequeninos Rutitús Bebês sopram é algo muito bem apreciado na divertida e barulhenta Cidade Flutuante. Embora sonecas vigiadas sejam oferecidas, muitos monstros adormecem ao redor de um deles, isso pode causar um grande congestionamento de pequenos monstrinhos, e isso não é bom!
 
 #--Quads--#
@@ -268,7 +268,7 @@ Monsters/Monster_dulsylvan_rare_bio=Durante os últimos estágios da vida de um 
 Monsters/Monster_choral=Troncoral
 Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Troncoral! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Troncoras trollam o monstros com seu disfarce se alguém chega muito perto, e quando eles perceberem, logo pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
 
-Monsters/Monster_frondley_young=Folhamável ovem
+Monsters/Monster_frondley_young=Folhamável Jovem
 Monsters/Monster_frondley_young_bio=Young Frondley bio
 #--Quads--#
 Monsters/Monster_stoopa=Stupa
@@ -594,7 +594,7 @@ Monsters/Monster_fwog_undof=Dom Sapo
 Monsters/Monster_fwog_undof_bio=Emergindo da terra natal enlameada, o Dom Sapo canta apaixonadamente, esperando atrair assim uma companheira. Ele enche o ar com seu apelo hipnótico, que estimula os instintos primordiais de cada Monstro.
 
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
-Monsters/Monster_phangler_undof_bio=Os Peixanzois são destinados a uma vida no centro das atenções! Esses vocalistas nascidos vivem para se apresentar, e seus tons doces são frequentemente empregados em todos os tipos de reuniões. Não seja pego sem entretenimento ao vivo na sua festa do Mês de Aniversário: reserve hoje um Peixanzol!
+Monsters/Monster_phangler_undof_bio=Os Peixânzois são destinados a uma vida no centro das atenções! Esses vocalistas nascidos vivem para se apresentar, e seus tons doces são frequentemente empregados em todos os tipos de reuniões. Não seja pego sem entretenimento ao vivo na sua festa do Mês de Aniversário: reserve hoje um Peixânzol!
 
 Monsters/Monster_stogg_undof=Estegão
 Monsters/Monster_stogg_undof_bio=Como ávidos colecionadores de rochas, Estegães adoram cavar a terra com suas poderosas pernas dianteiras para encontrar novos minerais brilhantes. Infelizmente, este Monstro distraído também gosta de enterrar seu tesouro, muitas vezes esquecendo a localização logo depois.
@@ -612,10 +612,10 @@ Monsters/Monster_jobo_bio=Jodel bio
 Monsters/Monster_treble=Ethenor
 Monsters/Monster_treble_bio=Ethenor bio
 
-Monsters/Monster_gumtromp=Masclete
+Monsters/Monster_gumtromp=Trommelo
 Monsters/Monster_gumtromp_bio=Bio
 
-Monsters/Monster_gumtromp_rare=Masclete Raro
+Monsters/Monster_gumtromp_rare=Trommelo Raro
 Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
 
 Monsters/Monster_keytrus=Melócitrus
