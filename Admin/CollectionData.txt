@@ -13,6 +13,7 @@ Monsters/Monster_wadee
 Monsters/Monster_varrow
 Monsters/Monster_varrow_rare
 Monsters/Monster_quibble
+Monsters/Monster_quibble_rare
 Monsters/Monster_spunge
 Monsters/Monster_spunge_rare
 Monsters/Monster_choral

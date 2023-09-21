@@ -25,6 +25,7 @@ Monsters/Special/Monster_melochness
 monster_rares:
 Monsters/Monster_toejammer_rare
 Monsters/Monster_oaktopus_rare
+Monsters/Monster_quibble_rare
 Monsters/Monster_varrow_rare
 Monsters/Monster_spunge_rare
 Monsters/Monster_dulsylvan_rare

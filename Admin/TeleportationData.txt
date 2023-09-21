@@ -54,6 +54,7 @@ Monsters/Monster_potbelly= 0
 Monsters/Monster_oaktopus= 0
 Monsters/Monster_oaktopus_rare= 0
 Monsters/Monster_quibble= 0
+Monsters/Monster_quibble_rare= 0
 Monsters/Monster_dandidoo= 0
 Monsters/Monster_spunge= 0
 Monsters/Monster_spunge_rare= 0

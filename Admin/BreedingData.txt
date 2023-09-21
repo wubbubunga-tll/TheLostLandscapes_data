@@ -30,6 +30,7 @@ Monsters/Monster_frondley=Monsters/Monster_oaktopus+Monsters/Monster_dandidoo 0
 
 Monsters/Monster_toejammer_rare=Monsters/Monster_wadee+Monsters/Monster_quibble 4
 Monsters/Monster_oaktopus_rare=Monsters/Monster_choral+Monsters/Monster_banno 4
+Monsters/Monster_quibble_rare=Monsters/Monster_wadee+Monsters/Monster_dandidoo 4
 Monsters/Monster_varrow_rare=Monsters/Monster_tweedle+Monsters/Monster_dulsylvan 4
 Monsters/Monster_spunge_rare=Monsters/Monster_wadee+Monsters/Monster_toejammer 4
 Monsters/Monster_dulsylvan_rare=Monsters/Monster_dandidoo+Monsters/Monster_banno 4
