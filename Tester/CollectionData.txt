@@ -17,7 +17,6 @@ Monsters/Monster_spunge_rare
 Monsters/Monster_choral
 Monsters/Monster_dulsylvan
 Monsters/Monster_banno
-Monsters/Monster_banno_rare
 Monsters/Monster_stoopa
 Monsters/Monster_bridgit
 Monsters/Monster_phangler

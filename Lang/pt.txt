@@ -22,7 +22,7 @@ Monsters/Monster_tweedle_young_bio=Pintinhos-Piu são bem conhecidos por serem a
 Monsters/Monster_tweedle=Pintinho Piu
 Monsters/Monster_tweedle_bio=Pintinho Pius adultas são conhecidas por migrar muito de ilhas para ilhas, às vezes elas viajam para visitar seus amigos, e raramente elas até se mudam para um dessas ilhas nas quais elas visitaram, e após sua chegada, seus companheiros monstros ajudam elas a entender como as coisas funcionam por lá. Podemos dizer que elas são realmente aves aventureiras!!
 
-Monsters/Monster_toejammer_young=Dedo-Enrroscado Bebê
+Monsters/Monster_toejammer_young=Dedo Enrroscado Bebê
 Monsters/Monster_toejammer_young_bio=Efervescentes e borbulhantes, os Jovens Dedinhos com seu comportamento tropical são sempre companheiros agradáveis ​​para os outros monstros. Às vezes, a situação pode complicar quando uma bola chutada atinge o corpo gelatinoso desse pequeno, mas isso não é páreo para uma sessão de piadocas bem executada.
 
 Monsters/Monster_toejammer=Dedo Enrroscado
@@ -118,20 +118,20 @@ Monsters/Monster_boskus_bio=Boskus bio
 Monsters/Monster_phangler_young=Peixânzol Bebê
 Monsters/Monster_phangler_young_bio=Young Phangler bio
 
-Monsters/Monster_phangler=Peixanzol
-Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Bannorio e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixanzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixanzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
+Monsters/Monster_phangler=Peixânzol
+Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Bannorio e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixânzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixânzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
 
-Monsters/Monster_phangler_rare=Peixanzol Raro
+Monsters/Monster_phangler_rare=Peixânzol Raro
 Monsters/Monster_phangler_rare_bio=Glub Glub Glub. O Peixeanzol raro comeu um lama demais do fundo das águas do pântano e sua cauda caiu. Por sorte, ele tinha um extra em seus bolsos, então os colocou e os usou como braços!
 
 Monsters/Monster_stogg_young=Estegão Bebê
 Monsters/Monster_stogg_young_bio=Young Stogg bio
 
 #--Triples--#
-Monsters/Monster_rootitoot=Rutitu
+Monsters/Monster_rootitoot=Rutitú
 Monsters/Monster_rootitoot_bio=Rootitoot bio
 
-Monsters/Monster_rootitoot_young=Rutitu Bebê
+Monsters/Monster_rootitoot_young=Rutitú Bebê
 Monsters/Monster_rootitoot_young_bio=O ar calmo que os pequeninos Rutitús Bebês sopram é algo muito bem apreciado na divertida e barulhenta Cidade Flutuante. Embora sonecas vigiadas sejam oferecidas, muitos monstros adormecem ao redor de um deles, isso pode causar um grande congestionamento de pequenos monstrinhos, e isso não é bom!
 
 #--Quads--#
@@ -246,7 +246,7 @@ Monsters/Monster_frondley=Folhamável
 Monsters/Monster_frondley_bio=O Folhamável é ummmmmmmmmm espécime incrível! Seu físico gelatinoso e dedos nos quais podem se assimilar à certo monstro, no qual certamente monstro evoluiu separadamente do nosso companheiro de cor amarela. Seus zumbidos sobrenaturais e serenos ecoam pelas ilhas, sempre afirmado que um Folhamável está presente lá. Alguns monstros vão até longas distancias só para gravar seu zumbido, para que depois eles possam se colocar para dormir escutando esse som calmo. Em outras atividades, Folhamáveis adoram manter seu penteado "tipo-alga", enquanto sempre se esforçam para encontrar a quantidade perfeita de cabelo para seus crânios bulbosos.
 
 Monsters/Monster_bridgit_young=Pontista Bebê
-Monsters/Monster_bridgit_young_bio=Young Bridg-it bio
+Monsters/Monster_bridgit_young_bio=As Pontistas Jovens amam laços, tiaras e qualquer outra coisa que as deixem adoráveis! Seus cabelos sempre estão arrumados e decorados. Porém, elas tem braços muito pequenos e não podem fazer esse trabalho sozinhas! Por sorte, sempre existem as Escarasítares como figuras maternas por perto, que sempre vão ajudá-las com problemas das suas tranças. 
 
 Monsters/Monster_bridgit=Pontista
 Monsters/Monster_bridgit_bio=Estereótipos dizem que os trolls são geralmente cruéis e vivem em porões, Pontista é exatamente o oposto disso. Este monstro melódico é um dos mais gentis que se pode conhecer, constantemente organizando chás (sem bebês), competições de construção de pontes e muito mais. Bem, isso é o que pensamos, já que nunca vimos realmente isso acontecer... É tão bom teorizar não?.
@@ -268,7 +268,7 @@ Monsters/Monster_dulsylvan_rare_bio=Durante os últimos estágios da vida de um 
 Monsters/Monster_choral=Troncoral
 Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Troncoral! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Troncoras trollam o monstros com seu disfarce se alguém chega muito perto, e quando eles perceberem, logo pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
 
-Monsters/Monster_frondley_young=Folhamável ovem
+Monsters/Monster_frondley_young=Folhamável Jovem
 Monsters/Monster_frondley_young_bio=Young Frondley bio
 #--Quads--#
 Monsters/Monster_stoopa=Stupa
@@ -594,7 +594,7 @@ Monsters/Monster_fwog_undof=Dom Sapo
 Monsters/Monster_fwog_undof_bio=Emergindo da terra natal enlameada, o Dom Sapo canta apaixonadamente, esperando atrair assim uma companheira. Ele enche o ar com seu apelo hipnótico, que estimula os instintos primordiais de cada Monstro.
 
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
-Monsters/Monster_phangler_undof_bio=Os Peixanzois são destinados a uma vida no centro das atenções! Esses vocalistas nascidos vivem para se apresentar, e seus tons doces são frequentemente empregados em todos os tipos de reuniões. Não seja pego sem entretenimento ao vivo na sua festa do Mês de Aniversário: reserve hoje um Peixanzol!
+Monsters/Monster_phangler_undof_bio=Os Peixânzois são destinados a uma vida no centro das atenções! Esses vocalistas nascidos vivem para se apresentar, e seus tons doces são frequentemente empregados em todos os tipos de reuniões. Não seja pego sem entretenimento ao vivo na sua festa do Mês de Aniversário: reserve hoje um Peixânzol!
 
 Monsters/Monster_stogg_undof=Estegão
 Monsters/Monster_stogg_undof_bio=Como ávidos colecionadores de rochas, Estegães adoram cavar a terra com suas poderosas pernas dianteiras para encontrar novos minerais brilhantes. Infelizmente, este Monstro distraído também gosta de enterrar seu tesouro, muitas vezes esquecendo a localização logo depois.
@@ -612,10 +612,10 @@ Monsters/Monster_jobo_bio=Jodel bio
 Monsters/Monster_treble=Ethenor
 Monsters/Monster_treble_bio=Ethenor bio
 
-Monsters/Monster_gumtromp=Masclete
-Monsters/Monster_gumtromp_bio=Bio
+Monsters/Monster_gumtromp=Marmelete
+Monsters/Monster_gumtromp_bio=Um monstro com um olhar açucarado, o adorável Marmelete desfila pelo mundo dos monstros, dando palestras inspiradoras sobre como... os doces são realmente bons para você e como a máfia das escovas de dentes está atrás de todos. Caramba!?Entretanto, essa doce marmelada adora ajudar seus amigos e oferece muitos doces e confeitos para eventos, independentemente do seu tamanho. Que delícia adocicada!
 
-Monsters/Monster_gumtromp_rare=Masclete Raro
+Monsters/Monster_gumtromp_rare=Marmelete Raro
 Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
 
 Monsters/Monster_keytrus=Melócitrus
@@ -650,7 +650,7 @@ Monsters/Monster_wubbox_undof=Wub-Caixa
 Monsters/Monster_wubbox_undof_bio=One day as the monsters were tunneling underground, they stumbled upon an immense underground vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations:Sample analysis of the box's exterior indicates that it shares traits with every known monster species - in fact, it even has specialized compartments with an otherworldy shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.Gather some intrepid monster volunteers and see what happens when you 'box' them!
 
 Monsters/Monster_wubbox_undof_awake=<ref>Monsters/Monster_wubbox_undof
-Monsters/Monster_wubbox_undof_bio_awake=Eureka! The Wubbox awakes!  As it turns out, this extraordinary electric elemental is vital to the life processes of the colossal island monsters that the other singing denizens call home.  The shrunken monsters used to power up the creature report that inside is as fun as any playground they've ever seen, so they are happy to stay indefinitely.The robotic chirps and whistles it uses to express itself can take some getting used to, but eventually become a beloved and inextricable part of the island's tune.  Besides, it's all the rage in "current" music.The specific breeding characteristics of the Wubbox have not yet been studied.
+Monsters/Monster_wubbox_undof_awake_bio=Eureka! The Wubbox awakes!  As it turns out, this extraordinary electric elemental is vital to the life processes of the colossal island monsters that the other singing denizens call home.  The shrunken monsters used to power up the creature report that inside is as fun as any playground they've ever seen, so they are happy to stay indefinitely.The robotic chirps and whistles it uses to express itself can take some getting used to, but eventually become a beloved and inextricable part of the island's tune.  Besides, it's all the rage in "current" music.The specific breeding characteristics of the Wubbox have not yet been studied.
 
 Monsters/Monster_wubbox_rare_undof=Wub-Caixa Rara
 Monsters/Monster_wubbox_rare_undof_bio=Rare Wubbox bio
@@ -954,6 +954,7 @@ str_popup_upgrade=Quer melhorar isso por <amount> <type>?
 str_popup_upgrade_items=Quer melhorar isso?\nIsso irá te custar:
 str_popup_notEnough=Você não tem <color=green>Itens</color> o suficiente.
 str_popup_unlock=Você descobriu:\n<name>
+str_popup_masherNoItemsSelected=Você tem que selecionar itens para esmagar! Se você não tem nenhum, tente coletar alguns, ou faça os seus próprios!
 
 
 btn_upgrade=Melhorar
@@ -1067,6 +1068,7 @@ str_teleporter_target_map_arrived=O Zepelim chegou em <color="green"><islandName
 str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Você quer enviar o Zepelim para <color="green"><islandName></color>?
 str_popup_masherLimitReached=Você alcançou o limite de itens que você pode colocar no moedor!
+str_cleardata=Apagar
 
 btn_shop=Loja
 btn_mailbox=Correio
