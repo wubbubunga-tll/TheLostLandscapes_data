@@ -612,10 +612,10 @@ Monsters/Monster_jobo_bio=Jodel bio
 Monsters/Monster_treble=Ethenor
 Monsters/Monster_treble_bio=Ethenor bio
 
-Monsters/Monster_gumtromp=Marmetele
-Monsters/Monster_gumtromp_bio=Um monstro com um olhar açucarado, o adorável Marmetele desfila pelo mundo dos monstros, dando palestras inspiradoras sobre como... os doces são realmente bons para você e como a máfia das escovas de dentes está atrás de todos. Caramba!?Entretanto, essa doce marmelada adora ajudar seus amigos e oferece muitos doces e confeitos para eventos, independentemente do seu tamanho. Que delícia adocicada!
+Monsters/Monster_gumtromp=Marmelete
+Monsters/Monster_gumtromp_bio=Um monstro com um olhar açucarado, o adorável Marmelete desfila pelo mundo dos monstros, dando palestras inspiradoras sobre como... os doces são realmente bons para você e como a máfia das escovas de dentes está atrás de todos. Caramba!?Entretanto, essa doce marmelada adora ajudar seus amigos e oferece muitos doces e confeitos para eventos, independentemente do seu tamanho. Que delícia adocicada!
 
-Monsters/Monster_gumtromp_rare=Marmetele Raro
+Monsters/Monster_gumtromp_rare=Marmelete Raro
 Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
 
 Monsters/Monster_keytrus=Melócitrus
