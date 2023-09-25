@@ -106,6 +106,7 @@ Monsters/Monster_schmoochle
 Monsters/Monster_plixie
 Monsters/Monster_reebro
 Monsters/Monster_wheezel
+Monsters/Monster_knurv
 ;
 Meduza:
 Monsters/Monster_mammott_meduza
