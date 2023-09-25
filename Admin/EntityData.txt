@@ -177,6 +177,9 @@ Monsters/Monster_wubbox_rare_undof stars=1 electricity 0 10000000 coins=4000,dia
 Monsters/Monster_wheezel diamonds=20 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Wheezel 0 3
 Monsters/Monster_wheezel_rock diamonds=20 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Wheezel 0 3
 
+Monsters/Monster_knurv diamonds=20 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Wheezel 0 3
+Monsters/Monster_knurv_rock diamonds=20 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Wheezel 0 3
+
 Monsters/Monster_toejammer_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural toejammer-o,toejammer-o 0 0
 
 Monsters/Monster_kayna_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural kayna-o,kayna-o 0 0
