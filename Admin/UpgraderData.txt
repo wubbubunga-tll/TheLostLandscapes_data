@@ -19,6 +19,10 @@ Wheezel Organs
 Monsters/Monster_wheezel_rock 0 Catfur=10,BloodCells=20,Bone=30,Log=25,Virus=5 10000
 Monsters/Monster_wheezel 0 diamonds=100 1
 ;
+Knurv Organs
+Monsters/Monster_knurv_rock 0 Catfur=15,Vortex=4,Rock=30,Log=25,Flower_yellow=10,Flower_blue=15 10000
+Monsters/Monster_knurv 0 diamonds=100 1
+;
 Knottmaker Knottshurr
 Structures/Structure_knottmaker1 0 BlueLog=10,Rock=10,Vortex=2 10000
 Structures/Structure_knottmaker2 0 BlueLog=10,Rock=15,Bone=10,Vortex=3 10000

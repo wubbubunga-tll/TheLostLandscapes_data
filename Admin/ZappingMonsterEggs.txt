@@ -69,6 +69,10 @@ Monsters/Monster_theremind 1
 Monsters/Monster_whimstlop 1
 Monsters/Monster_reebro 1
 ;
+Knurv Organs
+Monsters/Monster_clamble 5
+Monsters/Monster_whimstlop 5
+;
 Poewk Calamity
 Monsters/Monster_stogg_undof 1
 Monsters/Monster_varrow 1
