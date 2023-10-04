@@ -119,7 +119,7 @@ Monsters/Monster_phangler_young=Peixânzol Bebê
 Monsters/Monster_phangler_young_bio=Young Phangler bio
 
 Monsters/Monster_phangler=Peixânzol
-Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Bannorio e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixânzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixânzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
+Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Banhango e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixânzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixânzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
 
 Monsters/Monster_phangler_rare=Peixânzol Raro
 Monsters/Monster_phangler_rare_bio=Glub Glub Glub. O Peixeanzol raro comeu um lama demais do fundo das águas do pântano e sua cauda caiu. Por sorte, ele tinha um extra em seus bolsos, então os colocou e os usou como braços!
@@ -251,10 +251,10 @@ Monsters/Monster_bridgit_young_bio=As Pontistas Jovens amam laços, tiaras e qua
 Monsters/Monster_bridgit=Pontista
 Monsters/Monster_bridgit_bio=Estereótipos dizem que os trolls são geralmente cruéis e vivem em porões, Pontista é exatamente o oposto disso. Este monstro melódico é um dos mais gentis que se pode conhecer, constantemente organizando chás (sem bebês), competições de construção de pontes e muito mais. Bem, isso é o que pensamos, já que nunca vimos realmente isso acontecer... É tão bom teorizar não?.
 
-Monsters/Monster_banno=Bannorio
-Monsters/Monster_banno_bio=Um vocalista do lendário Coro do Cancer, por muito tempo Bannorio passou seu tempo nas profundezas frias do oceano. Infelizmente, as temperatura congelantes não eram ideais para seu corpo acostumado com a água quente! Ao em vez de entrar em algo como um gêiser, ele decidiu ficar perto de seus amigos utilizando um balde de madeira cheio de água fervendo para se manter confortável. Embora seu abdômen vermelho fervente possa parecer nada saudável, não há com o que se preocupar, Bannorio afirma que é apenas sua cor natural aparecendo após a limpeza de milhares de anos de sujeira do mar.
+Monsters/Monster_banno=Banhango
+Monsters/Monster_banno_bio=Um vocalista do lendário Coro do Cancer, por muito tempo Banhango passou seu tempo nas profundezas frias do oceano. Infelizmente, as temperatura congelantes não eram ideais para seu corpo acostumado com a água quente! Ao em vez de entrar em algo como um gêiser, ele decidiu ficar perto de seus amigos utilizando um balde de madeira cheio de água fervendo para se manter confortável. Embora seu abdômen vermelho fervente possa parecer nada saudável, não há com o que se preocupar, Banhango afirma que é apenas sua cor natural aparecendo após a limpeza de milhares de anos de sujeira do mar.
 
-Monsters/Monster_banno_rare=Bannorio raro
+Monsters/Monster_banno_rare=Banhango raro
 Monsters/Monster_banno_rare_bio=Rebola vai
 Monsters/Monster_spunge=Esponjo
 Monsters/Monster_spunge_bio=Esponjos adultos são assoviadores muito talentosos, eles conseguem soprar tão forte que às vezes eles acabam mandando seus colegas monstruosos para ilhas bem distantes! Apenas lembre-se de se esconder quando eles sopram suas velas de aniversário.
