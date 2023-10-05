@@ -3,6 +3,10 @@ Likho-ad
 Barbatan
 Eyeren
 Yaken
+Leaky
+Liconess
+Sirana
+Finnth
 ;
 Monsters/Monster_choral
 Coralline
@@ -14,7 +18,7 @@ Ti & Qi
 Kammo & Phlaje
 Poleniya
 Urlar-Corail
-Tronquilho
+Tronquill
 Toowooh
 Carryah
 Billobba
@@ -56,7 +60,6 @@ Wikkid
 BaBcia
 Jadwiga
 Jad-Wig
-Pompink
 ;
 Monsters/Monster_wadee
 Big W
@@ -66,7 +69,7 @@ Glubglub
 Julian
 Noy
 Vodde
-Squeedwurd
+Squeedwurt
 Nossad
 Feoragach
 Middleboi
@@ -93,7 +96,7 @@ Galluss
 KiKi
 Kikidora
 Raven
-71
+Sventyuon
 ;
 Monsters/Monster_banno
 Anon
@@ -111,7 +114,7 @@ abloZi
 DyaADya
 Uncle Barry
 Banikancir
-Sr. Sirigue
+Sr. Siri
 ;
 Monsters/Monster_dulsylvan
 Narigo
@@ -124,8 +127,7 @@ Leshiy
 Brakkit
 Pleshiy
 Humoknga
-Ygona
-Woody
+Wudy
 Divje
 Leshie
 ;
@@ -136,19 +138,25 @@ Pandeco
 Arachive
 Sapnior
 Goldenage
+Paine
+Lesheld
+Cranky
 ;
 Monsters/Monster_banno_rare
-Tiao Sujera
+Bathratt
 Douv
 Osmya
+Bonete
+Bloo
+Aromar
+Limpo
+Washik
 Dial
 Zest
 Irisprin
 BratKlin
 ;
 Monsters/Monster_flootfly,Monsters/Monster_flootfly_young
-Grenaflut
-I. M. Green
 Droso
 Fauxrrister
 Flaut
@@ -159,6 +167,10 @@ Piccoco
 Siku
 Syrinx
 Zampona
+Grenaflut
+I. M. Green
+Droso
+Pantoot
 ;
 Monsters/Monster_frondley,Monsters/Monster_frondley_young
 Areckal
@@ -169,6 +181,9 @@ Kentia
 Mazari
 Polleni
 Sago
+Kelpmo
+Uhum
+Shye
 ;
 Monsters/Monster_tweedle,Monsters/Monster_tweedle_young
 Amelia
@@ -237,6 +252,7 @@ Irving
 Mortimer
 Ottotuna
 Tallulah
+Tuna
 ;
 Monsters/Monster_phangler_rare
 Saulmon Gud
@@ -252,6 +268,7 @@ Sowlé
 Sunphysh
 ShymmyrSkayle
 Nee-Moh
+Holdfish
 ;
 Monsters/Monster_dandidoo,Monsters/Monster_dandidoo_young
 Bithron
@@ -270,6 +287,7 @@ Muffet
 Plutter
 Toity
 Zeebee
+Lastone
 ;
 Monsters/Monster_spunge,Monsters/Monster_spunge_young
 Bronte
@@ -344,7 +362,7 @@ Sapps
 Shoob
 Sloar
 Timbre
-Whitler
+Thrinkk
 ;
 Monsters/Monster_fwog_undof,Monsters/Monster_fwog
 Croak
@@ -382,6 +400,8 @@ Brikfut
 Jaboba
 Jopa
 Tyrone
+SAPECA
+Sapo.
 ;
 Monsters/Monster_bridgit,Monsters/Monster_bridgit_young
 Grendelle
@@ -440,13 +460,14 @@ Svestoplas
 Monsters/Monster_pongping,Monsters/Monster_pongping_meduza,Monsters/Monster_pongping_young
 Caac
 Biden
-Tyson
 PingPong
+Tyson
 Evunn
-Slappy
+Flicky
 Henry
 Iccupler
 Jambon
+Johnson
 Loukus
 Miko
 Mulmun
@@ -466,7 +487,6 @@ Thundorb
 Tronic
 Xobbuw
 Sophie
-Strawberry
 Wubwitch
 ;
 Monsters/Monster_glaishur
@@ -523,6 +543,7 @@ Mith & Fabyl
 Quaddhorn
 Snorpodon
 Nash & Hiers
+They & Them
 ;
 Monsters/Monster_tiawa
 Kweeny
@@ -548,6 +569,7 @@ Medulla
 Nerron
 Nurv
 Seenapps
+Greymann
 ;
 Monsters/Monster_fluoress,Monsters/Monster_fluoress_young
 Eclipse
@@ -563,6 +585,7 @@ Sparktrum
 UltraVyolet
 Xylotone
 Luma
+Luzz
 ;
 Monsters/Monster_denchuhs
 Eee & Nahmel
@@ -679,6 +702,7 @@ Lashmer
 Nunatak
 Rex
 Serine
+Wormaggot
 ;
 Monsters/Monster_schmoochle
 Amamini
@@ -697,6 +721,7 @@ Snuglekis
 Sweetums
 Uandme
 Eksowe
+Luvbirb
 ;
 Monsters/Monster_punkleton
 Bonesy
@@ -863,6 +888,16 @@ Sledge
 Glowchet
 Luminessa
 Sabrilla
+Sparklez
+Glare
+Longness
+Pixlyte
+Arrgebe
+Chorma
+Colora
+Whill
+Triad
+Tone
 ;
 Monsters/Monster_bone
 Helix
@@ -872,6 +907,14 @@ Carapals
 Clavycohl
 Siternum
 Spine
+Humeru
+Tibia
+Tiff
+Maxie
+Nasa
+Skullium
+Cran
+Radio
 ;
 Monsters/Monster_psychic
 Cosmo
@@ -880,7 +923,14 @@ Oteremen
 Mindmind
 Levi
 Floaterra
+Thinker
 Munocculo
+Newthron
+ThinkThank
+Cerebro
+Sight
+Footoore
+Kwestion
 ;
 Monsters/Monster_faerie
 Cappaspell
@@ -891,6 +941,9 @@ Bumdoor
 Drago
 Severess
 Dobby
+Emma
+Alan
+Lorde
 ;
 Monsters/Monster_pummel,Monsters/Monster_pummel_meduza
 Boomer
@@ -915,6 +968,11 @@ Nife
 Nozhik
 Veebrafon
 Doughter
+Sosueet
+Sunekit
+Glaze
+Yumeow
+Purr
 ;
 Monsters/Monster_gumtromp
 Gomma
@@ -923,6 +981,8 @@ Masc
 Aftaste
 Gummy
 Sharmalade
+Marm
+Quishy
 ;
 Monsters/Monster_gumtromp_rare
 Gumnot
@@ -1569,3 +1629,31 @@ Grump
 Monsters/Monster_potbellyGM
 Parappa
 Pearl
+;
+Monsters/Monster_cybop
+Cybog
+Eternia
+He-Mon
+Hewk
+Spade
+Swayskull
+Trappjaw
+Underbight
+Ziplyne
+;
+Monsters/Monster_knurv
+Babbow
+Bodak
+Butzee
+Connatruna
+Cucuy
+Gogaul
+Gryylo
+Ijiraq
+Kakushi
+Kkullas
+Maslukha
+Mörkö
+Saronko
+Shaytan
+;
