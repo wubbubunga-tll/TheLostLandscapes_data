@@ -253,6 +253,11 @@ Mortimer
 Ottotuna
 Tallulah
 Tuna
+Mako
+Naynay
+Naile
+Chipp
+Gillberto
 ;
 Monsters/Monster_phangler_rare
 Saulmon Gud
