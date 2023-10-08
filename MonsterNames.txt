@@ -396,6 +396,15 @@ Glomp
 Mwump
 DirtMaulch
 Dipstop
+Maitipehw
+SprouTu
+Claude
+Subrut
+Rojoja
+Composter
+Heaap
+Bigsterr
+Mulshy
 ;
 Monsters/Monster_percFrog
 PercFrog
