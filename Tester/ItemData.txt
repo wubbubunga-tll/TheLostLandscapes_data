@@ -12,7 +12,7 @@ Island_EM: 30 65
 Flower_red 10 flowers
 Flower_yellow 10 flowers
 Flower_blue 15 flowers
-Cattail_water 50 water Cattail
+Cattail_water 20 water Cattail
 Log_water 15 water,water_log Log
 Log 20 ground
 Mushroom_1 30 ground
