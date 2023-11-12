@@ -29,6 +29,7 @@ Relic
 Goldenegg
 Jewel
 Dew
+Catfur
 ITM_amberstick
 ITM_flowerjam
 ITM_buttergum

@@ -3,10 +3,9 @@ EM 0
 Candy 4
 Knottshurr 10
 Desert 15
-Meduza 20
+Meduza 20 Incomplete
 Calamity 20
 Organs 20
-GM 20
-TI 0
+GM 20 Incomplete
+TI 0 Incomplete
 dream 0
-EgyptPipes 0
