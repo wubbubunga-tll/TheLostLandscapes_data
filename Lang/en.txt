@@ -1083,6 +1083,7 @@ btn_settings=Settings
 btn_craft=Craft
 btn_mash=Mash
 btn_minigames=Minigames
+btn_activate=Activate
 
 goal_breed_buy=Buy and place a <color="green"><entityName>
 goal_breed_an=Breed and place an <color="green"><entityName>

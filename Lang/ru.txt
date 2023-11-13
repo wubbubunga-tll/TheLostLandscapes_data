@@ -2298,6 +2298,8 @@ btn_designerMode=Режим дизайнера
 btn_goals=Задания
 btn_collectAll=Собрать всё
 
+btn_activate=Активировать
+
 
 (((Магазин)))
 btn_buy=Купить
