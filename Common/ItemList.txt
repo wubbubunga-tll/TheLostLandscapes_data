@@ -30,6 +30,7 @@ Goldenegg
 Jewel
 Dew
 Catfur
+Butterfly
 ITM_amberstick
 ITM_flowerjam
 ITM_buttergum
