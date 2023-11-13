@@ -959,6 +959,7 @@ str_popup_notEnough=Você não tem <color=green>Itens</color> o suficiente.
 str_popup_unlock=Você descobriu:\n<name>
 str_popup_masherNoItemsSelected=Você tem que selecionar itens para esmagar! Se você não tem nenhum, tente coletar alguns, ou faça os seus próprios!
 
+str_popup_mapIsalndNotFinished=Essa ilha ainda está em desenvolvimento! Após ela ser finalizada todo o seu progresso será apagado! (Jogue ao seu próprio risco)
 
 btn_upgrade=Melhorar
 btn_view=Ver
