@@ -806,277 +806,277 @@ Monsters/Monster_mushaboom_bio=Данные отсутствуют. Приход
 Monsters/Monster_mushaboom_rare=Редкий Мушабум
 Monsters/Monster_mushaboom_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mushaboom_young=Юный Мушабум
-Monsters/Monster_mushaboom_young_bio=А
+Monsters/Monster_mushaboom_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gloptic=Клейкоглаз
-Monsters/Monster_gloptic_bio=Псионикатётя
+Monsters/Monster_gloptic_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gloptic_rare=Редкий Клейкоглаз
-Monsters/Monster_gloptic_rare_bio=А
+Monsters/Monster_gloptic_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gloptic_young=Юный Клейкоглаз
-Monsters/Monster_gloptic_young_bio=А
+Monsters/Monster_gloptic_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blowt=Дуйт
-Monsters/Monster_blowt_bio=Светётя
+Monsters/Monster_blowt_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blowt_rare=Редкий Дуйт
-Monsters/Monster_blowt_rare_bio=А
+Monsters/Monster_blowt_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blowt_young=Юный Дуйт
-Monsters/Monster_blowt_young_bio=А
+Monsters/Monster_blowt_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_plinkajou=Трынькажу
-Monsters/Monster_plinkajou_bio=Коститётя
+Monsters/Monster_plinkajou_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_plinkajou_rare=Редкий Трынькажу
-Monsters/Monster_plinkajou_rare_bio=А
+Monsters/Monster_plinkajou_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_plinkajou_young=Юный Трынькажу
-Monsters/Monster_plinkajou_young_bio=А
+Monsters/Monster_plinkajou_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_stoopa=Ступа
 Monsters/Monster_stoopa_bio=Не так уж и много известно о таинственном болоте глубоко в чаще Вечнозелёного леса, но легенды говорят о странном монстре, который наблюдает за местными обитателями и делает их песнь лучше. И наверное ты знаешь о ком идёт речь... Конечно же это Ступа! Она ещё больший эксперт по переработке ненужных материалов, чем Конгушка, она находит в природе всё, что угодно, чтобы сделать музыку, но иногда она делает некоторые исключения из своего правила, основанного на природе, что доказано этими... кастрюлями и сковородками на её ступе? Забавно что она назвала своё "средство передвижения" в честь себя. Или же наоборот? До сих пор не так много известно об этом монстре, да и сама Ступа предпочитает сохранять свою жизнь в секрете, также умело, орудуя своим странным посохом она охраняет и секреты Болота.
 Monsters/Monster_stoopa_rare=Редкая Ступа
-Monsters/Monster_stoopa_rare_bio=Бабушка ПомПом
+Monsters/Monster_stoopa_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pladdie=Пледень
-Monsters/Monster_pladdie_bio=Феятётя
+Monsters/Monster_pladdie_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pladdie_rare=Редкий Пледень
-Monsters/Monster_pladdie_rare_bio=А
+Monsters/Monster_pladdie_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pladdie_young=Юный Пледень
-Monsters/Monster_pladdie_young_bio=А
+Monsters/Monster_pladdie_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_enchatling=Чародейчик
-Monsters/Monster_enchatling_bio=Тётя Зина
+Monsters/Monster_enchatling_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_enchatling_rare=Редкий
-Monsters/Monster_enchatling_rare_bio=А
+Monsters/Monster_enchatling_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_enchatling_young=Юный
-Monsters/Monster_enchatling_young_bio=А
+Monsters/Monster_enchatling_young_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Эфирные)))
 
 
 Monsters/Monster_ghazt=Вужас
-Monsters/Monster_ghazt_bio=Кат
+Monsters/Monster_ghazt_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ghazt_rare=Редкий Вужас
-Monsters/Monster_ghazt_rare_bio=А
+Monsters/Monster_ghazt_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ghazt_young=Юный Вужас
-Monsters/Monster_ghazt_young_bio=А
+Monsters/Monster_ghazt_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ghazt_undof=<ref>Monsters/Monster_ghazt
 Monsters/Monster_ghazt_undof_bio=Невероятный Вужас показывается только при идеальном стечении обстоятельств. Его гибкое тело, наполненное эфирной энергией плазмы, и умение становиться неосязаемым позволяют ему с лёгкостью скрывать своё присутствие. Однако по этим же причинам он периодически против воли перемещается между измерениями. Вужас любит играть с другими монстрами, но скрещиваться может только с монстрами своего класса.
 Monsters/Monster_ghazt_rare_undof=<ref>Monsters/Monster_ghazt_rare
 Monsters/Monster_ghazt_rare_undof_bio=Пытаться поймать вужаса – всё равно что ловить руками дым. А пытаться заполучить редкого вужаса – это как пытаться поймать руками какой-то определённый клуб дыма, проплывающий мимо после дождичка в четверг… ещё и с завязанными глазами. Этот кентавроподобный "редкоэфирный" монстр – жемчужина любой коллекции монстров.
 
 Monsters/Monster_grumpyre=Сварливир
-Monsters/Monster_grumpyre_bio=Грампайроманьяк
+Monsters/Monster_grumpyre_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_grumpyre_rare=Редкий Сварливир
-Monsters/Monster_grumpyre_rare_bio=А
+Monsters/Monster_grumpyre_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_grumpyre_young=Юный Сварливир
-Monsters/Monster_grumpyre_young_bio=А
+Monsters/Monster_grumpyre_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_reebro=Церебро
-Monsters/Monster_reebro_bio=пердящий мозг
+Monsters/Monster_reebro_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_reebro_rare=Редкий Церебро
-Monsters/Monster_reebro_rare_bio=А
+Monsters/Monster_reebro_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_reebro_young=Юный Церебро
-Monsters/Monster_reebro_young_bio=А
+Monsters/Monster_reebro_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_jeeode=Геода
-Monsters/Monster_jeeode_bio=Жииии ода
+Monsters/Monster_jeeode_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jeeode_rare=Редкая Геода
-Monsters/Monster_jeeode_rare_bio=А
+Monsters/Monster_jeeode_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jeeode_young=Юная еода
-Monsters/Monster_jeeode_young_bio=А
+Monsters/Monster_jeeode_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_humbug=Жужжук
-Monsters/Monster_humbug_bio=Жужик
+Monsters/Monster_humbug_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_humbug_rare=Редкий Жужжук
-Monsters/Monster_humbug_rare_bio=А
+Monsters/Monster_humbug_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_humbug_young=Юный Жужжук
-Monsters/Monster_humbug_young_bio=А
+Monsters/Monster_humbug_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_whisp=Шёпа
-Monsters/Monster_whisp_bio=Жёпа
+Monsters/Monster_whisp_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whisp_rare=Редкая Шёпа
-Monsters/Monster_whisp_rare_bio=А
+Monsters/Monster_whisp_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whisp_young=Юная Шёпа
-Monsters/Monster_whisp_young_bio=А
+Monsters/Monster_whisp_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_nebulob=Небулоб
-Monsters/Monster_nebulob_bio=Небо и лоб
+Monsters/Monster_nebulob_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_nebulob_rare=Редкий Небулоб
-Monsters/Monster_nebulob_rare_bio=А
+Monsters/Monster_nebulob_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_nebulob_young=Юный Небулоб
-Monsters/Monster_nebulob_young_bio=А
+Monsters/Monster_nebulob_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sox=Лисакс
-Monsters/Monster_sox_bio=А
+Monsters/Monster_sox_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sox_rare=Редкий Лисакс
-Monsters/Monster_sox_rare_bio=А
+Monsters/Monster_sox_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sox_young=Юный Лисакс
-Monsters/Monster_sox_young_bio=А
+Monsters/Monster_sox_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sox_meduza=<ref>Monsters/Monster_sox
-Monsters/Monster_sox_meduza_bio=А
+Monsters/Monster_sox_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_jellbilly=Гордуза
-Monsters/Monster_jellbilly_bio=Гордая дуза
+Monsters/Monster_jellbilly_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jellbilly_rare=Редкая Гордуза
-Monsters/Monster_jellbilly_rare_bio=А
+Monsters/Monster_jellbilly_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jellbilly_young=Юная Гордуза
-Monsters/Monster_jellbilly_young_bio=А
+Monsters/Monster_jellbilly_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_arackulele=Паукулеле
-Monsters/Monster_arackulele_bio=Пукулеле Био
-Monsters/Monster_arackulele_rare=Редкое Паукулеле
-Monsters/Monster_arackulele_rare_bio=А
-Monsters/Monster_arackulele_young=Юное Паукулеле
-Monsters/Monster_arackulele_young_bio=А
+Monsters/Monster_arackulele_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_arackulele_rare=Редкий Паукулеле
+Monsters/Monster_arackulele_rare_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_arackulele_young=Юный Паукулеле
+Monsters/Monster_arackulele_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_boodoo=БууДу
-Monsters/Monster_boodoo_bio=Не буду
+Monsters/Monster_boodoo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_boodoo_rare=Редкий БууДу
-Monsters/Monster_boodoo_rare_bio=А
+Monsters/Monster_boodoo_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_boodoo_young=Юный БууДу
-Monsters/Monster_boodoo_young_bio=А
+Monsters/Monster_boodoo_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_kazilleon=Хамиллион
-Monsters/Monster_kazilleon_bio=Миллион ха ха ха ха ха ха ха ха ха ха
+Monsters/Monster_kazilleon_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kazilleon_rare=Редкий Хамиллион
-Monsters/Monster_kazilleon_rare_bio=А
+Monsters/Monster_kazilleon_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kazilleon_young=Юный Хамиллион
-Monsters/Monster_kazilleon_young_bio=А
+Monsters/Monster_kazilleon_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bellowfish=Волбрюхий
-Monsters/Monster_bellowfish_bio=Брюхо Вола
+Monsters/Monster_bellowfish_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bellowfish_rare=Редкий Волбрюхий
-Monsters/Monster_bellowfish_rare_bio=А
+Monsters/Monster_bellowfish_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bellowfish_young=Юный Волбрюхий
-Monsters/Monster_bellowfish_young_bio=А
+Monsters/Monster_bellowfish_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dragong=Драконг
-Monsters/Monster_dragong_bio=Драка Конга
+Monsters/Monster_dragong_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dragong_rare=Редкий Драконг
-Monsters/Monster_dragong_rare_bio=А
+Monsters/Monster_dragong_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dragong_young=Юный Драконг
-Monsters/Monster_dragong_young_bio=А
+Monsters/Monster_dragong_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_fungpray=Грибомол
-Monsters/Monster_fungpray_bio=Мол, Гриб
+Monsters/Monster_fungpray_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fungpray_rare=Редкий Грибомол
-Monsters/Monster_fungpray_rare_bio=А
+Monsters/Monster_fungpray_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fungpray_young=Юный Грибомол
-Monsters/Monster_fungpray_young_bio=А
+Monsters/Monster_fungpray_young_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Сезонные)))
 
 
 Monsters/Monster_punkleton=Скелетыква
-Monsters/Monster_punkleton_bio=Скелепуква Био
+Monsters/Monster_punkleton_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_punkleton_rare=Редкая Скелетыква
-Monsters/Monster_punkleton_rare_bio=А
+Monsters/Monster_punkleton_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_punkleton_young=Юная Скелетыква
-Monsters/Monster_punkleton_young_bio=А
+Monsters/Monster_punkleton_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_yool=Йоле
-Monsters/Monster_yool_bio=Нового года не будет
+Monsters/Monster_yool_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yool_rare=Редкий Йоле
-Monsters/Monster_yool_rare_bio=А
+Monsters/Monster_yool_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yool_young=Юный Йоле
-Monsters/Monster_yool_young_bio=А
+Monsters/Monster_yool_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_schmoochle=Поцелщик
-Monsters/Monster_schmoochle_bio=Поцелщик био
+Monsters/Monster_schmoochle_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_schmoochle_rare=Редкий Поцелщик
-Monsters/Monster_schmoochle_rare_bio=А
+Monsters/Monster_schmoochle_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_schmoochle_young=Юный Поцелщик
-Monsters/Monster_schmoochle_young_bio=А
+Monsters/Monster_schmoochle_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blabbit=Пузаяц
-Monsters/Monster_blabbit_bio=Вышел заяц на крыльцо
+Monsters/Monster_blabbit_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blabbit_rare=Редкий Пузаяц
-Monsters/Monster_blabbit_rare_bio=А
+Monsters/Monster_blabbit_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blabbit_young=Юный Пузаяц
-Monsters/Monster_blabbit_young_bio=А
+Monsters/Monster_blabbit_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_hoola=Хула
-Monsters/Monster_hoola_bio=Жёлтая ПомПом
+Monsters/Monster_hoola_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hoola_rare=Редкая Хула 
-Monsters/Monster_hoola_rare_bio=А
+Monsters/Monster_hoola_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hoola_young=Юная Хула
-Monsters/Monster_hoola_young_bio=А
+Monsters/Monster_hoola_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gobbleygourd=Кулдыкалабас
-Monsters/Monster_gobbleygourd_bio=Индейка
+Monsters/Monster_gobbleygourd_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gobbleygourd_rare=Редкий Кулдыкалабас
-Monsters/Monster_gobbleygourd_rare_bio=А
+Monsters/Monster_gobbleygourd_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gobbleygourd_young=Юный Кулдыкалабас
-Monsters/Monster_gobbleygourd_young_bio=А
+Monsters/Monster_gobbleygourd_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_clavavera=Клававера
-Monsters/Monster_clavavera_bio=Кал Вера
+Monsters/Monster_clavavera_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clavavera_rare=Редкая Клававера
-Monsters/Monster_clavavera_rare_bio=А
+Monsters/Monster_clavavera_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clavavera_young=Юная Клававера
-Monsters/Monster_clavavera_young_bio=А
+Monsters/Monster_clavavera_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_viveine=Живербена
-Monsters/Monster_viveine_bio=Хоть бы не на янтаре
+Monsters/Monster_viveine_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_viveine_rare=Редкая Живербена
-Monsters/Monster_viveine_rare_bio=А
+Monsters/Monster_viveine_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_viveine_young=Юная Живербена
-Monsters/Monster_viveine_young_bio=А
+Monsters/Monster_viveine_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_jamboree=Празднень
-Monsters/Monster_jamboree_bio=С днём рождения!
+Monsters/Monster_jamboree_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_rare=Редкий Празднень
-Monsters/Monster_jamboree_rare_bio=А
+Monsters/Monster_jamboree_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_young=Юный Празднень
-Monsters/Monster_jamboree_young_bio=А
+Monsters/Monster_jamboree_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_undof=<ref>Monsters/Monster_jamboree
-Monsters/Monster_jamboree_undof_bio=Пока не знаю
+Monsters/Monster_jamboree_undof_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_rare_undof=<ref>Monsters/Monster_jamboree_rare
 Monsters/Monster_jamboree_rare_undof_bio=Целых десять лет прошло.\nВ оркестр чудаков\nМного новых лиц ввлекло\nДесять Монстровских веков.\n\nВ далёком измерении одном,\nМонстрики, звеня,\nВстречают нового их гостя - \nРедкого Праздня!\n\nРимонной свечкою-крестом\nИ глазурью шоколадной\nСверкает он хоть ясным днём,\nХоть в туман обетованный.\n\nЯрким пламенем горит\nКорона из свечей,\nИ праздник монстрам предстоит\nТысячу ночей.
 
 Monsters/Monster_carillong=Карильонг
-Monsters/Monster_carillong_bio=Фут
+Monsters/Monster_carillong_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_carillong_rare=Редкий Карильонг
-Monsters/Monster_carillong_rare_bio=А
+Monsters/Monster_carillong_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_carillong_young=Юный Карильонг
-Monsters/Monster_carillong_young_bio=А
+Monsters/Monster_carillong_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_carillong_meduza=<ref>Monsters/Monster_carillong
-Monsters/Monster_carillong_meduza_bio=А
+Monsters/Monster_carillong_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_whizbang=Вжух-бум
-Monsters/Monster_whizbang_bio=Г
+Monsters/Monster_whizbang_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whizbang_rare=Редкий Вжух-бум
-Monsters/Monster_whizbang_rare_bio=А
+Monsters/Monster_whizbang_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whizbang_young=Юный Вжух-бум
-Monsters/Monster_whizbang_young_bio=А
+Monsters/Monster_whizbang_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_monculus=Гомонкул
-Monsters/Monster_monculus_bio=Рукастый чел
+Monsters/Monster_monculus_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_monculus_rare=Редкий Гомонкул
-Monsters/Monster_monculus_rare_bio=А
+Monsters/Monster_monculus_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_monculus_young=Юный Гомонкул
-Monsters/Monster_monculus_young_bio=А
+Monsters/Monster_monculus_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_ffydill=Склеверипка
-Monsters/Monster_ffydill_bio=Склевепипка био
+Monsters/Monster_ffydill_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ffydill_rare=Редкая Склеверипка 
-Monsters/Monster_ffydill_rare_bio=А
+Monsters/Monster_ffydill_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ffydill_young=Юная Склеверипка
-Monsters/Monster_ffydill_young_bio=А
+Monsters/Monster_ffydill_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_booqwurm=Червнига
-Monsters/Monster_booqwurm_bio=Нёрд
+Monsters/Monster_booqwurm_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_booqwurm_rare=Редкая Червнига
-Monsters/Monster_booqwurm_rare_bio=А
+Monsters/Monster_booqwurm_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_booqwurm_young=Юная Червнига
-Monsters/Monster_booqwurm_young_bio=А
+Monsters/Monster_booqwurm_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_spurrit=Духов
 Monsters/Monster_spurrit_bio=Хузза? ХУЗЗААА! Этот увлечённый исследователь, который теперь находится ещё дальше от дома, чем когда-либо, счастлив исследовать этот загадочный и яркий мир.
 Monsters/Monster_spurrit_rare=Редкий Духов
-Monsters/Monster_spurrit_rare_bio=А
+Monsters/Monster_spurrit_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_spurrit_young=Юный Духов
-Monsters/Monster_spurrit_young_bio=А
+Monsters/Monster_spurrit_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_spurrit_desert=<ref>Monsters/Monster_spurrit
 Monsters/Monster_spurrit_desert_bio=Хузза? Хузз-ААААХ! Этот увлечённый исследователь, очарованный древними руинами, похоже, столкнулся с некоторыми проблемами... А скорее ЧИРИКблемами. Бедный монстр всегда не успевает и звука издать, как теряется, услышав громкий крик маленького птенца одного из Пустырвятников, сидящего под его шляпой. Неожиданный гость вылупился из золотого яйца, которое Спуррит спутал с древней реликвией этого таинственного места. Все благоприятные условия под шляпой дали о себе знать.
 
@@ -1085,112 +1085,112 @@ Monsters/Monster_spurrit_desert_bio=Хузза? Хузз-ААААХ! Этот у
 
 
 Monsters/Monster_gjoob=Гу-Джуб
-Monsters/Monster_gjoob_bio=Гуд жоп
+Monsters/Monster_gjoob_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gjoob_rare=Редкий Гу-Джуб
-Monsters/Monster_gjoob_rare_bio=А
+Monsters/Monster_gjoob_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gjoob_young=Юный Гу-Джуб
-Monsters/Monster_gjoob_young_bio=А
+Monsters/Monster_gjoob_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_strombonin=Стромбонин
-Monsters/Monster_strombonin_bio=Стромбон
+Monsters/Monster_strombonin_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_strombonin_rare=Редкий Стромбонин
-Monsters/Monster_strombonin_rare_bio=А
+Monsters/Monster_strombonin_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_strombonin_young=Юный Стромбонин
-Monsters/Monster_strombonin_young_bio=А
+Monsters/Monster_strombonin_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_yawstrich=Стравок
-Monsters/Monster_yawstrich_bio=Остравок
+Monsters/Monster_yawstrich_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yawstrich_rare=Редкий Стравок
-Monsters/Monster_yawstrich_rare_bio=А
+Monsters/Monster_yawstrich_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yawstrich_young=Юный Стравок
-Monsters/Monster_yawstrich_young_bio=А
+Monsters/Monster_yawstrich_young_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_anglow=Водяной Мифик
-Monsters/Monster_anglow_bio=Не вышел
+Monsters/Monster_anglow=Светильщик
+Monsters/Monster_anglow_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_anglow_rare=Редкий Водяной Мифик
-Monsters/Monster_anglow_rare_bio=А
+Monsters/Monster_anglow_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_anglow_young=Юный Водяной Мифик
-Monsters/Monster_anglow_young_bio=А
+Monsters/Monster_anglow_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_hyehehe=Гиехехе
-Monsters/Monster_hyehehe_bio=Вышел
+Monsters/Monster_hyehehe_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hyehehe_rare=Редкий Гиехехе
-Monsters/Monster_hyehehe_rare_bio=А
+Monsters/Monster_hyehehe_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hyehehe_young=Юный Гиехехе
-Monsters/Monster_hyehehe_young_bio=А
+Monsters/Monster_hyehehe_young_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_heavenmythical=Убежище Мифик
-Monsters/Monster_heavenmythical_bio=Не вышел
-Monsters/Monster_heavenmythical_rare=Редкий Убежище Мифик
-Monsters/Monster_heavenmythical_rare_bio=А
-Monsters/Monster_heavenmythical_young=Юный Убежище Мифик
-Monsters/Monster_heavenmythical_young_bio=А
+Monsters/Monster_buzzinga=Бузчела
+Monsters/Monster_buzzinga_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_buzzinga_rare=Редкая Бузчела
+Monsters/Monster_buzzinga_rare_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_buzzinga_young=Юная Бузчела
+Monsters/Monster_buzzinga_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cherubble=Херузырь
-Monsters/Monster_cherubble_bio=Хррррр... Хр.... 
+Monsters/Monster_cherubble_bio=Данные отсутствуют. Приходите позже. 
 Monsters/Monster_cherubble_rare=Редкий Херузырь
-Monsters/Monster_cherubble_rare_bio=А
+Monsters/Monster_cherubble_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cherubble_young=Юный Херузырь
-Monsters/Monster_cherubble_young_bio=А
+Monsters/Monster_cherubble_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_knife=Банти
-Monsters/Monster_knife_bio=Моти 
+Monsters/Monster_knife_bio=Данные отсутствуют. Приходите позже. 
 Monsters/Monster_knife_rare=Редкий Ножик
-Monsters/Monster_knife_rare_bio=А
+Monsters/Monster_knife_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_catalizst=Котолизатор
-Monsters/Monster_catalizst_bio=Чеширский кот
+Monsters/Monster_catalizst_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_catalizst_rare=Редкий Котолизатор
-Monsters/Monster_catalizst_rare_bio=А
+Monsters/Monster_catalizst_rare_bio=м
 
 Monsters/Monster_bleatnik=Блеяник
-Monsters/Monster_bleatnik_bio=Рав Зебра иногда би лайк
+Monsters/Monster_bleatnik_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bleatnik_rare=Редкий Блеяник
-Monsters/Monster_bleatnik_rare_bio=А
+Monsters/Monster_bleatnik_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cranchee=Кальприз
-Monsters/Monster_cranchee_bio=Скальприз
+Monsters/Monster_cranchee_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cranchee_rare=Редкий Кальприз
-Monsters/Monster_cranchee_rare_bio=А
+Monsters/Monster_cranchee_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sporerow=Споробей
-Monsters/Monster_sporerow_bio=Бей споры
+Monsters/Monster_sporerow_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sporerow_rare=Редкий Споробей
-Monsters/Monster_sporerow_rare_bio=А
+Monsters/Monster_sporerow_rare_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_pinghound=Булькарп
-Monsters/Monster_pinghound_bio=А
-Monsters/Monster_pinghound_rare=Редкий Булькарп
-Monsters/Monster_pinghound_rare_bio=А
+Monsters/Monster_pinghound=Звончая
+Monsters/Monster_pinghound_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_pinghound_rare=Редкая Звончая
+Monsters/Monster_pinghound_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_wheezel=Плеваска
-Monsters/Monster_wheezel_bio=Вышел
+Monsters/Monster_wheezel_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wheezel_rare=Редкая Плеваска
-Monsters/Monster_wheezel_rare_bio=А
+Monsters/Monster_wheezel_rare_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_heavendreamythical=Снифик Убежища
-Monsters/Monster_heavendreamythical_bio=Не вышел
-Monsters/Monster_heavendreamythical_rare=Редкий Снифик Убежища
-Monsters/Monster_heavendreamythical_rare_bio=А
+Monsters/Monster_knurv=Нервидун
+Monsters/Monster_knurv_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_knurv_rare=Редкий Нервидун
+Monsters/Monster_knurv_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_shlep=Мотывял
-Monsters/Monster_shlep_bio=шЛёпа
+Monsters/Monster_shlep_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shlep_rare=Редкий Мотывял
-Monsters/Monster_shlep_rare_bio=А
+Monsters/Monster_shlep_rare_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_knifedreamyth=Ерназар
-Monsters/Monster_knifedreamyth_bio=Булыжник 
-Monsters/Monster_knifedreamyth_rare=Редкий Ерназар
-Monsters/Monster_knifedreamyth_rare_bio=А
+Monsters/Monster_knifedreamyth=Данные отсутствуют. Приходите позже.
+Monsters/Monster_knifedreamyth_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_knifedreamyth_rare=Данные отсутствуют. Приходите позже.
+Monsters/Monster_knifedreamyth_rare_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Сверхъестетсвенные)))
 
 
 Monsters/Monster_wubbox=Коробас
-Monsters/Monster_wubbox_bio=Коробапсина 
+Monsters/Monster_wubbox_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wubbox_awake=<ref>Monsters/Monster_wubbox
-Monsters/Monster_wubbox_awake_bio=А
+Monsters/Monster_wubbox_awake_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wubbox_undof=<ref>Monsters/Monster_wubbox
 Monsters/Monster_wubbox_undof_bio=В один прекрасный день, когда Монстры прокладывали под землёй туннель, они наткнулись на огромное подземной хранилище, в котором они обнаружили несколько таинственных "Коробасов". Очень мало известно об их происхождении и назначении, но кое-что удалось понять из наблюдений за ними.\nАнализ образцов с поверхности коробок показал, что у них есть общие генетические признаки с каждым известным видом Монстров - и даже внутри есть особые отделения, использующие неизвестную доселе технологию сжатия объектов. Коробка также источает Элементальную энергию, незнакомую обитателям поверхности, - открытие, по меньшей мере, из ряда вон выходящее.
 Monsters/Monster_wubbox_undof_awake=<ref>Monsters/Monster_wubbox
@@ -1201,89 +1201,89 @@ Monsters/Monster_wubbox_rare_undof_awake=Редкий <ref>Monsters/Monster_wubb
 Monsters/Monster_wubbox_rare_undof_awake_bio=По легенде этот Монстр так жаждал узнать, что представляет из себя Мир Людей, что отправился в путешествие через Мультивселенную. Теперь-то мы знаем, что Коробасу в поисках своей цели пришлось пересечь не только пространство, но и время! Вернувшись домой, он стал расхваливать всем революционные достижения музыкальной мысли - проигрыватели, клавиатуры и вокодеры. Используя свои инженерские навыки, Коробас встроил части открытых им технологий в самого себя, чем навсегда изменил и свой облик, и свою песнь - так завершилось его превращение в Редкого Коробаса.
 
 Monsters/Monster_brump=Брамп
-Monsters/Monster_brump_bio=Поедатель Зерномехов
+Monsters/Monster_brump_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_brump_awake=<ref>Monsters/Monster_brump
-Monsters/Monster_brump_awake_bio=А
+Monsters/Monster_brump_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_zynth=Зинт
-Monsters/Monster_zynth_bio=Светлячок
+Monsters/Monster_zynth_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_zynth_awake=<ref>Monsters/Monster_zynth
-Monsters/Monster_zynth_awake_bio=А
+Monsters/Monster_zynth_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_poewk=Повек
-Monsters/Monster_poewk_bio=Чума
+Monsters/Monster_poewk_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_poewk_awake=<ref>Monsters/Monster_poewk
-Monsters/Monster_poewk_awake_bio=А
+Monsters/Monster_poewk_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_thwok=Твок
-Monsters/Monster_thwok_bio=Длинноязычный
+Monsters/Monster_thwok_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thwok_awake=<ref>Monsters/Monster_thwok
-Monsters/Monster_thwok_awake_bio=А
+Monsters/Monster_thwok_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dwumrohl=Двамрол
-Monsters/Monster_dwumrohl_bio=Сова-многоручка
+Monsters/Monster_dwumrohl_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dwumrohl_awake=<ref>Monsters/Monster_dwumrohl
-Monsters/Monster_dwumrohl_awake_bio=А
+Monsters/Monster_dwumrohl_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_zuuker=Зукаер
-Monsters/Monster_zuuker_bio=ПВЗ 2 тёмные века
+Monsters/Monster_zuuker_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_zuuker_awake=<ref>Monsters/Monster_zuuker
-Monsters/Monster_zuuker_awake_bio=А
+Monsters/Monster_zuuker_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_screemu=Визгэму
-Monsters/Monster_screemu_bio=Глухой
+Monsters/Monster_screemu_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_screemu_awake=<ref>Monsters/Monster_screemu
-Monsters/Monster_screemu_awake_bio=А
+Monsters/Monster_screemu_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_tympa=Литавр
-Monsters/Monster_tympa_bio=Гостимпа
+Monsters/Monster_tympa_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tympa_awake=<ref>Monsters/Monster_tympa
-Monsters/Monster_tympa_awake_bio=А
+Monsters/Monster_tympa_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dermit=Дермит
-Monsters/Monster_dermit_bio=Поганка
+Monsters/Monster_dermit_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dermit_awake=<ref>Monsters/Monster_dermit
-Monsters/Monster_dermit_awake_bio=А
+Monsters/Monster_dermit_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cheegur=Гигаер
-Monsters/Monster_cheegur_bio=Шрекотруб
+Monsters/Monster_cheegur_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cheegur_awake=<ref>Monsters/Monster_cheegur
-Monsters/Monster_cheegur_awake_bio=А
+Monsters/Monster_cheegur_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_wajje=Ваджа
-Monsters/Monster_wajje_bio=Ваджа
+Monsters/Monster_wajje_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wajje_awake=<ref>Monsters/Monster_wajje
-Monsters/Monster_wajje_awake_bio=А
+Monsters/Monster_wajje_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_creepuscule=Сумерок
-Monsters/Monster_creepuscule_bio=Страшила
+Monsters/Monster_creepuscule_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_creepuscule_awake=<ref>Monsters/Monster_creepuscule
-Monsters/Monster_creepuscule_awake_bio=А
+Monsters/Monster_creepuscule_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blipsqueak=Импульспрыг
-Monsters/Monster_blipsqueak_bio=Глаза, Уши, Нос, Пальцы
+Monsters/Monster_blipsqueak_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blipsqueak_awake=<ref>Monsters/Monster_blipsqueak
-Monsters/Monster_blipsqueak_awake_bio=А
+Monsters/Monster_blipsqueak_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_scargo=Литка
-Monsters/Monster_scargo_bio=У
+Monsters/Monster_scargo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_scargo_awake=<ref>Monsters/Monster_scargo
-Monsters/Monster_scargo_awake_bio=А
+Monsters/Monster_scargo_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_astropod=Астропода
-Monsters/Monster_astropod_bio=Стегобака-слизняк
+Monsters/Monster_astropod_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_astropod_awake=<ref>Monsters/Monster_astropod
-Monsters/Monster_astropod_awake_bio=А
+Monsters/Monster_astropod_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pixolotl=Пиксолотль
-Monsters/Monster_pixolotl_bio=А чё сразу шакал то?
+Monsters/Monster_pixolotl_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pixolotl_awake=<ref>Monsters/Monster_pixolotl
-Monsters/Monster_pixolotl_awake_bio=Писькалотль
+Monsters/Monster_pixolotl_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bonapetite=Приятного-Петита
-Monsters/Monster_bonapetite_bio=Спасибо
+Monsters/Monster_bonapetite_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bonapetite_awake=<ref>Monsters/Monster_bonapetite
-Monsters/Monster_bonapetite_awake_bio=А
+Monsters/Monster_bonapetite_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_maulch=Мульча
 Monsters/Monster_maulch_bio=Что же это? Это одна из тех древних статуй, пришедших к нам из Шторма нашла свой путь к вам! Пробудите её и освободите потерянную душу внутри...
@@ -1291,135 +1291,134 @@ Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Мульча, Монотонный Бормотун, возможно, не тот, кого вы ожидали увидеть, активируя каменную статую, но кто знает! Его Большой Папролист на голове требует обильного полива, и нигде не бывает дождя, лучше чем здесь, как он утвержает. Правда никто ни разу не видел здесь никакого дождя, но это не имеет значения... 
 
 Monsters/Monster_fleechwurm=Червеугодник
-Monsters/Monster_fleechwurm_bio=Угодный червь
+Monsters/Monster_fleechwurm_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fleechwurm_awake=<ref>Monsters/Monster_fleechwurm
-Monsters/Monster_fleechwurm_awake_bio=А
+Monsters/Monster_fleechwurm_awake_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fleechwurm_undof=<ref>Monsters/Monster_fleechwurm
 Monsters/Monster_fleechwurm_undof_bio=Неизвестный скульптор тщательно поработал над статуей этого Вублина, уделив внимание мельчайшим деталям. Осталось только вдохнуть в неё жизнь! Не помещай статую в инкубатор. Положи в неё яйца монстров, выведенный на других островах, и энергия Электричества пробудит этого Вублина.
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm
 Monsters/Monster_fleechwurm_undof_awake_bio=Некоторые монстры используют уникальную форму тела или свои особенности не только для музыки. Внутренняя полость Червеугодника хорошо резонирует, а ещё способна издавать свист, которым он гипнотизирует других Вублинов. Так он может заставить других делать за него скучную работу или ухаживать за его тонкими листоподобными лапками. Некоторые Вублины более устойчивы к этому эффекту и в шутливой форме предупреждают Червеугодника, что так поступать нехорошо.
 
 Monsters/Monster_meduza=Медузза Визгона
-Monsters/Monster_meduza_bio=А
+Monsters/Monster_meduza_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_meduza_awake=<ref>Monsters/Monster_meduza
-Monsters/Monster_meduza_awake_bio=А
-
+Monsters/Monster_meduza_awake_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Небожители)))
 
 
 Monsters/Monster_hornacle=Трубяпцы
-Monsters/Monster_hornacle_bio=А
+Monsters/Monster_hornacle_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hornacle_young=Юные Трубяпцы
-Monsters/Monster_hornacle_young_bio=А
+Monsters/Monster_hornacle_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hornacle_adult=Взрослые Трубяпцы
-Monsters/Monster_hornacle_adult_bio=А
+Monsters/Monster_hornacle_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_furnoss=Камелёг
-Monsters/Monster_furnoss_bio=А
+Monsters/Monster_furnoss_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_furnoss_young=Юный Камелёг
-Monsters/Monster_furnoss_young_bio=А
+Monsters/Monster_furnoss_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_furnoss_adult=Взрослый Камелёг
-Monsters/Monster_furnoss_adult_bio=А
+Monsters/Monster_furnoss_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_glaishur=Ледник
-Monsters/Monster_glaishur_bio=А
+Monsters/Monster_glaishur_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_glaishur_young=Юный Ледник
-Monsters/Monster_glaishur_young_bio=А
+Monsters/Monster_glaishur_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_glaishur_adult=Взрослый Ледник
-Monsters/Monster_glaishur_adult_bio=А
+Monsters/Monster_glaishur_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blasoom=Фагоцвести
-Monsters/Monster_blasoom_bio=А
+Monsters/Monster_blasoom_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blasoom_young=Юный Фагоцвести
-Monsters/Monster_blasoom_young_bio=А
+Monsters/Monster_blasoom_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blasoom_adult=Взрослый Фагоцвести
-Monsters/Monster_blasoom_adult_bio=А
+Monsters/Monster_blasoom_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_syncopite=Синкопит
-Monsters/Monster_syncopite_bio=А
+Monsters/Monster_syncopite_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_syncopite_young=Юный Синкопит
-Monsters/Monster_syncopite_young_bio=А
+Monsters/Monster_syncopite_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_syncopite_adult=Взрослый Синкопит
-Monsters/Monster_syncopite_adult_bio=А
+Monsters/Monster_syncopite_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_vhamp=Латальщик
-Monsters/Monster_vhamp_bio=А
+Monsters/Monster_vhamp_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_vhamp_young=Юный Латальщик
-Monsters/Monster_vhamp_young_bio=А
+Monsters/Monster_vhamp_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_vhamp_adult=Взрослый Латальщик
-Monsters/Monster_vhamp_adult_bio=А
+Monsters/Monster_vhamp_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_galvana=Гальвана
 Monsters/Monster_galvana_bio=Ежегодно небесный цикл повторяется заново, и последним монстром цикла является электрическая Гальвана. Могущественный и нетронутый, этот громоподобный небожитель руководит своим совершенным пантеоном, одновременно сочиняя сложные крещендо! Стало известно, что Гальвана даже обладает силой искры жизни в своей волшебной сфере. Она является популярным и очень почитаемым небожителем от Летучего Города до границ самых дальних миров...
 Monsters/Monster_galvana_young=Юная Гальвана
-Monsters/Monster_galvana_young_bio=А
+Monsters/Monster_galvana_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_galvana_adult=Взрослая Гальвана
-Monsters/Monster_galvana_adult_bio=А
+Monsters/Monster_galvana_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_scaratar=Скараситар
-Monsters/Monster_scaratar_bio=А
+Monsters/Monster_scaratar_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_scaratar_young=Юный Скараситар
-Monsters/Monster_scaratar_young_bio=А
+Monsters/Monster_scaratar_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_scaratar_adult=Взрослый Скараситар
-Monsters/Monster_scaratar_adult_bio=А
+Monsters/Monster_scaratar_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_loodvigg=Людвигг
-Monsters/Monster_loodvigg_bio=А
+Monsters/Monster_loodvigg_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_loodvigg_young=Юный Людвигг
-Monsters/Monster_loodvigg_young_bio=А
+Monsters/Monster_loodvigg_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_loodvigg_adult=Взрослый Людвигг
-Monsters/Monster_loodvigg_adult_bio=А
+Monsters/Monster_loodvigg_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_torrt=Черебарабах
-Monsters/Monster_torrt_bio=А
+Monsters/Monster_torrt_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_torrt_young=Юный Черебарабах
-Monsters/Monster_torrt_young_bio=А
+Monsters/Monster_torrt_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_torrt_adult=Взрослый Черебарабах
-Monsters/Monster_torrt_adult_bio=А
+Monsters/Monster_torrt_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_plixie=Пликси
-Monsters/Monster_plixie_bio=А
+Monsters/Monster_plixie_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_plixie_young=Юная Пликси
-Monsters/Monster_plixie_young_bio=А
+Monsters/Monster_plixie_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_plixie_adult=Взрослая Пликси
-Monsters/Monster_plixie_adult_bio=А
+Monsters/Monster_plixie_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_attmoz=Атмоз
-Monsters/Monster_attmoz_bio=А
+Monsters/Monster_attmoz_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_attmoz_young=Юный Атмоз
-Monsters/Monster_attmoz_young_bio=А
+Monsters/Monster_attmoz_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_attmoz_adult=Взрослый Атмоз
-Monsters/Monster_attmoz_adult_bio=А
+Monsters/Monster_attmoz_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_psychic=Талактик
-Monsters/Monster_psychic_bio=А
+Monsters/Monster_psychic_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_psychic_young=Юный Талактик
-Monsters/Monster_psychic_young_bio=А
+Monsters/Monster_psychic_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_psychic_adult=Взрослый Талактик
-Monsters/Monster_psychic_adult_bio=А
+Monsters/Monster_psychic_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bone=Амонитерий
-Monsters/Monster_bone_bio=А
+Monsters/Monster_bone_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bone_young=Юный Амонитерий
-Monsters/Monster_bone_young_bio=А
+Monsters/Monster_bone_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bone_adult=Взрослый Амонитерий
-Monsters/Monster_bone_adult_bio=А
+Monsters/Monster_bone_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_faerie=Кордимошка
-Monsters/Monster_faerie_bio=А
+Monsters/Monster_faerie_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_faerie_young=Юная Кордимошка
-Monsters/Monster_faerie_young_bio=А
+Monsters/Monster_faerie_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_faerie_adult=Взрослая Кордимошка
-Monsters/Monster_faerie_adult_bio=А
+Monsters/Monster_faerie_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_light=Фосфор-несса
-Monsters/Monster_light_bio=А
+Monsters/Monster_light_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_light_young=Юная Фосфор-несса
-Monsters/Monster_light_young_bio=А
+Monsters/Monster_light_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_light_adult=Взрослая Фосфор-несса
-Monsters/Monster_light_adult_bio=А
+Monsters/Monster_light_adult_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Дипстеры)))
@@ -1453,89 +1452,89 @@ Monsters/Monster_dipster_7_bio=<ref>DipstersBio
 
 
 Monsters/Monster_jobo=Джодль
-Monsters/Monster_jobo_bio=Жопа
+Monsters/Monster_jobo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_treble=Итэнор
-Monsters/Monster_treble_bio=Итэн
+Monsters/Monster_treble_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Конфетные)))
 
 
 Monsters/Monster_gumtromp=Шармелад
-Monsters/Monster_gumtromp_bio=Весёлый Дудень
+Monsters/Monster_gumtromp_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gumtromp_rare=Редкий Шармелад
-Monsters/Monster_gumtromp_rare_bio=А
+Monsters/Monster_gumtromp_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gobstomper=Конфетамень
-Monsters/Monster_gobstomper_bio=А
+Monsters/Monster_gobstomper_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gobstomper_rare=Редкий Конфетамень
-Monsters/Monster_gobstomper_rare_bio=А
+Monsters/Monster_gobstomper_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_koodahcane=Кондинец
-Monsters/Monster_koodahcane_bio=А
+Monsters/Monster_koodahcane_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_koodahcane_rare=Редкий Кондинец
-Monsters/Monster_koodahcane_rare_bio=А
+Monsters/Monster_koodahcane_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_marshflamo=Маршпламя
-Monsters/Monster_marshflamo_bio=А
+Monsters/Monster_marshflamo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_marshflamo_rare=Редкое Маршпламя
-Monsters/Monster_marshflamo_rare_bio=А
+Monsters/Monster_marshflamo_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_keytrus=Клавельсин
-Monsters/Monster_keytrus_bio=А
+Monsters/Monster_keytrus_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_keytrus_rare=Редкий Клавельсин
-Monsters/Monster_keytrus_rare_bio=А
+Monsters/Monster_keytrus_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_brasscuit=Тубаченье
-Monsters/Monster_brasscuit_bio=Латунное кондитерское изделие
+Monsters/Monster_brasscuit_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_brasscuit_rare=Редкое Тубаченье
-Monsters/Monster_brasscuit_rare_bio=А
+Monsters/Monster_brasscuit_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_claramel=Кларамель
-Monsters/Monster_claramel_bio=Био рукожопа
+Monsters/Monster_claramel_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_claramel_rare=Редкая Кларамель
-Monsters/Monster_claramel_rare_bio=А
+Monsters/Monster_claramel_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sprinklate=Торторог
-Monsters/Monster_sprinklate_bio=А
+Monsters/Monster_sprinklate_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sprinklate_rare=Редкий Торторог
-Monsters/Monster_sprinklate_rare_bio=А
+Monsters/Monster_sprinklate_rare_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Органические)))
 
 
 Monsters/Monster_handmond=Безъобраз
-Monsters/Monster_handmond_bio=А
+Monsters/Monster_handmond_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_handmond_rare=Редкий Безъобраз
-Monsters/Monster_handmond_rare_bio=А
+Monsters/Monster_handmond_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_whimstlop=Свистель
 Monsters/Monster_whimstlop_bio=Что происходит внутри Свистеля - загадка. А то, что находится снаружи этого пассивного монстра, - это всего лишь доспехи. А "шлем" с возрастом они сбрасывают и отрастает новый, но побольше. Его органические аспекты скрыты под металлической оболочкой, и единственное что мы можем увидеть - это один глаз (а другой - Свистель потерял) и две похожие на веточки ноги (удивительно сильные, учитывая то, на сколько тяжела броня). В зависимости от окружения, Свистель может носить броню из другого материала, чтобы соответствовать своим текущим потребностям. Иногда они подрабатывают некими "пылесосами" чтобы убирать грязь, которую за собой приносят другие приятели-монстры.
 Monsters/Monster_whimstlop_rare=Свистель
-Monsters/Monster_whimstlop_rare_bio=А
+Monsters/Monster_whimstlop_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whimstlop_meduza=Свистель
-Monsters/Monster_whimstlop_meduza_bio=А
+Monsters/Monster_whimstlop_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sakurra=Сакурра
-Monsters/Monster_sakurra_bio=А
+Monsters/Monster_sakurra_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sakurra_rare=Редкая Сакурра
-Monsters/Monster_sakurra_rare_bio=А
+Monsters/Monster_sakurra_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_maxillaphone=Максиллафон
-Monsters/Monster_maxillaphone_bio=А
+Monsters/Monster_maxillaphone_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_maxillaphone_rare=Редкий Максилафон
-Monsters/Monster_maxillaphone_rare_bio=А
+Monsters/Monster_maxillaphone_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_synthfly=Синтолёт
-Monsters/Monster_synthfly_bio=А
+Monsters/Monster_synthfly_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_synthfly_rare=Редкий Синтолёт
-Monsters/Monster_synthfly_rare_bio=А
+Monsters/Monster_synthfly_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_rosele=Розель
-Monsters/Monster_rosele_bio=А
+Monsters/Monster_rosele_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_rosele_rare=Редкий Розель
-Monsters/Monster_rosele_rare_bio=А
+Monsters/Monster_rosele_rare_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Неуверены)))
@@ -1547,109 +1546,109 @@ Monsters/Knott_1_rare=Редкое Дерево Неуверен
 Monsters/Knott_1_rare_bio=пипец у пушистика там джакузи
 
 Monsters/Knott_2=Бай
-Monsters/Knott_2_bio=Не ложится на кра-
+Monsters/Knott_2_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_2_rare=Редкий Бай
-Monsters/Knott_2_rare_bio=Не ложится на кра-
+Monsters/Knott_2_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_3=Сосуд Дууш
 Monsters/Knott_3_bio="ДУУШИ" - совокупность злых и мстительных духов, которые жаждят выбраться на свободу в мир монстров. Главая задача по их содержанию заключается в том, чтобы они находились в надежных руках. Ну или руке в данном случае. Непреклонные пальцы хранителя и неизмеримая сила делают его идеально подходящими для такой работы, но даже ему трудно порой поддерживать неугомонных Дууш. Возможно вы зададите вопрос, почему же они такие злые? Увы, никто не знает...
 Monsters/Knott_3_rare=Редкий Сосуд Дууш
-Monsters/Knott_3_rare_bio=Хы. Он похож на амогуса
+Monsters/Knott_3_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_4=БуУуу
 Monsters/Knott_4_bio=Все те, кто родом из Тумповселенной, хорошо разбираются в практике межпространственных прыжков, и БуУуу не исключение. Сбежав из безкрайних глубин своего бывшего дома, БуУуу отправился в долгое и масштабное путешествие в поисках нового. В конце концов, он нашел странную гору, глубоко под Серебряными Утёсами, которая излучала странную ауру, резонировавшую с БуУуу. Остановившись для исследования, наш тумп наконец осознал что здесь и находится его новый дом, который он искал тысячелетия! Однако, магия острова очень сильно повлияла на него. И без помощи местных материалов разум БуУуу помутняется и он не сможет музицировать…
 Monsters/Knott_4_rare=Редкий БуУуу
-Monsters/Knott_4_rare_bio=ААААААААААА Я ИСПУГАЛСЯ!!!
+Monsters/Knott_4_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_5=Гора Туцпик
 Monsters/Knott_5_bio=Гора Туццпик был обычной скалой, на которую повлияла магия Неуверен, излучаемая мистическими шарами из тёмной материи, найденными по всему острову Неуверен. Он обрёл музыкальные способности и сразу же после того, как был оживлён, начал петь. Он знает много композиций, но "Pearrdesh Slougna" и "Ellepharrth" от DJ. Goldenduck ближе всего к его каменному сердцу. Можно заметить, что он постоянно что-то мычит себе под нос, пока не пришла его очередь петь. Если б была у Туццпика воля, то он бы оставил свой родной остров. Но вероятнее всего это бы снова привело его к состоянию неразумной скалы. Ну... если конечно он бы не взял с собой один из источников магии Неуверен!
 Monsters/Knott_5_rare=Редкая Гора Туцпик
-Monsters/Knott_5_rare_bio=ПЕРДЁЖ СЛОНААААААА
+Monsters/Knott_5_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_6=Гораотвод
-Monsters/Knott_6_bio=МатМат, Беляш и Бебрик (а также миллион его отчимов)
+Monsters/Knott_6_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_6_rare=Редкий Гораотвод
-Monsters/Knott_6_rare_bio=МатМат, Беляш и Бебрик (а также миллион его отчимов)
+Monsters/Knott_6_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_7=Пушинкас
 Monsters/Knott_7_bio="Шинк! Шинк!" можно услышать всякий раз, когда этот монстр находится поблизости. Пушинкасы - это, по сути своей шерстяные мешки, наполненные костями, скреплёнными вместе с помощью магии и пластырей. Череп этого жизнерадостного маракасиста каким-то образом оброс шерстью с функционирующими ушами и глазами. Вдобавок к этому, у Пушинкаса развилось особое 8 чувство! Оно позволяет ему ощущать присутствие других костей издалека и легко идентифицировать их типы и тех кому они принадлежат. Также монстр может определить тип повреждения кости, давая другим советы в случае несчастного происшествия.
 Monsters/Knott_7_rare=Редкий Пушинкас
-Monsters/Knott_7_rare_bio=лекарство от поноса
+Monsters/Knott_7_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_8=Клеомолот
-Monsters/Knott_8_bio=Бетки (каво?)
+Monsters/Knott_8_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_8_rare=Редкий Клеомолот
-Monsters/Knott_8_rare_bio=Бетки (чаво?)
+Monsters/Knott_8_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_9=Бабушка Неувязья
 Monsters/Knott_9_bio=Познакомьтесь с самым дружелюбным монстром в Затерянном мире. Это пожилая Бабушка Неувязья - существо, которое способно заботится о любом виде монстров, какие только существуют. Она использует свои навыки вязания, чтобы содержать "внучков" в тепле и благополучии, и обычно бабуля никогда не упускает их из виду. Большинству представителей этого вида уже несколько тысячелетий, и кажется, они совсем визуально не меняются после достижения рубежа в 80 лет. Несмотря на всё это, есть экземпляры, у которых было трагическое прошлое, и с тех пор они так и не восстановились... Такие монстры, как правило, более агрессивны по отношению ко всем окружающим.
 Monsters/Knott_9_rare=Редкая Бабушка Неувязья
-Monsters/Knott_9_rare_bio=Бабка уже не ничё не вяжет. Дайте ей таблетки
+Monsters/Knott_9_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_10=Морозёв
-Monsters/Knott_10_bio=Пупка замёрз и сдох
+Monsters/Knott_10_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_10_rare=Редкий Морозёв
-Monsters/Knott_10_rare_bio=Пупка замёрз и сдох
+Monsters/Knott_10_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_special=Крохорнет
-Monsters/Knott_special_bio=лол карлик. Давайте из него суп сварим 
+Monsters/Knott_special_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_special_rare=Редкий Крохорнет
-Monsters/Knott_special_rare_bio=лол карлик. Давайте из него суп сварим 
+Monsters/Knott_special_rare_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Гамма-Монстры)))
 
 
 Monsters/Monster_tweedle_gamma=Клюшалоб
-Monsters/Monster_tweedle_bio=А
+Monsters/Monster_tweedle_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_potbelly_gamma=Ламигалия
-Monsters/Monster_potbelly_gamma_bio=А
+Monsters/Monster_potbelly_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_noggin_gamma=Кварабан
-Monsters/Monster_noggin_gamma_bio=А
+Monsters/Monster_noggin_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_toejammer_gamma=Осьмидудка
-Monsters/Monster_toejammer_gamma_bio=А
+Monsters/Monster_toejammer_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dandidoo_gamma=иТара
-Monsters/Monster_dandidoo_gamma_bio=А
+Monsters/Monster_dandidoo_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cybop_gamma=Табикраб
-Monsters/Monster_cybop_gamma_bio=А
+Monsters/Monster_cybop_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_quible_gamma=Спручик
-Monsters/Monster_quible_gamma_bio=А
+Monsters/Monster_quible_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_shrubb_gamma=Улов-рес
-Monsters/Monster_shrubb_gamma_bio=А
+Monsters/Monster_shrubb_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_oaktopus_gamma=Китовой
-Monsters/Monster_oaktopus_gamma_bio=А
+Monsters/Monster_oaktopus_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_fwog_gamma=Цлизень
-Monsters/Monster_fwog_gamma_bio=А
+Monsters/Monster_fwog_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_reedling_gamma=Зелынка*
-Monsters/Monster_reedling_gamma_bio=А
+Monsters/Monster_reedling_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_spunge_gamma=Вывдунь
-Monsters/Monster_spunge_gamma_bio=А
+Monsters/Monster_spunge_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_scups_gamma=Лапага*
-Monsters/Monster_scups_gamma_bio=А
+Monsters/Monster_scups_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pummel_gamma=Бороуабдап
-Monsters/Monster_pummel_gamma_bio=А
+Monsters/Monster_pummel_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_shellbeat_gamma=Ракотакт*
-Monsters/Monster_shellbeat_gamma_bio=А
+Monsters/Monster_shellbeat_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_jeeode_gamma=Благъобраз
-Monsters/Monster_jeeode_gamma_bio=Древнерусский Безъобраз
+Monsters/Monster_jeeode_gamma_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blabbit_gamma=Пузаяц*
-Monsters/Monster_blabbit_gamma_bio=А
+Monsters/Monster_blabbit_gamma_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Гости)))
@@ -1659,10 +1658,10 @@ Monsters/Special/Monster_melochness=Гармонесси
 Monsters/Special/Monster_melochness_bio=Рожденные в Зачарованных прудах Дремучих лесов, Гармонесси - очень любопытные существа. Как и большинство обитателей  Лесов Фей, существование этого монстра сильно связано с Туманом Флоры. Хотя мы до сих пор точно не знаем, как это работает, но туман, кажется, придаёт Гармонесси сил чтобы издавать мелодичные звуки, которые разноятся повсюду. Её чарующую мелодию можно услышать через весь лес, благодаря туману Флоры. На самом деле, это было первое, что услышали природные монстры, когда они прибыли в Дремучий лес. Также говорят, что у Гармонесси есть общий родственник с Зелынкой и Пузайцем. ..... Чего? Как ты получил этого монстра? Кхм... Прошу прощения. "Магическое Расширение" не является каноном. По крайней мере для TLL. - Мр. Маг Ширин.
 
 Monsters/Special/Monster_truccus=Резинкин
-Monsters/Special/Monster_truccus_bio=А
+Monsters/Special/Monster_truccus_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Special/Monster_gnostrell=Носопырка
-Monsters/Special/Monster_gnostrell_bio=А
+Monsters/Special/Monster_gnostrell_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Другое)))
@@ -1926,27 +1925,27 @@ Structures/Structure_castle_undof8=Дворец Из Кристиллия
 Structures/Structure_castle_undof8_bio=Еще более редкий, чем самые редкие минералы из основного измерения, кристиллий был самым первым когда-либо созданным кристаллом, побочным продуктом вмешательства гигантов в пузыристую. Таким образом, его месторождения существуют только в карманном измерении. По счастливой случайности это вещество обладает способностью передавать знания о том, как с ним работать, всем, кто к нему прикасается. Именно эта черта позволяет обитателям карманного измерения без особых усилий строить дворцы из кристиллий с большим количеством мест, чем когда-либо, и она используется совместно с Огненным кристаллом, для которого он служил образцом.
 
 Structures/Structure_breeding=Здание Выведения
-Structures/Structure_breeding_bio=А
+Structures/Structure_breeding_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_breeding_city=<ref>Structures/Structure_breeding
-Structures/Structure_breeding_city_bio=А
+Structures/Structure_breeding_city_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_breeding_undof=<ref>Structures/Structure_breeding
 Structures/Structure_breeding_undof_bio=Эта особая постройка использовалась ещё в золотом веке монстров, и с тех пор мало что изменилось. Как только монстр становится достаточно взрослым, он откладывает яйцо, в котором содержится вся генетическая и элментальная информация, а затем яйцо помещают в одну из "чаш" машины. "Ценные соки" яиц, больше похожих на споры, медленно стекают по двойным стокам вниз и волшебным образом смешиваются в центральном сосуде, где получается новое яйцо! Процесс такой не уж простой, поскольку одна комбинация для скрещивания может дать разные результаты.
 Structures/Structure_breeding_undof2=Улучшенное <ref>Structures/Structure_breeding
 Structures/Structure_breeding_undof2_bio=Скрещивание - нелёгкое дело, поэтому любое улучшение очень полезно. Благодаря бесценному исследованию в этой сфере за последние годы сложное взаимодействие энергии элементов стало понятнее, чем когда-либо! В улучшенном здании выведения время скрещивания сокращается на 25%!
 
 Structures/Structure_bakery=Пекарня
-Structures/Structure_bakery_bio=А
+Structures/Structure_bakery_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_bakery_undof=Пекарня
 Structures/Structure_bakery_undof_bio=В большой пекарне можно приготовить всё, чего пожелает желудок монстра.\nПирожные\nПеченья\nХлеб\nПончики\nМороженое\nПицца\nПирог\nИндейка\nТорт\nБольшой салат.
 
 Structures/Structure_crafter=Создаватель
-Structures/Structure_crafter_bio=Создаёт
+Structures/Structure_crafter_bio=Данные отсутствуют. Приходите позже.
 
 Structures/Structure_masher=Измельчитель
-Structures/Structure_masher_bio=Измельчает
+Structures/Structure_masher_bio=Данные отсутствуют. Приходите позже.
 
 Structures/Structure_timemachine=Машина времени
-Structures/Structure_timemachine_bio=Тик Так
+Structures/Structure_timemachine_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_timemachine_undof=Машина времени
 Structures/Structure_timemachine_undof_bio=Ход времени отличается в каждом измерении реальности, где существует время; в мире монстров можно повлиять на него, чтобы изменить темп песни острова! Удивительно, что при этом нельзя изменить время скрещивания монстров или выпечки лакомств, или ещё чего-то такого - под силу только магическим бриллиантам.
 
@@ -1956,22 +1955,22 @@ Structures/Structure_amalgamator=СПАМТОН
 Structures/Structure_amalgamator_bio=[Кромер]
 
 Structures/Structure_jukebox=Проигрыватель
-Structures/Structure_jukebox_bio=Нет блин, выигрыватель
+Structures/Structure_jukebox_bio=Данные отсутствуют. Приходите позже.
 
 Structures/Structure_bass=Бас-машина
-Structures/Structure_bass_bio=А
+Structures/Structure_bass_bio=Данные отсутствуют. Приходите позже.
 
 Structures/Structure_knottmaker1=Странное Сооружение
-Structures/Structure_knottmaker1_bio=А
+Structures/Structure_knottmaker1_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_knottmaker2=Восстановленный Амальгаметор
-Structures/Structure_knottmaker2_bio=А
+Structures/Structure_knottmaker2_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_knottmaker3=Амальгаметор
-Structures/Structure_knottmaker3_bio=А
+Structures/Structure_knottmaker3_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_knottmaker4=Улучшенный Амальгаметор
-Structures/Structure_knottmaker4_bio=А
+Structures/Structure_knottmaker4_bio=Данные отсутствуют. Приходите позже.
 
 Structures/Structure_stargazer=Обсерватория
-Structures/Structure_stargazer_bio=Роддом нежопытилей
+Structures/Structure_stargazer_bio=Данные отсутствуют. Приходите позже.
 
 
 
