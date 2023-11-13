@@ -130,7 +130,7 @@ Monsters/Monster_noggin_young
 Monsters/Monster_kayna_young
 Monsters/Monster_fluoress_young
 Monsters/Monster_theremind_young
-Monsters/Monster_flootfly_young
+Monsters/Monster_flootfly_young coins=300
 Monsters/Monster_clackula_young
 Monsters/Monster_oaktopus_young
 Monsters/Monster_dandidoo_young
@@ -704,7 +704,7 @@ Decoration/Dog
 dream
 monsters:
 Monsters/Monster_cataliszt diamonds=50
-Structures/Structure_jukebox_dream coins=307030
+Structures/Structure_jukebox_dream coins=3070
 -
 monsters2:
 Monsters/Monster_mammott_dream
