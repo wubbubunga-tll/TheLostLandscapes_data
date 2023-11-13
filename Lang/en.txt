@@ -873,6 +873,7 @@ str_popup_unlock=You discovered:\n<name>
 str_popup_notOnThisIsland=This item is not available on this island.
 str_popup_masherNoItemsSelected=You need to select items to mash! If you have none, try collecting some, or crafting some!
 str_popup_masherLimitReached=You have reached the limit of items you can add to the Masher!
+str_popup_stargazerNotRightLevel=The Observatory can not be activated yet. Expand your island first.
 
 str_popup_mapIsalndNotFinished=This island is still in development! After it is completed, all your progress on this island will be reset. (Play at your own risk)
 
