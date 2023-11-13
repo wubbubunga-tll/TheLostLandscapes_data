@@ -650,11 +650,11 @@ Decoration/Dog
 ;
 TI
 monsters:
-Monsters/Monster_quibble
-Monsters/Monster_oaktopus
-Monsters/Monster_reedling_young_singer
+Monsters/Monster_quibble diamonds=400
+Monsters/Monster_oaktopus diamonds=400
+Monsters/Monster_reedling_young_singer diamonds=600
 Monsters/Monster_loodvigg
-Monsters/Monster_spurrit Flower_red=1
+Monsters/Monster_spurrit Vortex=10
 -
 decorations:
 Decoration/Decoration_test
