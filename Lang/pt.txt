@@ -339,6 +339,9 @@ Monsters/Monster_faerie=Fungágia
 Monsters/Monster_faerie_bio=Chordyrid bio
 
 ###--Seasonals------------------------------------------###
+Monsters/Monster_punkleton_young=Punkeleto Bebê
+Monsters/Monster_punkleton_young_bio=Boo! Punkeletinhos foram ditos de ter emergido de sáboboras que poluem a cidade flutuante, encantado pela lua cheia. Esse espíritos sáboborosos adoram se aproximar de outros monstros antes de surpreendê-los - com um monte de guloseimas saborosas!
+
 Monsters/Monster_punkleton=Punkeleto
 Monsters/Monster_punkleton_bio=Punkleton bio
 
@@ -1069,6 +1072,7 @@ str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><isla
 str_popup_teleporter_confirm_sending=Você quer enviar o Zepelim para <color="green"><islandName></color>?
 str_popup_masherLimitReached=Você alcançou o limite de itens que você pode colocar no moedor!
 str_cleardata=Apagar
+str_popup_mapIsalndNotFinished=Essa ilha ainda está em desenvolvimento! Após ela ser finalizada todo o seu progresso será apagado! (Jogue ao seu próprio risco)
 
 btn_shop=Loja
 btn_mailbox=Correio
