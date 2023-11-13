@@ -2268,7 +2268,7 @@ designerMode_sellFor=Продать за: <sprite name=<type>><col><amount>
 
 
 (((Предупреждение)))
-str_warning=Погоди-ка!designer
+str_warning=Погоди-ка!
 
 
 (((Время)))
