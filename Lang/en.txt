@@ -36,12 +36,13 @@ Monsters/Monster_maw_young=Young Maw
 Monsters/Monster_maw_young_bio=It should come to no surprise that the young Maw is filled to the brim of pure water! Essentially acting as fuzzy water balloons, Maw pups quickly learn to manage their fluid intake and outtake through their highly-evolved... well, maws. While being slobbered on by a wandering Maw tongue may never be a pleasant experience to bystanders, the handlers have determined it more just means said maw wants to be your friend. aww.
 Monsters/Monster_quibble_young=Young Quibble
 Monsters/Monster_quibble_young_bio=The endless enthusiasm of a Quibble hatchling is one unmatched by any other monster species. Collecting all sorts of colorful pebbles to make up its training keys, their creativity is bolstered by their endless asking of questions! Of course, the celestials are always glad to assist in answering all sorts of questions, though they still can't seem to discover the answer of where baby monsters come from...
+<Monsters/Monster_quibble_rare>
 Monsters/Monster_phangler_young=Young Phangler
 Monsters/Monster_phangler_young_bio=Young Phangler bio
 Monsters/Monster_stogg_young=Young Stogg
 Monsters/Monster_stogg_young_bio=The astonishing arpeggios of the fledgling Stoggling have been a signature staple of the City's ambiance for as long as anyone can remember. And a bit further than that. Shockingly, young stoggs love to be buried in snow!
 Monsters/Monster_knucklehead_young=Young Knucklehead
-Monsters/Monster_knucklehead_young_bio=Young Knucklehead bio
+Monsters/Monster_knucklehead_young_bio=For a species known for their high motor function, one would perhaps be surprised to learn that Knuckleheads don’t start out with such skill! In truth, Knucklehead pebblings are more accustomed to sculpting nondescript globs with clay and playing with dolls than creating such delicately sculpted figures and props. Immature as they are, young Knuckleheads will often frustrate themselves with the finer details, and it is said that few have lived to tell the tale of the following temper tantrums…
 Monsters/Monster_osstax_young=Young Osstax
 Monsters/Monster_osstax_young_bio=It’s well-known that Osstax begins their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstak Pebblets, despite being generally sedentary, can come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
 
@@ -437,6 +438,8 @@ Monsters/Monster_olga_bio=Olgaropipe bio
 Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=Breeding Structure bio
 
+<Structures/Structure_breeding_undof3>
+<Structures/Structure_breeding_undof3_bio>
 Structures/Structure_breeding_city=<ref>Structures/Structure_breeding
 Structures/Structure_breeding_city_bio=<ref>Structures/Structure_breeding_bio
 

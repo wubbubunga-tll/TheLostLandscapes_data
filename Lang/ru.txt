@@ -2268,19 +2268,19 @@ designerMode_sellFor=Продать за: <sprite name=<type>><col><amount>
 
 
 (((Предупреждение)))
-str_warning=Погоди-ка!designer
+str_warning=Погоди-ка!
 
 
+(((Время)))
 str_time_d=Д
 str_time_h=Ч
 str_time_m=М
 str_time_s=С
-
 str_time_ds=д
 str_time_hs=ч
 str_time_ms=м
 str_time_ss=с
-
+str_island_instant=Мнговенно
 
 КНОПКИ
 

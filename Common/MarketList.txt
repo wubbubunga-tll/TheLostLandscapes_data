@@ -128,10 +128,10 @@ Monsters/Monster_tweedle_young
 Monsters/Monster_toejammer_young
 Monsters/Monster_noggin_young
 Monsters/Monster_kayna_young
-Monsters/Monster_fluoress_young
-Monsters/Monster_theremind_young
+Monsters/Monster_fluoress_young coins=200
+Monsters/Monster_theremind_young coins=300
 Monsters/Monster_flootfly_young coins=300
-Monsters/Monster_clackula_young
+Monsters/Monster_clackula_young coins=400
 Monsters/Monster_oaktopus_young
 Monsters/Monster_dandidoo_young
 Monsters/Monster_maw_young
