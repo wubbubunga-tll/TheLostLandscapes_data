@@ -63,7 +63,7 @@ Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 
 #BABY SEASONALS#
 Monsters/Monster_punkleton_young=Young Punkleton
-Monsters/Monster_punkleton_young_bio=
+Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emerged from the pumpkins that litter the floating city, enchanted by the harvest moon.The gourdly ghouls love to creep up behind fellow monsterlings, before surprising them- with loads of tasty treats!
 
 
 
@@ -388,7 +388,7 @@ Monsters/Monster_schmoochle=Schmoochle
 Monsters/Monster_schmoochle_bio=Schmoochle bio
 
 Monsters/Monster_punkleton=Punkleton
-Monsters/Monster_punkleton_bio=Punkleton bio
+Monsters/Monster_punkleton_bio=BOO! Grown punkletons lean more heavily into the Trick of Trick-or-Treat, loving to deal out spooky surprises for any visitors who come around. But beware, for there's a reason Punkleton's tricks are unforgettable...
 
 Monsters/Monster_ffydill=Ffidyll
 Monsters/Monster_ffydill_bio=Ffidyll bio
