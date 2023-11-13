@@ -130,7 +130,7 @@ Monsters/Monster_noggin_young
 Monsters/Monster_kayna_young
 Monsters/Monster_fluoress_young
 Monsters/Monster_theremind_young
-Monsters/Monster_flootfly_young coins=3000
+Monsters/Monster_flootfly_young coins=300
 Monsters/Monster_clackula_young
 Monsters/Monster_oaktopus_young
 Monsters/Monster_dandidoo_young
