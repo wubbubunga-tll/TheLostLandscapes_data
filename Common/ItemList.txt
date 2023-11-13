@@ -22,7 +22,7 @@ Fabric
 Spark
 Metal
 Peppermint
-Candycane 
+Candycane
 Candycorn
 Lilly
 Relic
