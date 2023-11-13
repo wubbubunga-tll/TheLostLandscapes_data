@@ -252,7 +252,7 @@ Structures/Structure_knottmaker3 coins=100000 0 0
 Structures/Structure_knottmaker4 coins=100000 0 0
 
 
-Structures/Structure_timemachine coins=100000 0 1
+Structures/Structure_timemachine coins=100 0 1
 
 Structures/Structure_stargazer coins=1 0 0
 
