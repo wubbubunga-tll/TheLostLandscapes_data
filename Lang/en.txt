@@ -61,7 +61,9 @@ Monsters/Monster_frondley_young_bio=Young Frondley bio
 Monsters/Monster_gloptic_young=Young Gloptic
 Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 
-
+#BABY SEASONALS#
+Monsters/Monster_punkleton_young=Young Punkleton
+Monsters/Monster_punkleton_young_bio=
 
 
 
@@ -866,6 +868,8 @@ str_popup_unlock=You discovered:\n<name>
 str_popup_notOnThisIsland=This item is not available on this island.
 str_popup_masherNoItemsSelected=You need to select items to mash! If you have none, try collecting some, or crafting some!
 str_popup_masherLimitReached=You have reached the limit of items you can add to the Masher!
+
+str_popup_mapIsalndNotFinished=This island is still in development! After it is completed, all your progress on this island will be reset. (Play at your own risk)
 
 str_popup_islandComingSoon=New and Exciting things coming soon!
 str_popup_islandAlreadyOn=You are already on this island.
