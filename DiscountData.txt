@@ -7,7 +7,7 @@ ShowOldCost=false
 HasCostOvrwrite=true
 CostOverwrite=250,diamonds
 HasDeadline=true
-Deadline=11/17/2023 03:01:09 PM
+Deadline=11/14/2023 03:01:09 PM
 ;
 ID=Monsters/Monster_varrow_rare
 MarketSortersID=monsters
