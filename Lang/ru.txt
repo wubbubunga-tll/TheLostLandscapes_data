@@ -2376,30 +2376,30 @@ btn_designerMode_save=Сохранить
 
 
 (((Монстры)))
-goal_breed_buy=Купите и разместите <color="green"><entityName>
-goal_breed_an=Выведите и разместите <color="green"><entityName>
-goal_breed=Выведите и разместите <color="green"><entityName>
-goal_celestial=Приобретите <color="green"><entityName>
-goal_celestial_an=Приобретите <color="green"><entityName>
-goal_levelUp_5=Накормите монстра до уровня <color="green">5.
-goal_levelUp_10=Накормите монстра до уровня <color="green">10.
-goal_levelUp_15=Накормите монстра до уровня <color="green">15.
-goal_levelUp_20=Накормите монстра до уровня <color="green">20.
-goal_teleport=Телепортируйте <color="green"><entityName></color> на внешний остров.
-goal_flip=Используйте кнопку <color="green">"Развернуть"</color> при перемещении монстра.
-goal_rename=Переименуйте <color="green">монстра.
+goal_breed_buy=Купи и размести <color="green"><entityName>
+goal_breed_an=Выведи и размести <color="green"><entityName>
+goal_breed=Выведи и размести <color="green"><entityName>
+goal_celestial=Приобрети <color="green"><entityName>
+goal_celestial_an=Приобрети <color="green"><entityName>
+goal_levelUp_5=Накорми монстра до уровня <color="green">5.
+goal_levelUp_10=Накорми монстра до уровня <color="green">10.
+goal_levelUp_15=Накорми монстра до уровня <color="green">15.
+goal_levelUp_20=Накорми монстра до уровня <color="green">20.
+goal_teleport=Телепортируй <color="green"><entityName></color> на внешний остров.
+goal_flip=Используй кнопку <color="green">"Развернуть"</color> при перемещении монстра.
+goal_rename=Переименуй <color="green">монстра.
 
 
 (((Украшения)))
-goal_placeDeco=Купите и разместите <color="green">"<entityName>".
-goal_removeObstacles=Уберите <color="green"><amount></color> препятствий.
+goal_placeDeco=Купи и размести <color="green">"<entityName>".
+goal_removeObstacles=Убери <color="green"><amount></color> препятствий.
 
 
 (((Здания)))
-goal_placeBakery=Купите и разместите <color="green">Пекарню.
-goal_placeBreeding=Купите и разместите <color="green">Здание Разведения.
+goal_placeBakery=Купи и размести <color="green">Пекарню.
+goal_placeBreeding=Купи и размести <color="green">Здание Разведения.
 
 
 (((Разное)))
-goal_designerMode=Попробуйте <color="green">режим дизайнера.
+goal_designerMode=Попробуй <color="green">режим дизайнера.
 
