@@ -1,11 +1,11 @@
 
-ID=Monsters/Monster_banno_rare
+ID=Monsters/Monster_dulsylvan_rare
 MarketSortersID=monsters
 IsIslandSpecific=true
-Islands=Calamity
+Islands=EM
 ShowOldCost=true
 HasCostOvrwrite=true
-CostOverwrite=1,diamonds
+CostOverwrite=250,diamonds
 HasDeadline=true
 Deadline=10/16/2022 03:08:09 PM
 ;
