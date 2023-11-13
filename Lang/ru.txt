@@ -1992,7 +1992,7 @@ str_currency=Переменная
 str_currency_coins=Монеты
 str_currency_diamonds=Бриллианты
 str_currency_food=Еда
-str_currency_foodB=Детская Еда
+str_currency_foodB=Детское Пюре
 str_currency_LVL=Уровень
 str_currency_stars=Звёздность
 str_currency_xp=Опыт
@@ -2052,7 +2052,7 @@ str_noitems=Пусто
 str_island_comingsoon=Скоро!
 
 str_popup_islandComingSoon=Новые и интересные дополнения уже скоро!
-str_popup_islandAlreadyOn=Вы уже на этом острове.
+str_popup_islandAlreadyOn=Ты уже на этом острове.
 
 str_island_City=Летучий город
 str_island_City_bio=Летучий город био
@@ -2103,7 +2103,7 @@ str_subclass_spurrit=Истолковедование
 
 (((Классы)))
 str_class_Natural=Природный
-str_class_Natural-r=Природный(Редкий)
+str_class_Natural-r=Природный (Редкий)
 str_class_Gamma=Гамма
 str_class_Gamma-r=Гамма (Редкий)
 str_class_Magical=Магический
@@ -2133,7 +2133,7 @@ str_class_Lost-r=Заблудший (Редкий)
 (((Созвездия)))
 str_stars_water=Слёзы океана
 str_stars_fire=Пылающее ядро
-str_stars_cold=Мерзлый образ
+str_stars_cold=Мёрзлый образ
 str_stars_plant=Цветущая зелень
 str_stars_crystal=Кристаллический посев
 str_stars_mech=Металлические шестерни
@@ -2156,18 +2156,18 @@ str_tutorial=Обучение
 str_popup_tutor1=Добро пожаловать в <color="purple">The Lost Landscapes!</color>\nФан-игра по <color="green">My Singing Monsters</color>!
 str_popup_tutor2=Привет! Я Мухофлейт. Это мой товарищ Палезатор. Давай получим больше монстров на острове.
 str_popup_tutor3=Пойдите и получите <color="green">Лягптицу.</color>
-str_popup_tutor4=Отличная работа! Теперь разместите <color="green">Лягптицу</color> здесь.\n(Что-то происходит здесь. Скорее всего скиби даб даб даб ес ес ес)
+str_popup_tutor4=Отличная работа! Теперь размести <color="green">Легптицу</color> здесь.\n(А теперь загляни в почтовый ящик! там тебя ждёт сюрприз.)
 btn_ok=Хорошо
 
 
 
 (((Выведение)))
 str_breeding=Получился монстр\n<color="green">ENTITY_NAME</color>\n Что ты хочешь с ним сделать?
-str_popup_breeding=Вы должны выбрать <color="green">двух</color> монстров с <color="green">уровнем 4</color> или выше.
-str_popup_breeding_repeat=Вы еще не выводили монстров. Сначала выведите кого-нибудь.
-str_popup_breeding_repeatNoMonster=Монстров, которых вы использовали для выведения, больше нет на острове.
-str_popup_sellEgg=Вы уверены, что хотите продать это яйцо за <color="yellow"><amount> монет?
-str_popup_unlock=Вы обнаружили <name>
+str_popup_breeding=Ты должен выбрать <color="green">двух</color> монстров с <color="green">уровнем 4</color> или выше.
+str_popup_breeding_repeat=Ты ещё не выводил монстров. Сначала выведи кого-нибудь.
+str_popup_breeding_repeatNoMonster=Монстров, которых ты использовал для выведения, больше нет на острове.
+str_popup_sellEgg=Ты уверен, что хочешь продать это яйцо за <color="yellow"><amount> монет?
+str_popup_unlock=Обнаружен монстр <name>
 
 
 (((О монстре)))
@@ -2180,39 +2180,39 @@ str_extra=Дополнительное
 
 
 (((Режим Дизайнера)))
-str_popup_designer_cancel=Вы уверены, что хотите отменить все изменения, сделанные в режиме дизайнера?
-str_popup_designer_save1=Вы уверены, что хотите сохранить? Это будет стоить <color="yellow"><amount> монет.
-str_popup_designer_save2=Вы уверены, что хотите сохранить? Вы получите <color="yellow"><amount> монет.
-str_popup_designer_save3=Вы уверены, что хотите сохранить? Это ничего не будет стоить вам.
+str_popup_designer_cancel=Ты уверен, что хочешь отменить все изменения, сделанные в режиме дизайнера?
+str_popup_designer_save1=Ты уверен, что хочешь сохранить изменения? Это будет стоить <color="yellow"><amount> монет.
+str_popup_designer_save2=Ты уверен, что хочешь сохранить изменения? Ты получишь <color="yellow"><amount> монет.
+str_popup_designer_save3=Ты уверен, что хочешь сохранить изменения? Это ничего не будет стоить тебе.
 
 
 (((Дирижабль)))
 str_teleporter=Дирижабль Симфоний
 str_teleporter2=Дирижабль
-str_teleporter_target=Дирижабль прибудет на <color="green"><islandName></color> через <time>\nХотели бы вы ускорить его за <color=#4EFFF5><amount> бриллиантов</color>?
+str_teleporter_target=Дирижабль прибудет на <color="green"><islandName></color> через <time>\nХотел бы ты ускорить его за <color=#4EFFF5><amount> бриллиантов</color>?
 str_teleporter_target_map=Дирижабль прибудет на <color="green"><islandName></color> через <time>
 str_teleporter_target_map_arrived=Дирижабль прибыл на <color="green"><islandName></color>.
-str_popup_teleporter_moveToTarget=Хотели бы вы отправится на <color="green"><islandName></color>?
-str_popup_teleporter_confirm_sending=Хотели бы вы отправить Дирижабль на <color="green"><islandName></color>?
+str_popup_teleporter_moveToTarget=Хотел бы ты отправится на <color="green"><islandName></color>?
+str_popup_teleporter_confirm_sending=Хотел бы ты отправить Дирижабль на <color="green"><islandName></color>?
 str_teleport_entityNotOnThisIsland=Этот монстр не может быть помещен на <color="green"><islandName></color>.
-str_teleport_entityLevelNotEnough=Чтобы разместить этого монстра на <color="green"><islandName></color> его уровень должен быть <color="yellow"><level></color> или выше. Уровень вашего монстра <color="yellow"><monsterLevel></color>.\nВы всегда можете вернуть своего монстра обратно в <color="green">Летучий Город</color> и докормить его до нужного уровня.
-str_teleport_unavailable=Дирижабль в настоящее время находится на <color="green"><islandName></color>. Сначала вы должны отправить его сюда.
-str_teleport_flying=В настоящее время Дирижабль летит на <color="green"><islandName></color>. Подождите, пока он не прибудет, или ускорьте его с помощью бриллиантов.
+str_teleport_entityLevelNotEnough=Чтобы разместить этого монстра на <color="green"><islandName></color> его уровень должен быть <color="yellow"><level></color> или выше. Уровень твоего монстра <color="yellow"><monsterLevel></color>.\nТы всегда можешь вернуть своего монстра обратно в <color="green">Летучий Город</color> и докормить его до нужного уровня.
+str_teleport_unavailable=Дирижабль в настоящее время находится на <color="green"><islandName></color>. Сначала ты должен отправить его сюда.
+str_teleport_flying=В настоящее время Дирижабль летит на <color="green"><islandName></color>. Подожди, пока он не прибудет, или ускорь его с помощью бриллиантов.
 str_teleport_unavailable_monster=Дирижабля в настоящее время нет на этом острове.
 str_TeleportUnavailable=Недоступно на этом острове
 
 
 (((Пекарня)))
-str_popup_bakery_bake=Вы уверены, что хотите испечь <color=#F318D1><amount> лакомств</color> за <color="yellow"><amount2> монет</color>?
-str_popup_bakery_collectFirst=Сначала заберите свой предыдущий заказ.
+str_popup_bakery_bake=Ты уверен, что хочешь приготовить <color=#F318D1><amount> лакомств</color> за <color="yellow"><amount2> монет</color>?
+str_popup_bakery_collectFirst=Сначала забери свой предыдущий заказ.
 
 
 (((Амальгаметор)))
-str_popup_knottmaker_locked=Этот монстер пока не доступен. Для начала улучшите Амальгаматор
-str_popup_knottmakerNotSelected=Вы ничего не выбрали.
-str_popup_knottmaker_fail=Процесс создания не удался! Но предметы были преобразованы в бриллианты.\nВы получили <color=#4EFFF5>бриллиантов ?<amount></color>.
-str_popup_knottmaker_fail_items=Процесс создания не удался! Не волнуйтесь вы получите некоторые предметы обратно!
-str_popup_knottmaker_fail_noitems=Процесс создания не удался! К сожалению все ваши предметы были потеряны.
+str_popup_knottmaker_locked=Этот монстер пока не доступен. Для начала улучши Амальгаматор
+str_popup_knottmakerNotSelected=Ничего не выбрано.
+str_popup_knottmaker_fail=Процесс создания не удался! Но предметы были преобразованы в бриллианты.\nТы получил <color=#4EFFF5>бриллиантов ?<amount></color>.
+str_popup_knottmaker_fail_items=Процесс создания не удался! Не волнуйся, ты получишь некоторые предметы обратно!
+str_popup_knottmaker_fail_noitems=Процесс создания не удался! К сожалению все таои предметы были потеряны.
 
 
 (((Магазин)))
@@ -2226,19 +2226,19 @@ str_limitedTimeTimer=<time>
 
 
 (((Не хватка)))
-str_popup_notEnough_diamonds=У вас недостаточно <color=#4EFFF5>бриллиантов.
-str_popup_notEnough_coins=У вас недостаточно <color="yellow">монет.
-str_popup_notEnough_food=У вас недостаточно <color=#F318D1>еды.
-str_popup_notEnough_stars=У вас недостаточно <color=#FFA400>звёздности.
-str_popup_notEnough=У вас недостаточно <color=green>Предметов</color>.
+str_popup_notEnough_diamonds=У тебя недостаточно <color=#4EFFF5>бриллиантов.
+str_popup_notEnough_coins=У тебя недостаточно <color="yellow">монет.
+str_popup_notEnough_food=У тебя недостаточно <color=#F318D1>еды.
+str_popup_notEnough_stars=У тебя недостаточно <color=#FFA400>звёздности.
+str_popup_notEnough=У тебя недостаточно <color=green>Предметов</color>.
 
 
 (((Взаимодействия)))
-str_popup_speedUp=Вы уверены, что хотите ускорить процесс за <color=#4EFFF5><amount> бриллиантов?
-str_popup_sell=Вы уверены, что хотите продать это за <color="yellow"><amount> монет?
-str_popup_TimedNotReady=Это здание до сих пор в действии. Пожалуйста, подождите, пока его функция не будет завершена, или ускорьте её.
-str_popup_upgrade=Вы хотите улучшить это за <amount> <type>?
-str_popup_upgrade_items=Вы хотите улучшить это?\nЭто будет вам стоить: 
+str_popup_speedUp=Ты уверен, что хочешь ускорить процесс за <color=#4EFFF5><amount> бриллиантов?
+str_popup_sell=Ты уверен, что хочешь продать это за <color="yellow"><amount> монет?
+str_popup_TimedNotReady=Это здание до сих пор в действии. Пожалуйста, подожди, пока его функция не будет завершена, или ускорьте её.
+str_popup_upgrade=Ты хочешь улучшить это за <amount> <type>?
+str_popup_upgrade_items=Ты хочешь улучшить это?\nЭто будет стоить: 
 
 
 (((Почта)))
@@ -2257,7 +2257,7 @@ str_setting_ambient=Фоновые звуки
 
 
 (((Уровень)))
-str_PlayerLvl=Уровень
+str_PlayerLvl=Уровень 
 str_unlocked=Вы разблокировали:
 str_unlockedatLevel=Разблокируется на уровне:
 
@@ -2351,7 +2351,7 @@ btn_speedup=Ускорить
 btn_changeTime=Деформировать
 btn_breed=Вывести
 btn_repeat=Повторить
-btn_bake=Испечь
+btn_bake=Приготовить
 btn_craft=Создать
 btn_stars=Звездогляд
 btn_prev=Предыдущий
