@@ -1106,6 +1106,8 @@ goal_designerMode=Try out the <color="green">Path Designer Mode.
 goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
+str_setting_credits=Credits
+
 str_credits_main=TLL by:
 str_credits_execProd=
 str_credits_art=Art:
