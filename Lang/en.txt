@@ -113,6 +113,8 @@ Monsters/Monster_knucklehead=Knucklehead
 Monsters/Monster_knucklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
 Monsters/Monster_osstax=Osstax
 Monsters/Monster_osstax_bio=Osstax bio
+Monsters/Monster_cybop=Cybop
+Monsters/Monster_cybop_bio=Cybop bio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
@@ -137,6 +139,8 @@ Monsters/Monster_tiawa=Tiawa
 Monsters/Monster_tiawa_bio=Tiawa bio
 Monsters/Monster_bisonorus=Bisonorus
 Monsters/Monster_bisonorus_bio=Bisonorus bio (Azu if you will write this, please mention how the emperor looks like a wig when they are sleping)
+Monsters/Monster_shellbeat=Shellbeat
+Monsters/Monster_shellbeat_bio=Shellbeat bio
 
 #MARSH FANMADES#
 Monsters/Monster_likho=Yap
@@ -183,6 +187,15 @@ Monsters/Monster_knife_bio=Banch bio
 
 Monsters/Monster_wheezel=Wheezel
 Monsters/Monster_wheezel_bio=Wheezel bio
+
+Monsters/Monster_wheezel_rock=Wheezel Rock
+Monsters/Monster_wheezel_rock_bio=Wheezel Rock bio
+
+Monsters/Monster_knurv=Knurv
+Monsters/Monster_knurv_bio=Knurv bio
+
+Monsters/Monster_knurv_rock=Knurv Rock
+Monsters/Monster_knurv_rock_bio=Knurv Rock bio
 
 Monsters/Monster_reebro=Reebro
 Monsters/Monster_reebro_bio=Reebro bio
