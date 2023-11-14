@@ -505,6 +505,8 @@ Structures/Structure_breeding_undof_bio=Esta estrutura peculiar tem sido usada d
 Structures/Structure_breeding_undof2=Estrutura de Procriação Melhorada
 Structures/Structure_breeding_undof2_bio=A procriação é um negócio complicado na melhor das hipóteses, então uma pequenina vantagem ajuda. Graças à inestimável pesquisa de campo que foi coletada nos últimos dois anos, a complexa interação dos poderes elementais agora é melhor compreendida do que nunca! Esta estrutura de criação aprimorada reduz o tempo de espera de criação em 25%!
 
+Structures/Structure_breeding_undof3=Estrutura de Procriação Açucarada
+Structures/Structure_breeding_undof3_bio=Doce
 
 ###--Food Making------------------------------------------###
 Structures/Structure_bakery=Padaria
@@ -877,6 +879,21 @@ str_popup_knottmaker_fail_noitems=Sua criação falhou! Infelizmente todos seus 
 str_popup_notOnThisIsland=Isso não está disponvél 
 str_noitems=Sem Itens
 
+str_setting_credits=Créditos
+
+str_credits_main=T.L.L. por:
+str_credits_execProd=Suporte:
+str_credits_art=Arte:
+str_credits_anim=Animações:
+str_credits_mus=Música:
+str_credits_musSec=Música Secundária:
+str_credits_va=Dublagem:
+str_credits_concept=Concepts:
+str_credits_writing=Escrita:
+str_credits_trans_rus=Tradução para Russo:
+str_credits_trans_pr=Tradução para Português-Brasileiro:
+str_credits_thanks=Agradecimentos Especiais:
+
 MonsterLockedBio=Você não encontrou esse monstro ainda. Jogue mais para desbloquea-lo depois!
 str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
 
@@ -1092,6 +1109,7 @@ btn_changeTime=Distorcer
 btn_changeTime=Distorcer Tempo
 btn_shop_celestials=Celestiais
 btn_shop_babyMomsters=Monstros Bebês
+btn_activate=Ativar
 
 btn_craft=Criar
 btn_settings=Configurações
