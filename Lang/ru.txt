@@ -2298,6 +2298,8 @@ btn_designerMode=Режим дизайнера
 btn_goals=Задания
 btn_collectAll=Собрать всё
 
+str_island_unlock=Разблокируется на\n<color=green>уровне: <lvl>
+
 btn_activate=Активировать
 
 
@@ -2319,6 +2321,12 @@ btn_shop_deco_statues=Статуи
 btn_shop_deco_paths=Дорожки
 btn_shop_deco_obstacles=Препятствия
 btn_shop_deco_other=Другое
+
+
+btn_shop_currency=Валюта
+
+btn_shop_celestials=Небожители
+btn_shop_babyMomsters=Юные Монстры
 
 btn_shop_structures=Здания
 
