@@ -2383,6 +2383,22 @@ btn_designerMode_save=Сохранить
 
 
 
+str_setting_credits=Авторы
+
+str_credits_main=T.L.L. от:
+str_credits_execProd=Поддержка:
+str_credits_art=Художники:
+str_credits_anim=Анимации:
+str_credits_mus=Музыка:
+str_credits_musSec=Дополнительная музыка:
+str_credits_va=Озвучка:
+str_credits_concept=Концепции:
+str_credits_writing=Текст:
+str_credits_trans_rus=Русский перевод:
+str_credits_trans_pr=Португальский перевод:
+str_credits_thanks=Особая благодарность:
+
+
 ЦЕЛИ
 
 
