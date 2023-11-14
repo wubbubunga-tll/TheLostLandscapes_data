@@ -74,7 +74,6 @@ Olaf
 Erick the PinkSauce
 
 <Title>str_credits_thanks
-Balls
 salt for some reason
 Verenne
 Vinster_Minster
@@ -90,6 +89,7 @@ dxty/Dusty
 Olaf
 Spectral
 Tapry
+Balls
 OndrBondr
 ADAM
 Blake at Stake
