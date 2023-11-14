@@ -2298,7 +2298,7 @@ btn_designerMode=Режим дизайнера
 btn_goals=Задания
 btn_collectAll=Собрать всё
 
-str_island_unlock=Разблокируется на\n<color=green>уровне: <lvl>
+str_island_unlock=Доступно на\n<color=green>уровне: <lvl>
 
 btn_activate=Активировать
 
