@@ -22,7 +22,7 @@ Monsters/Monster_banno 35
 Monsters/Monster_stoopa 20
 
 Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 100
-Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 100
+Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 0
 
 Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 0
 Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 0
