@@ -1,26 +1,26 @@
-<Title>Tll by:
+<Title>str_credits_main
 Raw Zebra
 
-<Title>Executive Producer:
+<Title>str_credits_execProd
 Azuran_SHadow
 
-<Title>Art:
+<Title>str_credits_art
 Raw Zebra
 Uksus
 Sierr
 Licoad
 VisscaGem
 
-<Title>Animations:
+<Title>str_credits_anim
 Raw Zebra
 DaylenGG
 
-<Title>Music:
+<Title>str_credits_mus
 Raw Zebra
 Uksus
 MantisGirl
 
-<Title>Secondary Music:
+<Title>str_credits_musSec
 ADAM
 Exclaim!
 JakeTheDrake
@@ -30,17 +30,16 @@ The Monster Explorers
 Azuran_SHadow
 Pupka
 
-<Title>Voice Acting:
+<Title>str_credits_va
 Raw Zebra
 sophiestrawberry
 Rebeka the Bowgart
 FreakKnife
 TrebleStroke
-Matthew the Bowgart
 Jobo
 Zhanya Gennadiy
 
-<Title>Concepts:
+<Title>str_credits_concept
 Raw Zebra
 Uksus
 Licoad
@@ -55,26 +54,26 @@ Xanderrock98
 Azuran_SHadow
 dxty/Dusty
 
-<Title>Writing:
+<Title>str_credits_writing
 Azuran_SHadow
 Raw Zebra
 VisscaGem
 Jobo
 Gob
 
-<Title>Russian Translators:
+<Title>str_credits_trans_rus
 Gob
 Raw Zebra
 OndrBondr
 Pupka
 
-<Title>Portuguese Translator:
+<Title>str_credits_trans_pr
 VisscaGem
 Kaww
 Olaf
 Erick the PinkSauce
 
-<Title>Special thanks to:
+<Title>str_credits_thanks
 Balls
 salt for some reason
 Verenne
@@ -99,7 +98,6 @@ Kaww
 Licoad
 magnacrabb
 Matmat
-Matthew the Bowgart
 JakeTheDrake
 Qualm 
 DaylenGG
