@@ -432,8 +432,8 @@ Monsters/Monster_scaratar diamonds=3500
 Monsters/Monster_flootfly diamonds=75
 Monsters/Monster_furcorn diamonds=125
 Monsters/Monster_rootitoot diamonds=150
-Monsters/Monster_spurrit_desert Flower_red=1
-Monsters/Monster_bisonorus Flower_red=1
+Monsters/Monster_spurrit_desert Vortex=1
+Monsters/Monster_bisonorus Vortex=1
 -
 monster_rares:
 -
@@ -586,22 +586,22 @@ Decoration/Obstacle_placable_Candy_6
 Calamity
 monsters:
 Monsters/Monster_stogg_undof
-Monsters/Monster_varrow Flower_red=1
-Monsters/Monster_boskus Flower_red=1
-Monsters/Monster_pango Flower_red=1
-Monsters/Monster_denchuhs Flower_red=1
-Monsters/Monster_banno Flower_red=1
+Monsters/Monster_varrow Vortex=1
+Monsters/Monster_boskus Vortex=1
+Monsters/Monster_pango Vortex=1
+Monsters/Monster_denchuhs Vortex=1
+Monsters/Monster_banno Vortex=1
 Monsters/Monster_rootitoot
-Monsters/Monster_pummel Flower_red=1
-Monsters/Monster_clamble Flower_red=1
-Monsters/Monster_deedge Flower_red=1
-Monsters/Monster_tiawa Flower_red=1
-Monsters/Monster_arackulele Flower_red=1
+Monsters/Monster_pummel Vortex=1
+Monsters/Monster_clamble Vortex=1
+Monsters/Monster_deedge Vortex=1
+Monsters/Monster_tiawa Vortex=1
+Monsters/Monster_arackulele Vortex=1
 Monsters/Monster_punkleton
-Monsters/Monster_ffydill Flower_red=1
+Monsters/Monster_ffydill Vortex=1
 Monsters/Monster_blasoom
-Monsters/Monster_poewk Flower_red=1
-Monsters/Monster_pixolotl Flower_red=1
+Monsters/Monster_poewk Vortex=1
+Monsters/Monster_pixolotl Vortex=1
 -
 decorations:
 Decoration/Decoration_test
