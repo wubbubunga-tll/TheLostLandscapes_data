@@ -1,7 +1,7 @@
 
 EM: 1
 diamonds=10
-Mushroom_1=10
+Mushroom_1=5
 Mushroom_2=5
 Lilly=5
 ;
