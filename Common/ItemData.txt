@@ -8,7 +8,7 @@ Flower_yellow 34 flowers
 Flower_blue 33 flowers
 Fruit_apple 50 fruits
 ;
-Island_EM: 100 155
+Island_EM: 100 160
 Flower_red 10 flowers
 Flower_yellow 10 flowers
 Flower_blue 15 flowers
@@ -26,7 +26,7 @@ Rock 100 ground
 Vortex 10 ground_log
 Wool 100 ground,wool
 ;
-Island_Candy: 40 30
+Island_Candy: 40 40
 Peppermint 100 ground
 Candycorn 100 ground
 Candycane 100 ground
