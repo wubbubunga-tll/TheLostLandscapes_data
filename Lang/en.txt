@@ -1133,6 +1133,7 @@ str_credits_writing=Writing:
 str_credits_trans_rus=Russian Translation:
 str_credits_trans_pr=Portuguese Translation:
 str_credits_thanks=Special Thanks:
+str_credits_cityContest=Contest Winners:
 
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>

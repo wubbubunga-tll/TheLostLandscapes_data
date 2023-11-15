@@ -2405,6 +2405,7 @@ str_credits_writing=Текст:
 str_credits_trans_rus=Русский перевод:
 str_credits_trans_pr=Португальский перевод:
 str_credits_thanks=Особая благодарность:
+str_credits_cityContest=Победители конкурсов:
 
 
 ЦЕЛИ
