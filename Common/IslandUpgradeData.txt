@@ -3,7 +3,7 @@ EM: 1
 diamonds=10
 Mushroom_1=10
 Mushroom_2=5
-Lilly=10
+Lilly=5
 ;
 City: 1
 coins=100
