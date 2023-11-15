@@ -22,7 +22,7 @@ City: 3
 diamonds=25
 Flower_blue=25
 Flower_red=25
-Log=25
+Log=20
 Mushroom_2=10
 ITM_grain=5
 ;
