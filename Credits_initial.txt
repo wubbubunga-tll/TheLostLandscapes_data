@@ -73,12 +73,6 @@ Kaww
 Olaf
 Erick the PinkSauce
 
-<Title>str_credits_cityContest
-MSMChronicles
-Pinakin
-V11Monsters
-PeriPower
-
 <Title>str_credits_thanks
 salt for some reason
 Verenne
@@ -116,3 +110,13 @@ Gob
 Louize
 Pupka
 Yerny
+MSMChronicles
+Pinakin
+V11Monsters
+PeriPower
+
+<Title>str_credits_cityContest
+MSMChronicles
+Pinakin
+V11Monsters
+PeriPower
