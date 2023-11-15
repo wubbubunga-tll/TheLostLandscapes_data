@@ -1374,7 +1374,7 @@ Stampy
 Vern
 Zeecha
 ;
-Monsters/Monster_kayna_young,Monsters/Monster_kanya_undof
+Monsters/Monster_kayna_young,Monsters/Monster_kayna_undof
 Xama
 Caldera
 Chanda
