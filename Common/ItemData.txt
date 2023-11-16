@@ -19,7 +19,7 @@ Mushroom_1 30 ground
 Mushroom_2 10 tree
 Lilly 4 lilly
 ;
-Island_Knottshurr: 40 60
+Island_Knottshurr: 60 60
 BlueLog 100 trees
 Bone 100 ground
 Rock 100 ground
