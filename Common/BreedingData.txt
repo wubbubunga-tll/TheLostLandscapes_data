@@ -21,7 +21,7 @@ Monsters/Monster_dulsylvan_rare 35 _rare
 Monsters/Monster_banno 35
 Monsters/Monster_stoopa 20
 
-Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 100
+Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 0
 Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 0
 
 Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 0
