@@ -16,7 +16,7 @@ Wool
 Foam
 Seaweed
 Icicle
-BloodCell
+BloodCells
 Virus
 Fabric
 Spark
