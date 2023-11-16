@@ -113,10 +113,10 @@ Yerny
 MSMChronicles
 Pinakin
 V11Monsters
-PeriPower
+PeriShlepper
 
 <Title>str_credits_cityContest
 MSMChronicles
 Pinakin
 V11Monsters
-PeriPower
+PeriShlepper
