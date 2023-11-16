@@ -816,6 +816,7 @@ str_currency_BloodCells=Blood Cells
 str_currency_BlueLog=Knottshurr Log
 str_currency_Log=Log
 str_currency_Bone=Bone
+str_currency_Dew=Dew
 str_currency_Candycane=Candycane
 str_currency_Candycorn=Candycorn
 str_currency_Cattail=Cattail
