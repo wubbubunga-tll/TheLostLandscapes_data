@@ -25,4 +25,5 @@
 24 1000000
 25 10000000
 26 90000000
+27 99000000
 1000 100000000  Monsters/Monster_hornacle,Monsters/Monster_loodvigg,Monsters/Monster_blasoom,Monsters/Monster_torrt,Monsters/Monster_scaratar,Monsters/Monster_syncopite,Monsters/Monster_attmoz,Monsters/Monster_vhamp,Monsters/Monster_furnoss
