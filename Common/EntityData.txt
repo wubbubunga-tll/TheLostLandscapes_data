@@ -279,22 +279,22 @@ Organ_path1 coins=500 0 0
 Organ_path2 coins=500 0 0
 Organ_path3 coins=850 0 0
 
-Decoration/Decoration_test coins=100 2 0
-Decoration/Decoration_test1 coins=100 2 0
-Decoration/Decoration_test2 coins=300 5 0
-Decoration/Decoration_test3 coins=200 5 0
-Decoration/Decoration_test4 coins=200 5 0
-Decoration/Decoration_test5 coins=200 5 0
-Decoration/Decoration_test6 coins=200 5 0
-Decoration/Decoration_test7 coins=200 5 0
-Decoration/Decoration_test8 coins=200 5 0
-Decoration/Decoration_test9 coins=200 5 0
-Decoration/Decoration_test10 coins=200 5 1
-Decoration/Decoration_test11 coins=200 5 0
-Decoration/Decoration_test12 coins=200 5 0
+Decoration/Decoration_test coins=100 xpWhenPlaced:100 2 0
+Decoration/Decoration_test1 coins=100 xpWhenPlaced:100 2 0
+Decoration/Decoration_test2 coins=300 xpWhenPlaced:100 5 0
+Decoration/Decoration_test3 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test4 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test5 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test6 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test7 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test8 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test9 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test10 coins=200 xpWhenPlaced:100 5 1
+Decoration/Decoration_test11 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test12 coins=200 xpWhenPlaced:100 5 0
 
-Decoration/Decoration_knott coins=20000 0 0
-Decoration/Decoration_mors coins=15000 0 0
+Decoration/Decoration_knott coins=20000 xpWhenPlaced:100 0 0
+Decoration/Decoration_mors coins=15000 xpWhenPlaced:100 0 0
 
 Decoration/Obstacle_EM_1 coins=-100 25
 Decoration/Obstacle_EM_2 coins=-500 50
@@ -303,12 +303,12 @@ Decoration/Obstacle_EM_4 coins=-100 25
 Decoration/Obstacle_EM_5 coins=-500 50
 Decoration/Obstacle_EM_6 coins=-1000 75
 
-Decoration/Obstacle_placable_EM_1 diamonds=3 0 0
-Decoration/Obstacle_placable_EM_2 diamonds=6 0 0
-Decoration/Obstacle_placable_EM_3 diamonds=9 0 0
-Decoration/Obstacle_placable_EM_4 diamonds=5 0 0
-Decoration/Obstacle_placable_EM_5 diamonds=10 0 0
-Decoration/Obstacle_placable_EM_6 diamonds=15 0 0
+Decoration/Obstacle_placable_EM_1 diamonds=3 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_EM_2 diamonds=6 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_EM_3 diamonds=9 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_EM_4 diamonds=5 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_EM_5 diamonds=10 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_EM_6 diamonds=15 xpWhenPlaced:100 0 0
 
 Decoration/Obstacle_Candy_1 coins=-4000 25
 Decoration/Obstacle_Candy_2 coins=-25000 50
@@ -317,12 +317,12 @@ Decoration/Obstacle_Candy_4 coins=-9000 25
 Decoration/Obstacle_Candy_5 coins=-100000 50
 Decoration/Obstacle_Candy_6 coins=-110000 75
 
-Decoration/Obstacle_placable_Candy_1 diamonds=1 0 0
-Decoration/Obstacle_placable_Candy_2 diamonds=2 0 0
-Decoration/Obstacle_placable_Candy_3 diamonds=3 0 0
-Decoration/Obstacle_placable_Candy_4 diamonds=2 0 0
-Decoration/Obstacle_placable_Candy_5 diamonds=5 0 0
-Decoration/Obstacle_placable_Candy_6 diamonds=10 0 0
+Decoration/Obstacle_placable_Candy_1 diamonds=1 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Candy_2 diamonds=2 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Candy_3 diamonds=3 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Candy_4 diamonds=2 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Candy_5 diamonds=5 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Candy_6 diamonds=10 xpWhenPlaced:100 0 0
 
 Decoration/Obstacle_Knott_1 diamonds=-1 Wool=1,BlueLog=1
 Decoration/Obstacle_Knott_2 diamonds=-2 Wool=3,BlueLog=2
@@ -335,19 +335,19 @@ Decoration/Obstacle_Knott_8 diamonds=-4 Rock=3
 Decoration/Obstacle_Knott_9 diamonds=-5 Rock=5
 Decoration/Obstacle_Knott_10 diamonds=-10 Vortex=1
 
-Decoration/Obstacle_placable_Knott_1 diamonds=3 0 0
-Decoration/Obstacle_placable_Knott_2 diamonds=5 0 0
-Decoration/Obstacle_placable_Knott_3 diamonds=10 0 0
-Decoration/Obstacle_placable_Knott_4 diamonds=3 0 0
-Decoration/Obstacle_placable_Knott_5 diamonds=5 0 0
-Decoration/Obstacle_placable_Knott_6 diamonds=10 0 0
-Decoration/Obstacle_placable_Knott_7 diamonds=3 0 0
-Decoration/Obstacle_placable_Knott_8 diamonds=5 0 0
-Decoration/Obstacle_placable_Knott_9 diamonds=10 0 0
-Decoration/Obstacle_placable_Knott_10 diamonds=10 0 0
+Decoration/Obstacle_placable_Knott_1 diamonds=3 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_2 diamonds=5 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_3 diamonds=10 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_4 diamonds=3 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_5 diamonds=5 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_6 diamonds=10 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_7 diamonds=3 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_8 diamonds=5 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_9 diamonds=10 xpWhenPlaced:100 0 0
+Decoration/Obstacle_placable_Knott_10 diamonds=10 xpWhenPlaced:100 0 0
 
 
-Decoration/Dog food=2000 20 0
+Decoration/Dog food=2000 xpWhenPlaced:100 20 0
 
 
 Monsters/Monster_mammott_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
