@@ -1,6 +1,8 @@
 -------
 WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Zap the monsters you've bred or placed on this island, and they'll transform into the electrical energy required to take up this Wublin.
 
+DipsterBio=Timid in the light, Dipsters make their homes underground. The muffled monster music from above gives Dipsters the courage to rise and join the harmonious melody! ... although it may only be one note at a time. Dipsters are resourceful creatures, and collect natural materials to disguise the entrances to their tunnels. No one knows how far down a Dipster hole goes.
+
 MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it later.
 
 gamma water pummel name - Wabdabuana (Raw asked tp add that here
@@ -168,19 +170,19 @@ Monsters/Monster_treble=Ethenor
 Monsters/Monster_treble_bio=Ethenor bio
 
 Monsters/Monster_dipster_1=Do
-Monsters/Monster_dipster_1_bio=Do bio
+Monsters/Monster_dipster_1_bio=<ref>DipsterBio
 Monsters/Monster_dipster_2=Re
-Monsters/Monster_dipster_2_bio=Re bio
+Monsters/Monster_dipster_2_bio=<ref>DipsterBio
 Monsters/Monster_dipster_3=Mi
-Monsters/Monster_dipster_3_bio=Mi bio
+Monsters/Monster_dipster_3_bio=<ref>DipsterBio
 Monsters/Monster_dipster_4=Fa
-Monsters/Monster_dipster_4_bio=Fa bio
+Monsters/Monster_dipster_4_bio=<ref>DipsterBio
 Monsters/Monster_dipster_5=Sol
-Monsters/Monster_dipster_5_bio=Sol bio
+Monsters/Monster_dipster_5_bio=<ref>DipsterBio
 Monsters/Monster_dipster_6=La
-Monsters/Monster_dipster_6_bio=La bio
+Monsters/Monster_dipster_6_bio=<ref>DipsterBio
 Monsters/Monster_dipster_7=Ti
-Monsters/Monster_dipster_7_bio=Ti bio
+Monsters/Monster_dipster_7_bio=<ref>DipsterBio
 
 Monsters/Monster_knife=Banchi
 Monsters/Monster_knife_bio=Banch bio
