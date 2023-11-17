@@ -1,13 +1,15 @@
 Tll-first-online-update12
 
 
-gm_quibblegm_1 audio GM
-monster_cataliszt entity Monsters/Monster_cataliszt
-monster_quibblegm entity Monsters/Monster_quibbleGM
-desert scene Desert
+gm_midi midi
+gm_sounds audio GM
+
+desert_scene scene Desert
 ti scene TI
 gm_scene scene GM
-gm midi
+
+monster_cataliszt entity Monsters/Monster_cataliszt
+monster_quibblegm entity Monsters/Monster_quibbleGM
 
 
 
