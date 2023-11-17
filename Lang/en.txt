@@ -1143,5 +1143,6 @@ Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
 str_class_YOOL=<YOURMISSINGYOOL>
 
 Monsters/Monster_potbellyGM=Kelpebbul
+Monsters/Monster_potbellyGM_bio=Kelpebbul bio
 Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Kazakhstan.
