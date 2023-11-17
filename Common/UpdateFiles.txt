@@ -5,7 +5,7 @@ gm_midi midi
 gm_sounds audio GM
 
 desert_scene scene Desert
-ti scene TI
+ti_scene scene TI
 gm_scene scene GM
 
 monster_cataliszt entity Monsters/Monster_cataliszt
