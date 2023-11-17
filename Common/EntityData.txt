@@ -143,17 +143,17 @@ Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost wh
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 
 
-Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_1 0 0
-Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_2 0 0
-Monsters/Knott_3 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_3 0 0
-Monsters/Knott_4 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_4 0 0
-Monsters/Knott_5 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_5 0 0
-Monsters/Knott_6 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_6 0 0
-Monsters/Knott_7 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_7 0 0
-Monsters/Knott_8 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_8 0 0
-Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_9 0 0
-Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=1,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_10 0 0
-Monsters/Knott_special diamonds=2000 knottshurr 0 10000000 diamonds=5,stars=10,stars=1@43200@diamonds=10,stars=2,stars=1 Lost ,Knott_special 0 0
+Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_1 0 0
+Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_2 0 0
+Monsters/Knott_3 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_3 0 0
+Monsters/Knott_4 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_4 0 0
+Monsters/Knott_5 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_5 0 0
+Monsters/Knott_6 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_6 0 0
+Monsters/Knott_7 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_7 0 0
+Monsters/Knott_8 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_8 0 0
+Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_9 0 0
+Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 diamonds=10,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_10 0 0
+Monsters/Knott_special diamonds=2000 knottshurr 0 10000000 diamonds=15,stars=10,stars=1@43200@diamonds=10,stars=2,stars=1 Lost ,Knott_special 0 0
 
 Monsters/Knott_1_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_1_rare 0 0
 Monsters/Knott_2_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_2_rare 0 0
