@@ -10,13 +10,13 @@
 9 10000
 10 14000 ISL:Knottshurr
 11 18000
-12 22000 ISL:Organs
+12 22000
 13 30000
 14 36000
 15 40000 ISL:Desert
 16 50000
-17 70000 ISL:GM
+17 70000
 18 100000
 19 130000
-20 150000 ISL:Meduza,ISL:Calamity
+20 150000 ISL:Meduza,ISL:Calamity,ISL:Organs,ISL:GM
 1000 100000000  Monsters/Monster_hornacle,Monsters/Monster_loodvigg,Monsters/Monster_blasoom,Monsters/Monster_torrt,Monsters/Monster_scaratar,Monsters/Monster_syncopite,Monsters/Monster_attmoz,Monsters/Monster_vhamp,Monsters/Monster_furnoss
