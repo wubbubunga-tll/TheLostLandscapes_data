@@ -463,7 +463,7 @@ Structures/Structure_breeding_undof_bio=This peculiar structure has been in use 
 Structures/Structure_breeding_undof2=Enhanced Breeding Structure
 Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
 Structures/Structure_breeding_undof3=Sweetened Breeding Structure
-Structures/Structure_breeding_undof3_bio=Yes
+Structures/Structure_breeding_undof3_bio=Despite the faster wait times of the Enhanced Breeding Structure, breeding can still be a quite a tricky matter... Luckily, the newly Sweetened Breeding Structure can help! Upgraded through various items & resources from the Candy Island, the highly-efficient Sweetened Breeding Structure reduces breeding waiting times by 50%, more than ever before!
 
 
 Structures/Structure_castle_undof=Basic Castle
