@@ -1,4 +1,4 @@
-Tll-first-online-update9
+Tll-first-online-update10
 
 
 gm_quibblegm_1 audio GM
@@ -6,6 +6,7 @@ monster_cataliszt entity Monsters/Monster_cataliszt
 monster_quibblegm entity Monsters/Monster_quibbleGM
 desert scene Desert
 ti scene TI
+gm_scene scene GM
 gm midi
 
 
