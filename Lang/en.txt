@@ -1143,3 +1143,4 @@ Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
 str_class_YOOL=<YOURMISSINGYOOL>
 
 Monsters/Monster_potbellyGM=Kelpebbul
+Monsters/Monster_quibbleGM=Jastanaw
