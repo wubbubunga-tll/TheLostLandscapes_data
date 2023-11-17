@@ -702,8 +702,8 @@ Monsters/Monster_deedge_dream
 ;
 GM
 monsters:
-Monsters/Monster_olga Vortex=8
-Monsters/Monster_potbellyGM Vortex=10
+Monsters/Monster_olga Vortex=3
+Monsters/Monster_potbellyGM Vortex=5
 Monsters/Monster_quibbleGM Jewel=10
 -
 decorations:
