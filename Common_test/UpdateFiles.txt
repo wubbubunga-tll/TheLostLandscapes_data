@@ -5,7 +5,7 @@ gm_midi midi
 gm_sounds audio GM
 
 desert_scene scene Desert
-ti scene TI
+ti_scene TI
 gm_scene scene GM
 gm_test scene GM_test
 
