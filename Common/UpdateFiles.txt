@@ -1,5 +1,20 @@
 dsgfhjfdhsgdzfgxhfj
 
+
+
+egyptpipes_midi midi
+gm_quibblegm_1 audio GM
+monster_cataliszt entity Monsters/Monster_cataliszt
+monster_quibblegm entity Monsters/Monster_quibbleGM
+desert scene Desert
+ti scene TI
+
+
+
+
+
+
+
 monster_clamble entity-d Monsters/Monster_clamble
 desert scene-d Desert
 
@@ -11,10 +26,10 @@ monster_cataliszt entity-d Monsters/Monster_cataliszt
 dreamaudio2 audio-d dream
 dream midi-d
 
-egyptpipes_scene scene EgpytPipes
-egyptpipes_audio audio EgpytPipes
-egyptpipes_entities entities Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
-egyptpipes_midi midi
+egyptpipes_scene scene-d EgpytPipes
+egyptpipes_audio audio-d EgpytPipes
+egyptpipes_entities entities-d Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
+egyptpipes_midi midi-d
 
 eggs sprites-d eggs
 icons sprites-d icons
