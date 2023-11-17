@@ -60,7 +60,6 @@ Structures/Structure_breeding
 Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_bass
-Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -172,7 +171,6 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_masher
 Structures/Structure_breeding_city
-Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -248,7 +246,6 @@ Decoration/Obstacle_placable_Knott_10
 -
 structures:
 Structures/Structure_bakery
-Structures/Structure_timemachine
 
 -
 deco_paths:
@@ -321,7 +318,6 @@ structures:
 Structures/Structure_breeding
 Structures/Structure_crafter
 Structures/Structure_bakery
-Structures/Structure_timemachine
 -
 deco_paths:
 Organ_path1
@@ -380,7 +376,6 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-Structures/Structure_timemachine
 
 -
 deco_paths:
@@ -443,7 +438,6 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
-Structures/Structure_timemachine
 
 -
 deco_paths:
@@ -536,7 +530,6 @@ Structures/Structure_breeding_undof
 Structures/Structure_breeding_undof2
 Structures/Structure_breeding_undof3
 Structures/Structure_bakery
-Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -609,7 +602,6 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
-Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -662,7 +654,6 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
-Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
