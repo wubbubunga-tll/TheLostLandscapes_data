@@ -1144,3 +1144,4 @@ str_class_YOOL=<YOURMISSINGYOOL>
 
 Monsters/Monster_potbellyGM=Kelpebbul
 Monsters/Monster_quibbleGM=Jastanaw
+Monsters/Monster_quibbleGM_bio=Kazakhstan.
