@@ -33,7 +33,7 @@ Monsters/Monster_clackula_young_bio=While normally reserved and quiet, the hands
 Monsters/Monster_dandidoo_young=Young Dandidoo
 Monsters/Monster_dandidoo_young_bio=With that delightful tuft, the unmistakable dandidoo prefers to sit in one spot, admiring the world as it goes by. Who knows whether it forgets all it sees, or if echos of a murky past remain, tucked away within the dandelion dancer. 
 Monsters/Monster_oaktopus_young=Young Oaktopus
-Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst the Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
+Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst The Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
 Monsters/Monster_maw_young=Young Maw
 Monsters/Monster_maw_young_bio=It should come to no surprise that the young Maw is filled to the brim of pure water! Essentially acting as fuzzy water balloons, Maw pups quickly learn to manage their fluid intake and outtake through their highly-evolved... well, maws. While being slobbered on by a wandering Maw tongue may never be a pleasant experience to bystanders, the handlers have determined it more just means said maw wants to be your friend. aww.
 Monsters/Monster_quibble_young=Young Quibble
@@ -66,7 +66,7 @@ Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 
 #BABY SEASONALS#
 Monsters/Monster_punkleton_young=Young Punkleton
-Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emerged from the pumpkins that litter the floating city, enchanted by the harvest moon.The gourdly ghouls love to creep up behind fellow monsterlings, before surprising them- with loads of tasty treats!
+Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emerged from the pumpkins that litter the Floating City, enchanted by the harvest moon. The gourdly ghouls love to creep up behind fellow monsterlings, before surprising them- with loads of tasty treats!
 
 
 
@@ -319,7 +319,7 @@ Monsters/Knott_7_bio="Flocca! Flocca!"\nCan be heard whenever this monster is ar
 Monsters/Knott_8=Cleomace
 Monsters/Knott_8_bio=Cleomace bio
 Monsters/Knott_9=Babushka Knittshurr
-Monsters/Knott_9_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
+Monsters/Knott_9_bio=Meet the friendliest creature in The Lost World. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
 Monsters/Knott_10=Bel'yawn Zirro
 Monsters/Knott_10_bio=Bel'yawn Zirro bio
 Monsters/Knott_special=Chimblickle
@@ -463,7 +463,7 @@ Structures/Structure_breeding_undof_bio=This peculiar structure has been in use 
 Structures/Structure_breeding_undof2=Enhanced Breeding Structure
 Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
 Structures/Structure_breeding_undof3=Sweetened Breeding Structure
-Structures/Structure_breeding_undof3_bio=Yes
+Structures/Structure_breeding_undof3_bio=Despite the faster wait times of the Enhanced Breeding Structure, breeding can still be a quite a tricky matter... Luckily, the newly Sweetened Breeding Structure can help! Upgraded through various items & resources from the Candy Island, the highly-efficient Sweetened Breeding Structure reduces breeding waiting times by 50%, more than ever before!
 
 
 Structures/Structure_castle_undof=Basic Castle
@@ -500,7 +500,7 @@ Structures/Structure_bass=Bass machine
 Structures/Structure_bass_bio=The Bass Machine is a cutting edge mix of art and technology, originating from the age of the Great Burgundy Incident. While the knowledge to create more was lost long ago, many can be found lying around in buildings across the floating city. These strange machines are known to be far more intelligent than any other being within the known realm, but yet cannot communicate with the outside world, leaving them to hum and strum bass notes hoping to be understood…
 
 Structures/Structure_knottmaker1=Strange contraption
-Structures/Structure_knottmaker1_bio=A strange contraption bio
+Structures/Structure_knottmaker1_bio=Hmm... what could this strange contraption possibly be? Gather some resources around the island to find out!
 
 Structures/Structure_knottmaker2=Rejuvenated Amalgamator
 Structures/Structure_knottmaker2_bio=Amalgamator bio
