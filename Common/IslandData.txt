@@ -1,16 +1,16 @@
-City 0 Complete
-EM 0 Complete
+City 0 Complete Z
+EM 0 Complete Z
 Candy 4 Complete NoZeppelin
 Knottshurr 10 Complete NoZeppelin
-Organs 12 Complete
-Desert 10 Complete
-Calamity 20 Complete
-GM 15 Incomplete
-TI 16 Incomplete
+Organs 12 Complete Z
+Desert 10 Complete Z
+Calamity 20 Complete Z
+GM 15 Incomplete Z
+TI 16 Incomplete Z
 Meduza 25 Incomplete NoZeppelin
-dream 0 Complete
-Minigame_Thumpies 0 Complete
-Minigame_stacking 0 Complete
-Minigame_Simon 0 Complete
-Stargazer 0 Complete
-Credits 0 Complete
+dream 0 Complete Z
+Minigame_Thumpies 0 Complete Z
+Minigame_stacking 0 Complete Z
+Minigame_Simon 0 Complete Z
+Stargazer 0 Complete Z
+Credits 0 Complete Z
