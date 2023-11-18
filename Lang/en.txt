@@ -189,19 +189,19 @@ Monsters/Monster_dipster_7=Ti
 Monsters/Monster_dipster_7_bio=<ref>DipsterBio
 
 Monsters/Monster_knife=Banchi
-Monsters/Monster_knife_bio=Banch bio
+Monsters/Monster_knife_bio=Banchi is the beloved mythical of Candy Island. For years untold, the Banchi have been making the popular glutinous rice snack that is the monster-mochi, through which they also play their unique song. A rumor says that they use a secret ingredient to make their monster-mochi make a sound on impact, but no-one really knows what it is. Some speculations suggest that a certain feline spectral figure helped them out- someone who Banchi refers to as family.
 
 Monsters/Monster_wheezel=Wheezel
 Monsters/Monster_wheezel_bio=Wheezel bio
 
 Monsters/Monster_wheezel_rock=Wheezel Rock
-Monsters/Monster_wheezel_rock_bio=Wheezel Rock bio
+Monsters/Monster_wheezel_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
 
 Monsters/Monster_knurv=Knurv
 Monsters/Monster_knurv_bio=Knurv bio
 
 Monsters/Monster_knurv_rock=Knurv Rock
-Monsters/Monster_knurv_rock_bio=Knurv Rock bio
+Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
 
 Monsters/Monster_reebro=Reebro
 Monsters/Monster_reebro_bio=Reebro bio
