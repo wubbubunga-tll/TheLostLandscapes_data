@@ -534,7 +534,14 @@ Structures/Structure_breeding_undof3
 Structures/Structure_bakery
 -
 deco_paths:
-EM_path1
+Candy_path1
+Candy_path2
+Candy_path3
+Candy_path4
+Candy_path5
+Candy_path6
+Candy_path7
+Candy_path8
 -
 deco_trees:
 Decoration/Decoration_test
