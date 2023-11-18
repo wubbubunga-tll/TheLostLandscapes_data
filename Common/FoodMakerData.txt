@@ -10,5 +10,5 @@ ITM_rootbeer Log=1,Foam=4,Candycorn=5 1
 ITM_amberstick Relic=1,Log=2,Candycorn=4 1
 ITM_flingdrink Virus=1,Relic=1,Vortex=1,Lilly=1,Dew=20 5
 ITM_grain Cattail=1,Flower_yellow=2 4
-ITM_applejuice Fruit_apple=4,Dew=1 10
+ITM_applejuice Fruit_apple=4,Dew=5 10
 ITM_bloodcandy BloodCells=10,Candycorn=5 1 
