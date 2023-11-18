@@ -17,7 +17,7 @@ Log_water 15 water,water_log Log
 Log 20 ground
 Mushroom_1 30 ground
 Mushroom_2 10 tree
-Lilly 10 lilly
+Lilly 5 lilly
 ;
 Island_Knottshurr: 60 60
 BlueLog 100 trees
