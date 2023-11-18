@@ -3,9 +3,9 @@ EM 0 Complete
 Candy 4 Complete
 Knottshurr 10 Complete
 Organs 12 Complete
-Desert 15 Complete
+Desert 10 Complete
 Calamity 20 Complete
-GM 17 Incomplete
+GM 15 Incomplete
 TI 16 Incomplete
 Meduza 25 Incomplete
 dream 0 Complete
