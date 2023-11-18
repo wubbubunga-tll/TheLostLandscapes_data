@@ -451,9 +451,6 @@ Monsters/Monster_psychic_bio=Macrocranium bio
 Monsters/Monster_faerie=Chordyrid
 Monsters/Monster_faerie_bio=Chordyrid bio
 
-Monsters/Monster_olga=Olgaropipe
-Monsters/Monster_olga_bio=Olgaropipe bio
-
 Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=Breeding Structure bio
 
@@ -1148,6 +1145,8 @@ str_credits_cityContest=Contest Winners:
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
 str_class_YOOL=<YOURMISSINGYOOL>
 
+Monsters/Monster_olga=Olgaropipe
+Monsters/Monster_olga_bio=Olgaropipe bio
 Monsters/Monster_potbellyGM=Kelpebbul
 Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins of the monster world being transferred to a realm outside of space and time, the islands we know and love were turned into Gamma Islands, their inhabitants reborn into spectacular new forms. One such example is the Kelpebbul, the reformed plant elemental, who dazzles with a dreamy demeanor and charms with the sweetest of smiles. These stone monsters have the power to imbue lifeforce into any plant, rejuvinating flora of all sorts and giving them means to vocalize. These sprouts tend to have strange and unique voices, a result of discovering their singing abilities the first time. 
 Monsters/Monster_quibbleGM=Jastanaw
