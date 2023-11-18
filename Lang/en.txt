@@ -598,7 +598,7 @@ Monsters/Monster_claramel=Claramel
 Monsters/Monster_claramel_bio=The ever-shimmering Claramel is known for its caramelized form and playful tunes. But it wasn't always that way, and at one point it was in a liquid state, scathing and sticky. But an encounter with a Reedling inspired Claramel! It attached DIY cinnamon pipes to its tail and practiced tirelessly. Eventually the winds passing through froze its body in a crystalline dynamic splash that made it all the more memorable and beloved.
 
 Monsters/Monster_sprinklate=Sprinklate
-Monsters/Monster_sprinklate_bio=Cakehorn bio
+Monsters/Monster_sprinklate_bio=As the tasty team leader of Candy Island, almost everyone has heard of Sprinklate at some point or another. They love to lead various activities on the island, are enthusiastic members of the island's guard, and keep a watchful eye on all. Though Sprinklate loves all of their friends equally, they have a special spot in their heart for a fellow cake, who visits once a year. 
 
 Monsters/Monster_jamboree_undof=Jam Boree
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
