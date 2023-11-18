@@ -1599,17 +1599,17 @@ Monsters/Knott_special_rare_bio=Данные отсутствуют. Прихо�
 (((Гамма-Монстры)))
 
 
-Monsters/Monster_tweedle_gamma=Клюшалоб
-Monsters/Monster_tweedle_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_tweedleGM=Клюшалоб
+Monsters/Monster_tweedleGM_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_potbelly_gamma=Ламигалия
-Monsters/Monster_potbelly_gamma_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_potbellyGM=Ламигалия
+Monsters/Monster_potbellyGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_noggin_gamma=Кварабан
 Monsters/Monster_noggin_gamma_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_toejammer_gamma=Осьмидудка
-Monsters/Monster_toejammer_gamma_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_olga=Осьмидудка
+Monsters/Monster_olga_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dandidoo_gamma=иТара
 Monsters/Monster_dandidoo_gamma_bio=Данные отсутствуют. Приходите позже.
@@ -1617,8 +1617,8 @@ Monsters/Monster_dandidoo_gamma_bio=Данные отсутствуют. При�
 Monsters/Monster_cybop_gamma=Табикраб
 Monsters/Monster_cybop_gamma_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_quible_gamma=Спручик
-Monsters/Monster_quible_gamma_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_quibbleGM=Спручик
+Monsters/Monster_quibbleGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_shrubb_gamma=Улов-рес
 Monsters/Monster_shrubb_gamma_bio=Данные отсутствуют. Приходите позже.
