@@ -63,6 +63,8 @@ Monsters/Monster_meduza diamonds=1000 undead 0 100 coins=10@80@coins=1000 Supern
 Monsters/Monster_pummel diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
 Monsters/Monster_pummel_meduza diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
 
+Monsters/Monster_trox diamonds=70 water@earth@cold 43200 25 coins=1@72@coins=260 Natural trox,trox 4 0
+
 Monsters/Monster_knucklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical knucklehead,knucklehead 6 0
 Monsters/Monster_knucklehead_meduza diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 
