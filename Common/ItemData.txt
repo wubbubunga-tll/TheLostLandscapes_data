@@ -48,10 +48,10 @@ BloodCell_red 33 flying BloodCells
 BloodCell_white 33 flying BloodCells
 Virus 10 flying
 ;
-Island_Desert: 50 88
+Island_Desert: 30 88
 Fabric 60 ground
 Jewel 33 ground
-Goldenegg 4 ground
+Goldegg 4 ground
 Relic 10 ground
 ;
 CatBoi: 1 10
