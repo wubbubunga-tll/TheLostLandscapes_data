@@ -133,5 +133,5 @@ pyro
 HecRDeVEFJENVkOQiRmgMgLgLXfUSMPKhlYSIiS-Common
 Saltman
 
-UIRRIBNYPJPUCTTVYLQDHAWFD-Admin
+UIRRIBNYPJPUCTTVYLQDHAWFD-Common
 VisscaPcI need to check not translated
