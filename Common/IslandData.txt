@@ -1,12 +1,12 @@
 City 0 Complete
-EM 0 Complete
+EM 0 Completehttps://github.com/the-lost-team/TheLostLandscapes_data/tree/main/Common
 Candy 4 Complete NoZeppelin
 Knottshurr 10 Complete NoZeppelin
 Organs 12 Complete
 Desert 10 Complete
 Calamity 20 Complete
 GM 15 Incomplete
-TI 16 Incomplete
+TI 0 Incomplete
 Meduza 25 Incomplete NoZeppelin
 dream 0 Complete
 Minigame_Thumpies 0 Complete
