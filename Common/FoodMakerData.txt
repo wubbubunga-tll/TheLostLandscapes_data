@@ -1,5 +1,5 @@
 Foam Dew=3,Seaweed=1 2
-ITM_flowerjam Flower_blue=10,Lilly=5,Cattail=1 2
+ITM_flowerjam Flower_blue=10,Lilly=5,Flower_red=1 2
 ITM_salad Flower_red=5,Flower_yellow=5,Seaweed=10 5
 ITM_buttergum Butterfly=4,Candycane=3 5
 ITM_mushroombroth Bone=1,Dew=10,Mushroom_1=8,Mushroom_2=4 1
