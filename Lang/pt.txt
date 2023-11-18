@@ -465,7 +465,7 @@ Monsters/Monster_olga_bio=Olgaropipe bio
 Monsters/Monster_potbellyGM=Bobalgas
 Monsters/Monster_potbellyGM_bio=Kelpebbul bio
 
-Monsters/Monster_quibbleGM=Jastanaw
+Monsters/Monster_quibbleGM=Piorraça
 Monsters/Monster_quibbleGM_bio=Kazakhstan.
 
 ###--Guest------------------------------------------###
