@@ -702,9 +702,9 @@ Monsters/Monster_deedge_dream
 ;
 GM
 monsters:
-Monsters/Monster_olga Vortex=3
-Monsters/Monster_potbellyGM Vortex=5
-Monsters/Monster_quibbleGM Jewel=10
+Monsters/Monster_olga diamonds=1000
+Monsters/Monster_potbellyGM diamonds=1000
+Monsters/Monster_quibbleGM Jewel=10 diamonds=1000
 -
 decorations:
 Decoration/Decoration_test
