@@ -627,14 +627,14 @@ EM_path6_bio=These shavings off a Bihrrc tree have been left here for a while. S
 EM_path7=Overgrown Bubblerite Path
 EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
 
-Candy_path1=Cookie path
-Candy_path2=Chokklit path
-Candy_path3=White Chokklit path
+Candy_path1=Cookie Path
+Candy_path2=Chokkolit Path
+Candy_path3=White Chokkolit Path
 Candy_path4=Blue Cotton Candy
 Candy_path5=Pink Cotton Candy
 Candy_path6=Used Gum Path
-Candy_path7=Cookie Crumble path
-Candy_path8=Sprinkle surprise path
+Candy_path7=Cookie Crumble Path
+Candy_path8=Sprinkle Surprise Path
 
 Desert_path1=Desert path 1
 
