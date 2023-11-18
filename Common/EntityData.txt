@@ -248,7 +248,7 @@ Structures/Structure_jukebox coins=1000 0 1
 Structures/Structure_jukebox_dream coins=10 0 1
 Structures/Structure_bass coins=100000 0 2
 
-Structures/Structure_masher coins=0,diamonds=1000 3 2
+Structures/Structure_masher coins=0,diamonds=50 3 2
 Structures/Structure_crafter coins=50000 3 1
 
 Structures/Structure_knottmaker1 coins=100000 0 0
