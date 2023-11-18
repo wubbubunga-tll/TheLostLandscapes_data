@@ -73,7 +73,17 @@ Monsters/Monster_dandidoo_young_bio=Com aquele tufo felpudo, o inconfundível Da
 
 Monsters/Monster_furcorn=Sabugo Peludo
 Monsters/Monster_furcorn_bio=Furcorn bio
+
+Monsters/Monster_cybop=Cíbop
+Monsters/Monster_cybop_bio=Cybop bio
+
 #--Triples--#
+Monsters/Monster_trox_young=T-Rox Bebê
+Monsters/Monster_trox_young_bio=Young T-Rox bio
+
+Monsters/Monster_trox=T-Rox
+Monsters/Monster_trox_bio=T-Rox bio
+
 Monsters/Monster_spunge_young=Esponjo Bebê
 Monsters/Monster_spunge_young_bio=Young Spunge bio
 
@@ -102,6 +112,10 @@ Monsters/Monster_clamble_bio=Clamble bio
 ##--Quads------------------------------------------###
 Monsters/Monster_deedge=Dí-Jay
 Monsters/Monster_deedge_bio=Deedge bio
+
+Monsters/Monster_shellbeat=Bate-Carapaça
+Monsters/Monster_shellbeat_bio=Shellbeat bio
+
 
 ###--Fires------------------------------------------###
 #--Singles--#
@@ -284,6 +298,13 @@ Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 ###--Mythicals------------------------------------------###
 Monsters/Monster_wheezel=Sibilinha
 Monsters/Monster_wheezel_bio=Wheezel bio
+Monsters/Monster_wheezel_rock=Pedra de Esculpir Sibilinha
+Monsters/Monster_wheezel_rock_bio=Wheezel Rock bio
+
+Monsters/Monster_knurv=Malanervo
+Monsters/Monster_knurv_bio=Knurv bio
+Monsters/Monster_knurv_rock=Pedra de Esculpir Malanervo
+Monsters/Monster_knurv_rock_bio=Knurv Rock bio
 
 Monsters/Monster_cataliszt=Gatalisador
 Monsters/Monster_cataliszt_bio=Cataliszt bio
@@ -442,7 +463,10 @@ Monsters/Monster_olga=Olgapolva
 Monsters/Monster_olga_bio=Olgaropipe bio
 
 Monsters/Monster_potbellyGM=Bobalgas
+Monsters/Monster_potbellyGM_bio=Kelpebbul bio
 
+Monsters/Monster_quibbleGM=Jastanaw
+Monsters/Monster_quibbleGM_bio=Kazakhstan.
 
 ###--Guest------------------------------------------###
 Monsters/Special/Monster_melochness=Melódi-Ness
@@ -535,6 +559,7 @@ Structures/Structure_bass_bio=A Máquina de Baixo é uma mistura de arte e técn
 ###--Special------------------------------------------###
 Structures/Structure_stargazer=Observátorio
 Structures/Structure_stargazer_bio=Observatory bio
+
 
 Structures/Structure_timemachine=Máquina do Tempo
 Structures/Structure_timemachine_bio=Time Machine bio
@@ -878,6 +903,7 @@ str_popup_knottmaker_fail_items=Sua criação falhou! Don't worry you get some o
 str_popup_knottmaker_fail_noitems=Sua criação falhou! Infelizmente todos seus itens foram perdidos...
 str_popup_notOnThisIsland=Isso não está disponvél 
 str_noitems=Sem Itens
+str_popup_stargazerNotRightLevel=O observátorio não pode ser ativado ainda. Expanda sua ilha antes.
 
 str_setting_credits=Créditos
 
@@ -893,7 +919,7 @@ str_credits_writing=Escrita:
 str_credits_trans_rus=Tradução para Russo:
 str_credits_trans_pr=Tradução para Português-Brasileiro:
 str_credits_thanks=Agradecimentos Especiais:
-
+str_credits_cityContest=Vencedores do Concurso:
 MonsterLockedBio=Você não encontrou esse monstro ainda. Jogue mais para desbloquea-lo depois!
 str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
 
