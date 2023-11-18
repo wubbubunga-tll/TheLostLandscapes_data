@@ -441,7 +441,7 @@ Monsters/Monster_glaishur_bio=Glaishur bio
 Monsters/Monster_galvana=Galvana
 Monsters/Monster_galvana_bio=Yearly, the celestial cycle repeats itself anew, and the final monster of the cycle is the glowing Galvana. Powerful and pristine, this thunderous celestial guides its perfect pantheon, whilst also composing complex crescendos! Now known to even posses the spark of life within its galvanizing orb, Galvana is a popular and much revered celestial from the City to the frontiers of the farthest realms… 
 Monsters/Monster_plixie=Plixie
-Monsters/Monster_plixie_bio=Plixie bio
+Monsters/Monster_plixie_bio=As autumn reaches its zenith, the plasmic Plixie returns to the stars above the Floating City, watching the young monsters who reside there. Having played an instrumental role in rescuing the monsters from a dying world, Plixie takes particular interest in the wellbeing of the little cuties, often delivering treats and new toys for the young monsters. When not on the city, Plixie takes many adventures throuought the Lost world, discovering strange places and peculiar destinations at every turn.
 Monsters/Monster_light=Loch-nitt
 Monsters/Monster_light_bio=How ludicrous! The lanky Loch-nitt is a truly strange being, with an impressive neck, and long legs- or are they arms? Nobody is quite sure, including the Loch-nitt itself; The lavender legend just calls them l'arms! When not questioning it's own existence, this monster mystery's passions include knitting neck socks, stumbling over just about anything, and passionately playing it's clumsy heart out on its lyrologs. It's always careful not to break the strings, as they're handmade by another knitting monster from a distant land.
 Monsters/Monster_bone=Amoniterium
@@ -595,7 +595,7 @@ Monsters/Monster_gobstomper_bio=It's said that Gobstompers are the toughest of c
 
 
 Monsters/Monster_claramel=Claramel
-Monsters/Monster_claramel_bio=Claramel bio
+Monsters/Monster_claramel_bio=The ever-shimmering Claramel is known for its caramelized form and playful tunes. But it wasn't always that way, and at one point it was in a liquid state, scathing and sticky. But an encounter with a Reedling inspired Claramel! It attached DIY cinnamon pipes to its tail and practiced tirelessly. Eventually the winds passing through froze its body in a crystalline dynamic splash that made it all the more memorable and beloved.
 
 Monsters/Monster_sprinklate=Sprinklate
 Monsters/Monster_sprinklate_bio=Cakehorn bio
