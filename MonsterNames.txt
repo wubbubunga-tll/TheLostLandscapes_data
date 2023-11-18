@@ -737,6 +737,11 @@ Uandme
 Eksowe
 Luvbirb
 ;
+Monsters/Monster_trox_young,Monsters/Monster_trox
+Rocky
+Rox
+TreeRex
+;
 Monsters/Monster_punkleton,Monsters/Monster_punkleton_young
 Bonesy
 Creepsworth
@@ -1273,7 +1278,7 @@ Thunker
 Docta Monsta
 Aggamemmon 
 Tydon 
-THE ZAAAH!
+THE ZAAAH
 ;
 Monsters/Knott_1
 Notr
