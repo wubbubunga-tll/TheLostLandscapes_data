@@ -9,7 +9,7 @@ ti_scene scene-d TI
 gm_scene scene-d GM
 
 monster_cataliszt entity-d Monsters/Monster_cataliszt
-monster_quibblegm entity Monsters/Monster_quibbleGM
+monster_quibblegm entity-d Monsters/Monster_quibbleGM
 
 
 
