@@ -281,19 +281,19 @@ Organ_path3 coins=850 0 0
 
 Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 
-Decoration/Decoration_test coins=100             xpWhenPlaced:100 2 0
-Decoration/Decoration_test1 coins=100             xpWhenPlaced:100 2 0
-Decoration/Decoration_test2 coins=300             xpWhenPlaced:100 5 0
-Decoration/Decoration_test3 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test4 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test5 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test6 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test7 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test8 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test9 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test10 coins=200             xpWhenPlaced:100 5 1
-Decoration/Decoration_test11 coins=200             xpWhenPlaced:100 5 0
-Decoration/Decoration_test12 coins=200             xpWhenPlaced:100 5 0
+Decoration/Decoration_test coins=100 xpWhenPlaced:100 2 0
+Decoration/Decoration_test1 coins=100 xpWhenPlaced:100 2 0
+Decoration/Decoration_test2 coins=300 xpWhenPlaced:100 5 0
+Decoration/Decoration_test3 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test4 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test5 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test6 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test7 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test8 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test9 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test10 coins=200 xpWhenPlaced:100 5 1
+Decoration/Decoration_test11 coins=200 xpWhenPlaced:100 5 0
+Decoration/Decoration_test12 coins=200 xpWhenPlaced:100 5 0
 
 Decoration/Decoration_knott coins=20000 xpWhenPlaced:100 0 0
 Decoration/Decoration_mors coins=15000 xpWhenPlaced:100 0 0
