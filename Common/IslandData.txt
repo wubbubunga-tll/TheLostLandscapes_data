@@ -4,10 +4,10 @@ Candy 4 Complete
 Knottshurr 10 Complete
 Organs 12 Complete
 Desert 15 Complete
-Meduza 20 Incomplete
 Calamity 20 Complete
-GM 20 Incomplete
+GM 18 Incomplete
 TI 0 Incomplete
+Meduza 25 Incomplete
 dream 0 Complete
 Minigame_Thumpies 0 Complete
 Minigame_stacking 0 Complete
