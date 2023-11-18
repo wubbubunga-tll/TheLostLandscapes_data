@@ -591,7 +591,8 @@ Monsters/Monster_brasscuit=Brasscuit
 Monsters/Monster_brasscuit_bio=Choccosour bio
 
 Monsters/Monster_gobstomper=Gobstomper
-Monsters/Monster_gobstomper_bio=Jawbreaker bio
+Monsters/Monster_gobstomper_bio=It's said that Gobstompers are the toughest of candy monsters. Their layered shells can withstand the highest of falls and the heaviest of punches without a single chip. Despite all that, the Gobstompers' personalities reflect their chewy, gummy interiors. They are always ready to help out around Candy Island, and wherever else they may roam. Still, from time to time they may yet find themselves eager for some friendly competition for who has the sturdiest crust with their hard-headed friends.
+
 
 Monsters/Monster_claramel=Claramel
 Monsters/Monster_claramel_bio=Claramel bio
