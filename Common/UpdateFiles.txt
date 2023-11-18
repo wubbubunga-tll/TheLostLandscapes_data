@@ -3,7 +3,7 @@ sdfghjkfgdfgfffffffffff78
 
 desert_midi midi
 desert_sound audio Desert
-monster_trox entity Monsters/Monster_trox
+monster_trox entity-d Monsters/Monster_trox
 
 desert_scene scene-d Desert
 ti_scene scene-d TI
