@@ -6,7 +6,7 @@ Organs 12 Complete
 Desert 15 Complete
 Calamity 20 Complete
 GM 17 Incomplete
-TI 0 Incomplete
+TI 16 Incomplete
 Meduza 25 Incomplete
 dream 0 Complete
 Minigame_Thumpies 0 Complete

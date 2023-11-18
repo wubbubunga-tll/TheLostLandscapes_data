@@ -737,7 +737,12 @@ Uandme
 Eksowe
 Luvbirb
 ;
-Monsters/Monster_punkleton
+Monsters/Monster_trox_young,Monsters/Monster_trox
+Rocky
+Rox
+TreeRex
+;
+Monsters/Monster_punkleton,Monsters/Monster_punkleton_young
 Bonesy
 Creepsworth
 Durdles
@@ -767,6 +772,10 @@ Padrayg
 Sham
 Sliabh
 Vernn
+CaAoob
+Sir Smunk
+Zapa
+Jackno-Lantern
 ;
 Monsters/Monster_scaratar
 Beetar
@@ -1236,6 +1245,11 @@ Treenie
 Trunkenstein
 Walter
 Mistahwite
+Pruhvezzir
+Rico
+Bleakurr
+Haizzen
+Beoaker
 ;
 Monsters/Monster_varrow_rare
 Bonessa
@@ -1261,6 +1275,10 @@ Neph
 Wardin
 Da' Zaaa
 Thunker
+Docta Monsta
+Aggamemmon 
+Tydon 
+THE ZAAAH
 ;
 Monsters/Knott_1
 Notr
@@ -1589,8 +1607,12 @@ Oculyre
 Slither
 Strummuck
 Tentapull
-Spaghett
 Vissca
+Hallughetti
+Slarp
+Al'Ceeyn
+Kaa
+Tanglnard
 ;
 Monsters/Monster_jobo
 Squashie
