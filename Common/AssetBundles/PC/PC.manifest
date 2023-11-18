@@ -1,25 +1,13 @@
 ManifestFileVersion: 0
-CRC: 3058844690
+CRC: 3399553155
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: monster_cataliszt
+      Name: desert_midi
       Dependencies: {}
     Info_1:
-      Name: monster_quibblegm
+      Name: monster_trox
       Dependencies: {}
     Info_2:
-      Name: gm_scene
-      Dependencies: {}
-    Info_3:
-      Name: gm_sounds
-      Dependencies: {}
-    Info_4:
-      Name: gm_midi
-      Dependencies: {}
-    Info_5:
-      Name: desert_scene
-      Dependencies: {}
-    Info_6:
-      Name: ti_scene
+      Name: desert_sound
       Dependencies: {}

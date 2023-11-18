@@ -1,15 +1,14 @@
 sdfghjkfgdfgfffffffffff
 
 
-gm_midi midi-d
-gm_sounds audio-d GM
+desert_midi midi
+desert_sound audio Desert
+monster_trox entity-d Monsters/Monster_trox
 
 desert_scene scene-d Desert
 ti_scene scene-d TI
 gm_scene scene-d GM
 
-monster_cataliszt entity-d Monsters/Monster_cataliszt
-monster_quibblegm entity-d Monsters/Monster_quibbleGM
 
 
 

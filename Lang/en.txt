@@ -59,6 +59,8 @@ Monsters/Monster_bridgit_young=Young Bridg-it
 Monsters/Monster_bridgit_young_bio=Young Bridg'its love bows, tiaras and anything that makes them look adorable, their hair is always well decorated and combed, however, they have such tiny arms, they can't do all this work by themselves! Luckily there is always a motherly Scaratar nearby who is willing to help them with their tangly issues.
 Monsters/Monster_frondley_young=Young Frondley
 Monsters/Monster_frondley_young_bio=Young Frondley bio
+Monsters/Monster_trox_young=Young T-Rox
+Monsters/Monster_trox_young_bio=Young T-Rox bio
 
 #BABY QUADS#
 Monsters/Monster_gloptic_young=Young Gloptic
@@ -131,6 +133,8 @@ Monsters/Monster_bridgit=Bridg-it
 Monsters/Monster_bridgit_bio=While stereotypes say trolls are generally cruel and live in basements, Bridg-it's quite the opposite. This melodic monster is one of the kindest one'll meet, constantly hosting tea parties, bridge building competitions, and much more. Well we think so, we havent seen it really do... anything besides those two things. 
 Monsters/Monster_frondley=Frondley
 Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
+Monsters/Monster_trox=T-Rox
+Monsters/Monster_trox_bio=T-Rox bio
 
 #ADULT OFFICIAL QUADS#
 Monsters/Monster_deedge=Deedge

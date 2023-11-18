@@ -414,6 +414,7 @@ Monsters/Monster_scaratar diamonds=3500
 Monsters/Monster_flootfly diamonds=75
 Monsters/Monster_furcorn diamonds=125
 Monsters/Monster_rootitoot diamonds=150
+Monsters/Monster_trox diamonds=150
 Monsters/Monster_spurrit_desert Vortex=1
 Monsters/Monster_bisonorus Vortex=1
 -
