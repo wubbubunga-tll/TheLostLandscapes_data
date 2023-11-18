@@ -5,7 +5,7 @@ Knottshurr 10 Complete
 Organs 12 Complete
 Desert 15 Complete
 Calamity 20 Complete
-GM 18 Incomplete
+GM 17 Incomplete
 TI 0 Incomplete
 Meduza 25 Incomplete
 dream 0 Complete
