@@ -90,6 +90,7 @@ Monsters/Monster_scaratar
 Monsters/Monster_flootfly
 Monsters/Monster_furcorn
 Monsters/Monster_rootitoot
+Monsters/Monster_trox
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
 ;
@@ -108,6 +109,13 @@ Monsters/Monster_plixie
 Monsters/Monster_reebro
 Monsters/Monster_wheezel
 Monsters/Monster_knurv
+;
+TI:
+Monsters/Monster_reedling_young_singer
+Monsters/Monster_quibble
+Monsters/Monster_oaktopus
+Monsters/Monster_loodvigg
+Monsters/Monster_spurrit
 ;
 Meduza:
 Monsters/Monster_mammott_meduza
@@ -166,4 +174,9 @@ Monsters/Monster_arackulele
 Monsters/Monster_punkleton
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
+;
+GM:
+Monsters/Monster_olga
+Monsters/Monster_potbellyGM
+Monsters/Monster_quibbleGM
 
