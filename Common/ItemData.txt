@@ -54,6 +54,6 @@ Jewel 33 ground
 Goldegg 4 ground
 Relic 10 ground
 ;
-CatBoi: 1 10
+CatBoi: 2 10
 Catfur 33 catfurSpawn
 ;
