@@ -8,6 +8,7 @@ Monsters/Monster_flootfly 70
 Monsters/Monster_oaktopus 70
 Monsters/Monster_oaktopus_rare 70 _rare
 Monsters/Monster_quibble 70
+Monsters/Monster_quibble_rare 70 _rare
 Monsters/Monster_dandidoo 70
 Monsters/Monster_wadee 65
 Monsters/Monster_likho 65
