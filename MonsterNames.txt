@@ -1,4 +1,4 @@
-﻿Monsters/Monster_likho_rare
+Monsters/Monster_likho_rare
 Likho-ad
 Barbatan
 Eyeren
@@ -1014,6 +1014,7 @@ Gummy Wonka
 Sstravbrie
 Chandler
 Shurrkropp
+Billy Bob
 ;
 Monsters/Monster_keytrus
 Lara
