@@ -84,6 +84,7 @@ Monsters/Monster_rootitoot= 0
 Monsters/Monster_flootfly= 0
 Monsters/Monster_spurrit_desert= 0
 Monsters/Monster_spurrit= 0
+Monsters/Monster_trox= 0
 Monsters/VOIDCORN_dream=Monsters/Monster_furcorn 0
 ;
 Organs 43200 10
